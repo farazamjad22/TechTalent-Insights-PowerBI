@@ -128,5 +128,5 @@ python generate_data.py
 
 ## 👤 Author
 
-**Faraz Amjad** — Software Engineer & MSc student in Robotics and Autonomous Systems  
+**Faraz Amjad** — Software Engineer  
 [farazamjad.de](https://farazamjad.de) · [LinkedIn](https://www.linkedin.com/in/farazamjad22) · [GitHub](https://github.com/farazamjad22)
