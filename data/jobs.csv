@@ -1,0 +1,1501 @@
+job_id,title,company_size,industry,country,city,remote_type,employment_type,experience_level,date_posted
+1,Software Engineer,Small (51-200),EdTech,Spain,Madrid,Remote,Part-time,Senior,2023-03-31
+2,Software Engineer,Startup (1-50),FinTech,Poland,Krakow,Remote,Full-time,Entry,2024-07-28
+3,Cloud Architect,Large (1001-5000),FinTech,Netherlands,Utrecht,Remote,Full-time,Executive,2023-06-13
+4,Backend Engineer,Small (51-200),HealthTech,Sweden,Gothenburg,Remote,Contract,Senior,2023-04-05
+5,Backend Engineer,Enterprise (5000+),Logistics,Switzerland,Zurich,Remote,Full-time,Senior,2024-07-03
+6,Data Engineer,Medium (201-1000),Consulting,United States,Austin,On-site,Full-time,Executive,2024-08-14
+7,Data Engineer,Small (51-200),SaaS,Netherlands,Utrecht,On-site,Working Student,Entry,2023-04-14
+8,DevOps Engineer,Small (51-200),Automotive,Switzerland,Geneva,Hybrid,Full-time,Senior,2024-12-19
+9,Data Engineer,Small (51-200),Logistics,Spain,Valencia,Hybrid,Full-time,Executive,2024-01-24
+10,Security Engineer,Small (51-200),FinTech,France,Toulouse,Hybrid,Contract,Executive,2023-08-23
+11,Frontend Engineer,Startup (1-50),Consulting,Germany,Hamburg,Remote,Working Student,Senior,2023-08-06
+12,Frontend Engineer,Small (51-200),EdTech,Spain,Barcelona,Remote,Full-time,Lead,2024-07-05
+13,Business Intelligence Analyst,Enterprise (5000+),E-Commerce,France,Toulouse,Hybrid,Full-time,Lead,2024-06-05
+14,Software Engineer,Small (51-200),Gaming,Australia,Sydney,Hybrid,Contract,Entry,2024-09-02
+15,Frontend Engineer,Large (1001-5000),FinTech,United States,Austin,Hybrid,Working Student,Executive,2024-11-27
+16,Cloud Architect,Medium (201-1000),Automotive,Sweden,Stockholm,On-site,Full-time,Executive,2024-03-21
+17,Software Engineer,Enterprise (5000+),HealthTech,United Kingdom,Bristol,On-site,Full-time,Senior,2024-10-02
+18,Product Manager,Small (51-200),EdTech,France,Toulouse,Remote,Contract,Executive,2024-06-27
+19,Backend Engineer,Startup (1-50),Automotive,Germany,Stuttgart,Remote,Full-time,Lead,2023-09-03
+20,Business Intelligence Analyst,Startup (1-50),EdTech,Germany,Munich,Hybrid,Contract,Entry,2023-05-09
+21,Product Manager,Medium (201-1000),SaaS,United Kingdom,Bristol,Hybrid,Full-time,Mid,2024-07-06
+22,Security Engineer,Large (1001-5000),Logistics,Sweden,Stockholm,On-site,Full-time,Senior,2024-06-13
+23,Machine Learning Engineer,Startup (1-50),SaaS,Australia,Sydney,Hybrid,Full-time,Mid,2024-08-25
+24,Data Engineer,Small (51-200),Consulting,Netherlands,Amsterdam,Remote,Full-time,Entry,2023-03-14
+25,iOS Developer,Small (51-200),Cybersecurity,India,Hyderabad,Hybrid,Part-time,Lead,2024-08-13
+26,DevOps Engineer,Small (51-200),Consulting,Australia,Sydney,Remote,Full-time,Lead,2024-03-09
+27,Security Engineer,Startup (1-50),HealthTech,Switzerland,Geneva,Remote,Part-time,Entry,2023-09-12
+28,Product Manager,Small (51-200),SaaS,Netherlands,Amsterdam,Hybrid,Full-time,Lead,2023-03-19
+29,Data Engineer,Enterprise (5000+),SaaS,Australia,Brisbane,On-site,Working Student,Entry,2023-06-20
+30,DevOps Engineer,Large (1001-5000),FinTech,Switzerland,Geneva,On-site,Full-time,Mid,2024-02-04
+31,iOS Developer,Enterprise (5000+),SaaS,France,Lyon,Hybrid,Full-time,Lead,2023-10-31
+32,Business Intelligence Analyst,Startup (1-50),Cybersecurity,Netherlands,Amsterdam,Hybrid,Full-time,Executive,2024-05-03
+33,Software Engineer,Startup (1-50),HealthTech,India,Hyderabad,On-site,Full-time,Executive,2024-11-22
+34,Data Engineer,Small (51-200),HealthTech,Netherlands,Rotterdam,Hybrid,Full-time,Executive,2024-03-05
+35,Business Intelligence Analyst,Medium (201-1000),Consulting,Spain,Valencia,On-site,Full-time,Executive,2023-09-02
+36,Data Analyst,Large (1001-5000),HealthTech,France,Lyon,Hybrid,Contract,Senior,2023-01-10
+37,Business Intelligence Analyst,Startup (1-50),E-Commerce,Australia,Brisbane,Hybrid,Full-time,Entry,2023-12-24
+38,Backend Engineer,Small (51-200),Automotive,United States,New York,Hybrid,Full-time,Senior,2024-09-18
+39,Software Engineer,Medium (201-1000),E-Commerce,Spain,Valencia,On-site,Full-time,Executive,2023-09-28
+40,Security Engineer,Small (51-200),Consulting,United States,San Francisco,Remote,Full-time,Executive,2023-07-28
+41,iOS Developer,Large (1001-5000),FinTech,Spain,Valencia,Remote,Working Student,Executive,2023-04-05
+42,iOS Developer,Startup (1-50),Automotive,Spain,Barcelona,Hybrid,Full-time,Entry,2023-06-15
+43,Product Manager,Enterprise (5000+),E-Commerce,Sweden,Gothenburg,Remote,Full-time,Lead,2024-07-12
+44,Business Intelligence Analyst,Small (51-200),Consulting,Germany,Hamburg,Hybrid,Full-time,Executive,2023-02-10
+45,Cloud Architect,Startup (1-50),Gaming,Canada,Toronto,Hybrid,Full-time,Mid,2024-09-27
+46,Machine Learning Engineer,Small (51-200),Consulting,Sweden,Stockholm,On-site,Full-time,Mid,2024-02-26
+47,Machine Learning Engineer,Small (51-200),FinTech,Spain,Valencia,On-site,Full-time,Senior,2024-04-26
+48,DevOps Engineer,Medium (201-1000),SaaS,Netherlands,Amsterdam,On-site,Contract,Senior,2023-01-25
+49,Frontend Engineer,Medium (201-1000),Automotive,Spain,Madrid,On-site,Working Student,Senior,2023-12-26
+50,Frontend Engineer,Medium (201-1000),Automotive,Spain,Valencia,On-site,Full-time,Executive,2023-07-02
+51,Software Engineer,Enterprise (5000+),Consulting,Poland,Krakow,Hybrid,Part-time,Entry,2024-03-22
+52,Data Engineer,Enterprise (5000+),Gaming,Poland,Wroclaw,Remote,Full-time,Lead,2023-01-02
+53,Backend Engineer,Startup (1-50),Cybersecurity,India,Hyderabad,On-site,Working Student,Lead,2023-11-18
+54,Security Engineer,Enterprise (5000+),Gaming,Spain,Madrid,Hybrid,Full-time,Senior,2024-12-14
+55,Data Analyst,Large (1001-5000),E-Commerce,France,Toulouse,Hybrid,Full-time,Mid,2024-09-22
+56,Frontend Engineer,Startup (1-50),Cybersecurity,Poland,Krakow,Hybrid,Full-time,Executive,2024-09-13
+57,DevOps Engineer,Large (1001-5000),E-Commerce,Spain,Barcelona,Hybrid,Full-time,Lead,2024-11-05
+58,Product Manager,Medium (201-1000),SaaS,United States,Seattle,Remote,Working Student,Executive,2024-11-19
+59,Machine Learning Engineer,Startup (1-50),Cybersecurity,France,Paris,Remote,Working Student,Mid,2023-03-16
+60,Cloud Architect,Small (51-200),Gaming,Australia,Melbourne,Hybrid,Full-time,Executive,2023-09-07
+61,Data Engineer,Small (51-200),EdTech,United Kingdom,London,Remote,Working Student,Lead,2024-04-20
+62,Machine Learning Engineer,Large (1001-5000),EdTech,Germany,Stuttgart,Remote,Full-time,Entry,2024-07-26
+63,DevOps Engineer,Enterprise (5000+),Logistics,Poland,Krakow,Hybrid,Working Student,Executive,2023-06-12
+64,DevOps Engineer,Small (51-200),EdTech,Sweden,Gothenburg,On-site,Full-time,Senior,2024-05-11
+65,iOS Developer,Startup (1-50),Consulting,Spain,Madrid,Hybrid,Full-time,Lead,2023-11-24
+66,Data Analyst,Small (51-200),SaaS,India,Bangalore,Hybrid,Full-time,Mid,2023-03-07
+67,Backend Engineer,Large (1001-5000),Gaming,Switzerland,Geneva,Hybrid,Full-time,Executive,2024-02-03
+68,Software Engineer,Large (1001-5000),Automotive,Poland,Wroclaw,Hybrid,Working Student,Executive,2024-02-04
+69,Security Engineer,Enterprise (5000+),Automotive,Switzerland,Basel,On-site,Full-time,Executive,2024-03-22
+70,Frontend Engineer,Large (1001-5000),E-Commerce,Australia,Sydney,Hybrid,Contract,Senior,2024-09-29
+71,Frontend Engineer,Enterprise (5000+),Gaming,India,Bangalore,Hybrid,Full-time,Executive,2023-05-19
+72,Software Engineer,Large (1001-5000),Consulting,Australia,Sydney,Hybrid,Full-time,Senior,2024-01-24
+73,iOS Developer,Large (1001-5000),Consulting,France,Lyon,Remote,Full-time,Entry,2023-08-18
+74,Cloud Architect,Startup (1-50),FinTech,Spain,Madrid,On-site,Full-time,Entry,2024-09-28
+75,Data Analyst,Startup (1-50),Automotive,United Kingdom,Manchester,Hybrid,Full-time,Lead,2024-01-13
+76,Data Analyst,Startup (1-50),Cybersecurity,United Kingdom,London,Hybrid,Working Student,Senior,2024-11-24
+77,Security Engineer,Startup (1-50),SaaS,Switzerland,Geneva,Hybrid,Contract,Mid,2023-04-15
+78,Cloud Architect,Startup (1-50),FinTech,Sweden,Gothenburg,On-site,Full-time,Executive,2023-12-22
+79,Cloud Architect,Startup (1-50),Gaming,India,Mumbai,Hybrid,Full-time,Senior,2024-05-16
+80,Backend Engineer,Small (51-200),Automotive,United States,Austin,Hybrid,Part-time,Lead,2024-09-22
+81,DevOps Engineer,Enterprise (5000+),HealthTech,India,Mumbai,Remote,Contract,Lead,2023-10-13
+82,DevOps Engineer,Enterprise (5000+),Logistics,Australia,Sydney,Hybrid,Full-time,Executive,2023-11-29
+83,Machine Learning Engineer,Medium (201-1000),Automotive,United Kingdom,Bristol,Hybrid,Contract,Senior,2024-07-23
+84,Machine Learning Engineer,Small (51-200),SaaS,Germany,Stuttgart,Hybrid,Full-time,Entry,2024-12-08
+85,Security Engineer,Large (1001-5000),SaaS,Australia,Brisbane,On-site,Full-time,Lead,2024-02-19
+86,iOS Developer,Medium (201-1000),Gaming,Sweden,Stockholm,Hybrid,Full-time,Executive,2024-07-17
+87,Security Engineer,Medium (201-1000),SaaS,Canada,Vancouver,Hybrid,Full-time,Lead,2023-11-20
+88,Security Engineer,Small (51-200),Cybersecurity,United States,Boston,Remote,Full-time,Mid,2024-06-21
+89,Data Engineer,Medium (201-1000),FinTech,Poland,Krakow,Remote,Full-time,Mid,2024-12-26
+90,iOS Developer,Startup (1-50),E-Commerce,India,Hyderabad,Hybrid,Full-time,Entry,2024-10-15
+91,Software Engineer,Medium (201-1000),E-Commerce,Australia,Sydney,Hybrid,Full-time,Executive,2023-02-22
+92,Data Engineer,Large (1001-5000),FinTech,France,Lyon,Hybrid,Full-time,Entry,2023-06-05
+93,Data Engineer,Startup (1-50),Cybersecurity,United Kingdom,Edinburgh,Hybrid,Full-time,Mid,2024-09-25
+94,Frontend Engineer,Large (1001-5000),Gaming,Netherlands,Utrecht,Remote,Full-time,Lead,2023-11-09
+95,Software Engineer,Startup (1-50),SaaS,Poland,Wroclaw,On-site,Full-time,Executive,2023-09-28
+96,Data Analyst,Small (51-200),Gaming,Spain,Madrid,Hybrid,Full-time,Mid,2024-04-06
+97,iOS Developer,Small (51-200),Logistics,Sweden,Gothenburg,Remote,Full-time,Entry,2023-03-14
+98,iOS Developer,Small (51-200),E-Commerce,Spain,Madrid,Hybrid,Full-time,Executive,2023-09-30
+99,Software Engineer,Medium (201-1000),Automotive,United Kingdom,London,Hybrid,Contract,Mid,2024-03-25
+100,Security Engineer,Large (1001-5000),Logistics,United States,Austin,On-site,Full-time,Senior,2024-03-24
+101,Software Engineer,Medium (201-1000),SaaS,United States,Boston,Hybrid,Full-time,Lead,2024-11-21
+102,Software Engineer,Enterprise (5000+),Logistics,Poland,Wroclaw,Remote,Contract,Senior,2024-06-15
+103,iOS Developer,Enterprise (5000+),HealthTech,Spain,Barcelona,Hybrid,Contract,Mid,2024-04-26
+104,Backend Engineer,Startup (1-50),Logistics,Canada,Vancouver,On-site,Full-time,Senior,2023-10-23
+105,Product Manager,Large (1001-5000),HealthTech,Spain,Barcelona,Remote,Full-time,Entry,2024-02-18
+106,Cloud Architect,Large (1001-5000),Consulting,India,Bangalore,Hybrid,Full-time,Executive,2024-09-29
+107,DevOps Engineer,Small (51-200),Automotive,Australia,Brisbane,Remote,Full-time,Entry,2024-03-24
+108,Data Engineer,Enterprise (5000+),Automotive,Sweden,Gothenburg,On-site,Part-time,Entry,2024-07-18
+109,Frontend Engineer,Small (51-200),Logistics,Germany,Stuttgart,On-site,Working Student,Entry,2023-05-01
+110,DevOps Engineer,Enterprise (5000+),Logistics,Spain,Madrid,Hybrid,Full-time,Senior,2024-04-28
+111,Product Manager,Large (1001-5000),E-Commerce,Netherlands,Rotterdam,Remote,Full-time,Mid,2023-03-13
+112,Backend Engineer,Medium (201-1000),Automotive,France,Lyon,On-site,Full-time,Executive,2024-08-24
+113,DevOps Engineer,Large (1001-5000),EdTech,Poland,Wroclaw,Hybrid,Full-time,Mid,2024-07-10
+114,Backend Engineer,Small (51-200),Gaming,Switzerland,Geneva,Hybrid,Full-time,Mid,2023-02-14
+115,DevOps Engineer,Large (1001-5000),E-Commerce,Canada,Montreal,On-site,Contract,Lead,2024-05-22
+116,Product Manager,Medium (201-1000),Logistics,Germany,Munich,On-site,Contract,Executive,2023-04-13
+117,Software Engineer,Large (1001-5000),HealthTech,India,Mumbai,On-site,Working Student,Mid,2024-04-25
+118,Business Intelligence Analyst,Startup (1-50),EdTech,France,Lyon,On-site,Contract,Lead,2024-01-25
+119,Security Engineer,Enterprise (5000+),Automotive,Canada,Montreal,Remote,Full-time,Lead,2023-08-21
+120,Frontend Engineer,Startup (1-50),FinTech,Sweden,Stockholm,Hybrid,Full-time,Entry,2023-02-17
+121,iOS Developer,Medium (201-1000),Gaming,Canada,Toronto,Hybrid,Full-time,Senior,2024-08-02
+122,Data Analyst,Startup (1-50),SaaS,Spain,Madrid,Hybrid,Full-time,Mid,2024-05-24
+123,Machine Learning Engineer,Medium (201-1000),Logistics,Poland,Warsaw,Hybrid,Full-time,Lead,2023-10-22
+124,Data Analyst,Large (1001-5000),Automotive,Spain,Valencia,On-site,Working Student,Entry,2024-10-16
+125,iOS Developer,Medium (201-1000),Logistics,Switzerland,Basel,Remote,Full-time,Lead,2023-04-20
+126,Business Intelligence Analyst,Enterprise (5000+),FinTech,Netherlands,Rotterdam,Remote,Full-time,Senior,2024-11-05
+127,Software Engineer,Startup (1-50),Automotive,Switzerland,Geneva,On-site,Part-time,Executive,2023-08-24
+128,Machine Learning Engineer,Enterprise (5000+),E-Commerce,Poland,Krakow,Remote,Contract,Mid,2024-10-05
+129,iOS Developer,Startup (1-50),HealthTech,United States,San Francisco,Hybrid,Part-time,Lead,2023-10-30
+130,Frontend Engineer,Small (51-200),Consulting,Canada,Montreal,Remote,Full-time,Mid,2024-06-27
+131,Data Analyst,Large (1001-5000),Consulting,India,Pune,On-site,Full-time,Senior,2023-04-28
+132,Data Analyst,Large (1001-5000),Consulting,Australia,Sydney,On-site,Contract,Mid,2023-04-03
+133,iOS Developer,Startup (1-50),Automotive,Switzerland,Zurich,Hybrid,Full-time,Executive,2024-08-21
+134,Backend Engineer,Small (51-200),EdTech,Switzerland,Basel,Hybrid,Full-time,Entry,2023-12-02
+135,Cloud Architect,Large (1001-5000),Gaming,Poland,Warsaw,On-site,Full-time,Entry,2023-04-30
+136,Software Engineer,Large (1001-5000),EdTech,United Kingdom,London,Remote,Full-time,Senior,2023-05-19
+137,Backend Engineer,Large (1001-5000),Gaming,Switzerland,Geneva,Hybrid,Part-time,Executive,2024-11-01
+138,Business Intelligence Analyst,Medium (201-1000),Logistics,United States,Austin,Remote,Full-time,Lead,2024-03-31
+139,Data Engineer,Enterprise (5000+),FinTech,Netherlands,Rotterdam,On-site,Full-time,Senior,2024-02-12
+140,Data Engineer,Startup (1-50),Cybersecurity,France,Paris,Hybrid,Full-time,Lead,2023-01-22
+141,Machine Learning Engineer,Enterprise (5000+),EdTech,Germany,Hamburg,Remote,Contract,Mid,2023-08-01
+142,Machine Learning Engineer,Small (51-200),Automotive,Poland,Warsaw,On-site,Full-time,Senior,2023-05-29
+143,Data Analyst,Startup (1-50),SaaS,United Kingdom,Edinburgh,Remote,Full-time,Entry,2024-08-25
+144,Data Analyst,Startup (1-50),HealthTech,Canada,Toronto,Remote,Full-time,Senior,2023-03-07
+145,Backend Engineer,Enterprise (5000+),Cybersecurity,Australia,Melbourne,Remote,Full-time,Executive,2023-02-14
+146,DevOps Engineer,Startup (1-50),Gaming,Sweden,Gothenburg,On-site,Contract,Entry,2024-12-03
+147,Security Engineer,Startup (1-50),E-Commerce,United States,Austin,On-site,Full-time,Lead,2023-03-09
+148,Business Intelligence Analyst,Enterprise (5000+),Cybersecurity,United Kingdom,Edinburgh,Hybrid,Full-time,Executive,2024-06-27
+149,Product Manager,Large (1001-5000),EdTech,France,Lyon,Remote,Part-time,Executive,2023-08-09
+150,Machine Learning Engineer,Medium (201-1000),HealthTech,Switzerland,Geneva,On-site,Full-time,Lead,2023-11-17
+151,Cloud Architect,Medium (201-1000),Logistics,Switzerland,Geneva,On-site,Full-time,Senior,2023-03-10
+152,Data Engineer,Startup (1-50),E-Commerce,United States,San Francisco,Hybrid,Full-time,Lead,2024-07-23
+153,Product Manager,Medium (201-1000),Gaming,Germany,Stuttgart,Hybrid,Full-time,Executive,2023-02-22
+154,iOS Developer,Startup (1-50),Logistics,France,Toulouse,Hybrid,Full-time,Senior,2023-08-18
+155,Product Manager,Startup (1-50),Gaming,United States,Seattle,On-site,Full-time,Senior,2024-07-28
+156,Cloud Architect,Startup (1-50),Automotive,Poland,Wroclaw,Hybrid,Full-time,Executive,2023-01-30
+157,Security Engineer,Medium (201-1000),E-Commerce,United Kingdom,Edinburgh,Hybrid,Full-time,Senior,2024-08-02
+158,Data Engineer,Startup (1-50),Gaming,Spain,Barcelona,Remote,Full-time,Mid,2024-03-05
+159,Data Analyst,Medium (201-1000),Cybersecurity,Australia,Melbourne,Hybrid,Contract,Senior,2024-09-02
+160,Data Analyst,Enterprise (5000+),Logistics,United States,San Francisco,Remote,Full-time,Mid,2024-11-08
+161,Business Intelligence Analyst,Large (1001-5000),HealthTech,Switzerland,Geneva,Remote,Contract,Lead,2023-12-20
+162,iOS Developer,Large (1001-5000),SaaS,Switzerland,Zurich,Hybrid,Full-time,Executive,2024-02-09
+163,Software Engineer,Medium (201-1000),Automotive,Poland,Warsaw,On-site,Contract,Mid,2023-10-24
+164,Software Engineer,Large (1001-5000),SaaS,Canada,Toronto,Remote,Full-time,Lead,2024-05-27
+165,Data Engineer,Startup (1-50),HealthTech,India,Pune,Hybrid,Full-time,Lead,2023-11-17
+166,Business Intelligence Analyst,Large (1001-5000),Consulting,Poland,Krakow,Remote,Full-time,Lead,2023-06-25
+167,Security Engineer,Startup (1-50),Gaming,Poland,Krakow,Hybrid,Full-time,Senior,2024-08-26
+168,Data Engineer,Medium (201-1000),E-Commerce,Switzerland,Basel,Hybrid,Full-time,Lead,2023-03-20
+169,Product Manager,Small (51-200),E-Commerce,India,Bangalore,On-site,Full-time,Executive,2023-08-30
+170,iOS Developer,Small (51-200),HealthTech,United States,New York,Hybrid,Contract,Mid,2023-07-01
+171,DevOps Engineer,Enterprise (5000+),Cybersecurity,Spain,Barcelona,Hybrid,Working Student,Executive,2024-10-20
+172,Backend Engineer,Small (51-200),Automotive,Spain,Valencia,Hybrid,Full-time,Senior,2023-10-09
+173,Backend Engineer,Startup (1-50),FinTech,Poland,Warsaw,Hybrid,Full-time,Executive,2024-01-13
+174,Cloud Architect,Enterprise (5000+),Cybersecurity,France,Paris,Hybrid,Full-time,Entry,2024-07-21
+175,DevOps Engineer,Small (51-200),E-Commerce,Sweden,Stockholm,Hybrid,Full-time,Executive,2023-03-05
+176,Backend Engineer,Enterprise (5000+),Logistics,Australia,Sydney,Hybrid,Full-time,Entry,2024-03-25
+177,Backend Engineer,Medium (201-1000),Cybersecurity,India,Hyderabad,Hybrid,Contract,Senior,2023-02-23
+178,Backend Engineer,Medium (201-1000),Automotive,Spain,Valencia,Remote,Full-time,Entry,2023-09-16
+179,Backend Engineer,Enterprise (5000+),Automotive,Sweden,Stockholm,Hybrid,Working Student,Entry,2024-11-02
+180,Data Analyst,Startup (1-50),Consulting,Sweden,Gothenburg,Hybrid,Full-time,Executive,2023-05-11
+181,Security Engineer,Startup (1-50),Consulting,Spain,Valencia,Hybrid,Full-time,Executive,2023-01-19
+182,Data Analyst,Medium (201-1000),SaaS,Canada,Vancouver,On-site,Full-time,Mid,2023-05-21
+183,iOS Developer,Enterprise (5000+),EdTech,United Kingdom,London,On-site,Contract,Entry,2023-02-08
+184,Business Intelligence Analyst,Enterprise (5000+),Cybersecurity,Spain,Barcelona,Hybrid,Full-time,Mid,2023-06-19
+185,Software Engineer,Medium (201-1000),Logistics,Sweden,Gothenburg,Hybrid,Full-time,Lead,2024-09-17
+186,DevOps Engineer,Enterprise (5000+),Logistics,France,Toulouse,Remote,Working Student,Mid,2023-07-18
+187,Business Intelligence Analyst,Large (1001-5000),EdTech,Canada,Montreal,On-site,Contract,Lead,2024-06-24
+188,Machine Learning Engineer,Small (51-200),Logistics,Switzerland,Zurich,On-site,Full-time,Executive,2024-01-16
+189,Security Engineer,Startup (1-50),Automotive,India,Bangalore,Remote,Contract,Executive,2024-04-05
+190,Frontend Engineer,Small (51-200),FinTech,India,Hyderabad,On-site,Contract,Entry,2024-02-29
+191,Product Manager,Small (51-200),SaaS,Germany,Frankfurt,Hybrid,Full-time,Senior,2023-01-29
+192,Security Engineer,Small (51-200),Logistics,Canada,Toronto,Remote,Full-time,Senior,2024-12-13
+193,DevOps Engineer,Startup (1-50),SaaS,United Kingdom,Bristol,On-site,Full-time,Executive,2023-06-03
+194,Data Engineer,Small (51-200),Gaming,India,Mumbai,Hybrid,Full-time,Senior,2024-10-16
+195,Data Engineer,Large (1001-5000),EdTech,Poland,Krakow,Hybrid,Full-time,Entry,2024-08-11
+196,Data Analyst,Large (1001-5000),Cybersecurity,Netherlands,Utrecht,Remote,Full-time,Senior,2024-03-02
+197,Product Manager,Startup (1-50),EdTech,United Kingdom,London,On-site,Full-time,Senior,2024-07-21
+198,DevOps Engineer,Large (1001-5000),FinTech,Germany,Frankfurt,On-site,Full-time,Entry,2024-01-01
+199,Machine Learning Engineer,Enterprise (5000+),FinTech,United States,Seattle,Hybrid,Full-time,Entry,2023-12-27
+200,Cloud Architect,Large (1001-5000),E-Commerce,India,Pune,On-site,Full-time,Mid,2023-05-19
+201,Software Engineer,Small (51-200),FinTech,United States,Austin,Remote,Full-time,Senior,2023-11-20
+202,Frontend Engineer,Large (1001-5000),SaaS,France,Toulouse,Remote,Contract,Executive,2023-10-20
+203,Cloud Architect,Medium (201-1000),Gaming,Canada,Toronto,Remote,Full-time,Senior,2024-03-26
+204,Data Analyst,Large (1001-5000),Automotive,Switzerland,Geneva,Hybrid,Contract,Lead,2023-03-26
+205,Data Engineer,Enterprise (5000+),Automotive,Sweden,Gothenburg,On-site,Full-time,Lead,2023-11-25
+206,Backend Engineer,Medium (201-1000),E-Commerce,United States,San Francisco,Hybrid,Part-time,Senior,2024-12-07
+207,DevOps Engineer,Medium (201-1000),FinTech,Australia,Melbourne,Hybrid,Full-time,Entry,2023-03-18
+208,Frontend Engineer,Enterprise (5000+),FinTech,Spain,Valencia,On-site,Full-time,Senior,2023-05-27
+209,DevOps Engineer,Small (51-200),Consulting,Poland,Wroclaw,Remote,Contract,Entry,2024-01-06
+210,Software Engineer,Small (51-200),Consulting,Switzerland,Basel,Hybrid,Working Student,Executive,2024-03-30
+211,Data Analyst,Medium (201-1000),SaaS,United States,Boston,Hybrid,Full-time,Executive,2023-04-27
+212,DevOps Engineer,Large (1001-5000),Automotive,Germany,Munich,On-site,Full-time,Executive,2024-12-21
+213,Business Intelligence Analyst,Large (1001-5000),HealthTech,Australia,Sydney,Remote,Full-time,Senior,2024-04-07
+214,Data Engineer,Medium (201-1000),Automotive,United Kingdom,Bristol,Hybrid,Full-time,Senior,2023-11-04
+215,Backend Engineer,Small (51-200),E-Commerce,United Kingdom,Manchester,Remote,Full-time,Executive,2023-08-31
+216,Backend Engineer,Enterprise (5000+),EdTech,Australia,Sydney,Hybrid,Contract,Executive,2023-05-13
+217,Data Engineer,Large (1001-5000),EdTech,Poland,Warsaw,On-site,Part-time,Senior,2024-02-25
+218,Data Engineer,Medium (201-1000),EdTech,Switzerland,Basel,Hybrid,Full-time,Mid,2023-12-19
+219,Data Analyst,Enterprise (5000+),HealthTech,United Kingdom,Manchester,On-site,Full-time,Lead,2024-06-14
+220,Data Analyst,Medium (201-1000),EdTech,United Kingdom,Edinburgh,On-site,Full-time,Mid,2023-10-18
+221,Machine Learning Engineer,Medium (201-1000),EdTech,United States,Seattle,Remote,Full-time,Executive,2023-04-06
+222,Business Intelligence Analyst,Small (51-200),Cybersecurity,India,Hyderabad,Remote,Full-time,Executive,2023-12-12
+223,Software Engineer,Startup (1-50),Automotive,Poland,Warsaw,On-site,Contract,Entry,2024-10-28
+224,Frontend Engineer,Startup (1-50),Automotive,Netherlands,Utrecht,Hybrid,Full-time,Executive,2024-10-19
+225,Machine Learning Engineer,Medium (201-1000),E-Commerce,France,Lyon,Hybrid,Full-time,Lead,2024-03-26
+226,DevOps Engineer,Medium (201-1000),Consulting,Switzerland,Geneva,Hybrid,Full-time,Mid,2023-12-20
+227,Backend Engineer,Enterprise (5000+),HealthTech,Switzerland,Zurich,Remote,Full-time,Executive,2023-10-01
+228,Data Analyst,Startup (1-50),Cybersecurity,Australia,Sydney,Remote,Full-time,Entry,2024-03-04
+229,Backend Engineer,Medium (201-1000),EdTech,Netherlands,Amsterdam,Remote,Full-time,Executive,2024-04-23
+230,DevOps Engineer,Startup (1-50),SaaS,Australia,Melbourne,On-site,Full-time,Entry,2023-08-09
+231,Software Engineer,Medium (201-1000),Logistics,Poland,Krakow,Hybrid,Contract,Entry,2023-10-20
+232,Data Engineer,Small (51-200),Gaming,India,Bangalore,On-site,Part-time,Lead,2024-01-10
+233,Software Engineer,Enterprise (5000+),HealthTech,Germany,Frankfurt,Remote,Full-time,Executive,2024-01-31
+234,Product Manager,Enterprise (5000+),HealthTech,India,Mumbai,Hybrid,Full-time,Senior,2024-02-08
+235,Product Manager,Small (51-200),EdTech,Canada,Vancouver,Remote,Full-time,Senior,2023-02-11
+236,Data Analyst,Large (1001-5000),EdTech,Germany,Berlin,Hybrid,Full-time,Senior,2023-05-24
+237,Backend Engineer,Large (1001-5000),Automotive,Canada,Montreal,On-site,Part-time,Mid,2024-08-30
+238,Product Manager,Large (1001-5000),FinTech,Canada,Montreal,Hybrid,Full-time,Executive,2024-01-13
+239,Data Engineer,Enterprise (5000+),FinTech,Canada,Montreal,Hybrid,Contract,Lead,2024-09-03
+240,Cloud Architect,Enterprise (5000+),Logistics,Australia,Melbourne,Remote,Full-time,Executive,2023-06-24
+241,Data Analyst,Startup (1-50),SaaS,India,Mumbai,Hybrid,Part-time,Mid,2023-01-20
+242,Frontend Engineer,Large (1001-5000),Cybersecurity,Australia,Melbourne,Hybrid,Full-time,Mid,2024-04-27
+243,Security Engineer,Enterprise (5000+),Logistics,Sweden,Stockholm,Remote,Full-time,Mid,2024-06-22
+244,Data Analyst,Enterprise (5000+),Automotive,Switzerland,Geneva,Hybrid,Full-time,Lead,2024-09-16
+245,Machine Learning Engineer,Enterprise (5000+),Automotive,Australia,Sydney,Remote,Working Student,Senior,2023-10-23
+246,Security Engineer,Medium (201-1000),Automotive,Sweden,Stockholm,Hybrid,Full-time,Lead,2023-10-22
+247,Cloud Architect,Large (1001-5000),Consulting,United States,Boston,On-site,Full-time,Executive,2023-05-30
+248,iOS Developer,Medium (201-1000),Logistics,France,Paris,On-site,Full-time,Entry,2023-08-08
+249,iOS Developer,Medium (201-1000),Cybersecurity,Netherlands,Utrecht,Remote,Full-time,Executive,2023-09-03
+250,Cloud Architect,Small (51-200),Gaming,Netherlands,Amsterdam,Hybrid,Full-time,Executive,2023-12-05
+251,Data Engineer,Startup (1-50),E-Commerce,Sweden,Gothenburg,On-site,Working Student,Mid,2024-02-21
+252,DevOps Engineer,Medium (201-1000),HealthTech,Spain,Barcelona,Hybrid,Full-time,Mid,2024-10-29
+253,Product Manager,Small (51-200),FinTech,Poland,Warsaw,Hybrid,Contract,Entry,2024-02-11
+254,Security Engineer,Startup (1-50),HealthTech,Australia,Sydney,Remote,Full-time,Senior,2023-12-10
+255,Cloud Architect,Enterprise (5000+),EdTech,France,Lyon,Hybrid,Working Student,Executive,2024-04-24
+256,Data Engineer,Small (51-200),E-Commerce,France,Paris,Hybrid,Full-time,Senior,2023-01-15
+257,iOS Developer,Small (51-200),Gaming,Sweden,Gothenburg,Remote,Contract,Executive,2024-03-13
+258,Data Engineer,Startup (1-50),Consulting,India,Pune,Remote,Full-time,Lead,2023-09-12
+259,Frontend Engineer,Large (1001-5000),Automotive,Germany,Hamburg,On-site,Working Student,Mid,2024-08-19
+260,iOS Developer,Small (51-200),Automotive,Sweden,Stockholm,Remote,Full-time,Senior,2023-06-13
+261,Product Manager,Startup (1-50),Consulting,Switzerland,Basel,Hybrid,Working Student,Senior,2024-09-21
+262,Data Analyst,Small (51-200),Consulting,Netherlands,Amsterdam,Hybrid,Working Student,Lead,2024-03-01
+263,Product Manager,Small (51-200),HealthTech,Sweden,Gothenburg,Hybrid,Full-time,Mid,2024-06-22
+264,Security Engineer,Startup (1-50),EdTech,Australia,Brisbane,On-site,Full-time,Senior,2024-06-01
+265,Product Manager,Small (51-200),HealthTech,Netherlands,Utrecht,Hybrid,Full-time,Mid,2024-11-27
+266,Business Intelligence Analyst,Startup (1-50),FinTech,Netherlands,Utrecht,On-site,Full-time,Lead,2024-04-09
+267,DevOps Engineer,Startup (1-50),Automotive,United Kingdom,Bristol,Hybrid,Full-time,Executive,2023-01-23
+268,Software Engineer,Enterprise (5000+),HealthTech,Switzerland,Geneva,Remote,Full-time,Mid,2024-07-08
+269,DevOps Engineer,Medium (201-1000),Gaming,Germany,Berlin,Hybrid,Contract,Entry,2024-01-19
+270,Frontend Engineer,Startup (1-50),EdTech,Switzerland,Geneva,Hybrid,Full-time,Lead,2023-05-17
+271,Data Engineer,Enterprise (5000+),SaaS,Spain,Barcelona,Hybrid,Full-time,Mid,2023-01-04
+272,DevOps Engineer,Large (1001-5000),SaaS,Germany,Hamburg,Hybrid,Contract,Executive,2024-04-16
+273,iOS Developer,Startup (1-50),Cybersecurity,Canada,Toronto,Remote,Full-time,Mid,2023-01-17
+274,Data Engineer,Enterprise (5000+),FinTech,Netherlands,Amsterdam,Remote,Full-time,Entry,2023-09-08
+275,Frontend Engineer,Small (51-200),FinTech,Sweden,Stockholm,Hybrid,Contract,Lead,2023-05-24
+276,Machine Learning Engineer,Medium (201-1000),Consulting,India,Pune,Hybrid,Contract,Executive,2023-08-31
+277,Cloud Architect,Small (51-200),EdTech,France,Paris,Hybrid,Full-time,Executive,2024-08-28
+278,Cloud Architect,Enterprise (5000+),Gaming,Sweden,Stockholm,Hybrid,Working Student,Lead,2024-06-21
+279,Frontend Engineer,Small (51-200),EdTech,Canada,Montreal,Remote,Full-time,Lead,2024-04-29
+280,iOS Developer,Large (1001-5000),Gaming,Netherlands,Amsterdam,On-site,Full-time,Mid,2024-07-24
+281,Frontend Engineer,Medium (201-1000),Logistics,India,Hyderabad,Remote,Full-time,Mid,2024-01-15
+282,Security Engineer,Startup (1-50),Cybersecurity,United States,Boston,Remote,Full-time,Mid,2023-02-10
+283,Business Intelligence Analyst,Small (51-200),Consulting,United States,New York,Hybrid,Contract,Executive,2023-11-07
+284,Machine Learning Engineer,Large (1001-5000),SaaS,Germany,Munich,On-site,Full-time,Entry,2024-02-11
+285,Backend Engineer,Large (1001-5000),Automotive,Netherlands,Utrecht,Hybrid,Full-time,Senior,2023-09-25
+286,DevOps Engineer,Startup (1-50),Consulting,Canada,Montreal,On-site,Part-time,Lead,2023-07-28
+287,Frontend Engineer,Enterprise (5000+),FinTech,Canada,Vancouver,On-site,Part-time,Entry,2023-09-25
+288,iOS Developer,Small (51-200),SaaS,India,Mumbai,Hybrid,Full-time,Mid,2024-05-26
+289,iOS Developer,Large (1001-5000),Consulting,India,Pune,Hybrid,Part-time,Lead,2023-06-23
+290,Data Analyst,Startup (1-50),HealthTech,United Kingdom,Bristol,Hybrid,Contract,Executive,2024-11-15
+291,Frontend Engineer,Small (51-200),SaaS,Germany,Berlin,Remote,Full-time,Mid,2024-06-01
+292,Software Engineer,Enterprise (5000+),FinTech,Australia,Melbourne,On-site,Full-time,Executive,2023-01-07
+293,Software Engineer,Enterprise (5000+),Automotive,India,Mumbai,Hybrid,Full-time,Entry,2023-01-18
+294,Data Analyst,Startup (1-50),Cybersecurity,India,Mumbai,Hybrid,Full-time,Entry,2024-06-23
+295,iOS Developer,Startup (1-50),Cybersecurity,France,Lyon,Hybrid,Full-time,Lead,2023-09-07
+296,iOS Developer,Startup (1-50),EdTech,Sweden,Stockholm,Remote,Full-time,Entry,2024-05-02
+297,Security Engineer,Startup (1-50),Consulting,Germany,Berlin,Hybrid,Full-time,Mid,2024-08-02
+298,Software Engineer,Small (51-200),Cybersecurity,United States,Boston,On-site,Full-time,Mid,2024-05-01
+299,Data Engineer,Enterprise (5000+),Consulting,France,Paris,Hybrid,Full-time,Senior,2023-01-17
+300,Data Analyst,Startup (1-50),Cybersecurity,Netherlands,Utrecht,Remote,Full-time,Lead,2024-02-03
+301,Backend Engineer,Small (51-200),HealthTech,Spain,Valencia,On-site,Full-time,Lead,2024-05-27
+302,Software Engineer,Large (1001-5000),Cybersecurity,Sweden,Gothenburg,Remote,Full-time,Entry,2024-09-20
+303,Backend Engineer,Medium (201-1000),SaaS,Poland,Krakow,On-site,Full-time,Entry,2023-12-31
+304,Frontend Engineer,Enterprise (5000+),Cybersecurity,India,Mumbai,Hybrid,Full-time,Mid,2023-10-30
+305,Data Engineer,Medium (201-1000),E-Commerce,Netherlands,Utrecht,Remote,Part-time,Entry,2024-02-03
+306,Data Engineer,Startup (1-50),Automotive,Canada,Vancouver,On-site,Full-time,Entry,2023-04-15
+307,Data Analyst,Large (1001-5000),HealthTech,United Kingdom,London,Hybrid,Full-time,Lead,2023-01-27
+308,Product Manager,Enterprise (5000+),Gaming,United States,Seattle,Hybrid,Full-time,Entry,2023-01-13
+309,Frontend Engineer,Enterprise (5000+),Cybersecurity,France,Lyon,On-site,Working Student,Entry,2024-06-17
+310,Data Analyst,Medium (201-1000),HealthTech,United Kingdom,Bristol,Hybrid,Full-time,Mid,2023-06-21
+311,Frontend Engineer,Large (1001-5000),SaaS,Switzerland,Geneva,On-site,Full-time,Senior,2024-10-02
+312,Business Intelligence Analyst,Large (1001-5000),Gaming,Australia,Brisbane,Remote,Full-time,Mid,2023-12-07
+313,Backend Engineer,Medium (201-1000),Cybersecurity,Poland,Krakow,Hybrid,Contract,Lead,2023-05-20
+314,Business Intelligence Analyst,Large (1001-5000),Consulting,France,Lyon,Hybrid,Working Student,Mid,2023-10-26
+315,Business Intelligence Analyst,Medium (201-1000),Gaming,Sweden,Gothenburg,Hybrid,Contract,Mid,2024-01-09
+316,Machine Learning Engineer,Enterprise (5000+),FinTech,United States,Boston,Remote,Contract,Executive,2024-04-17
+317,DevOps Engineer,Startup (1-50),Gaming,Sweden,Stockholm,On-site,Contract,Senior,2024-11-20
+318,Cloud Architect,Small (51-200),Gaming,Australia,Sydney,Remote,Full-time,Senior,2024-01-22
+319,Business Intelligence Analyst,Enterprise (5000+),Gaming,United States,Austin,Hybrid,Full-time,Lead,2024-07-10
+320,Security Engineer,Enterprise (5000+),SaaS,Germany,Hamburg,Hybrid,Full-time,Executive,2024-11-04
+321,Data Analyst,Startup (1-50),Gaming,Spain,Barcelona,Hybrid,Full-time,Executive,2023-12-06
+322,Software Engineer,Medium (201-1000),EdTech,Switzerland,Zurich,Remote,Part-time,Entry,2024-08-17
+323,DevOps Engineer,Large (1001-5000),EdTech,Sweden,Stockholm,Hybrid,Full-time,Senior,2023-06-04
+324,DevOps Engineer,Medium (201-1000),HealthTech,Canada,Toronto,Hybrid,Working Student,Entry,2023-05-26
+325,Backend Engineer,Small (51-200),HealthTech,Canada,Vancouver,Hybrid,Full-time,Lead,2024-03-24
+326,Backend Engineer,Medium (201-1000),FinTech,Sweden,Gothenburg,Remote,Part-time,Entry,2023-12-18
+327,Cloud Architect,Small (51-200),Consulting,Spain,Madrid,Hybrid,Full-time,Mid,2024-07-27
+328,Machine Learning Engineer,Small (51-200),Gaming,Switzerland,Geneva,Remote,Full-time,Lead,2023-01-30
+329,DevOps Engineer,Large (1001-5000),SaaS,Sweden,Stockholm,Hybrid,Part-time,Executive,2023-10-13
+330,Business Intelligence Analyst,Enterprise (5000+),Logistics,Sweden,Stockholm,Remote,Full-time,Entry,2023-04-27
+331,DevOps Engineer,Medium (201-1000),Cybersecurity,France,Toulouse,Hybrid,Full-time,Executive,2023-04-27
+332,DevOps Engineer,Small (51-200),Automotive,Canada,Vancouver,On-site,Part-time,Executive,2024-09-21
+333,Cloud Architect,Medium (201-1000),E-Commerce,Poland,Warsaw,Remote,Full-time,Mid,2024-01-18
+334,Product Manager,Large (1001-5000),Gaming,Sweden,Stockholm,Hybrid,Full-time,Lead,2023-07-10
+335,Product Manager,Enterprise (5000+),E-Commerce,Australia,Brisbane,Remote,Full-time,Mid,2023-11-19
+336,Software Engineer,Startup (1-50),Gaming,Australia,Brisbane,Hybrid,Full-time,Senior,2024-07-29
+337,Frontend Engineer,Large (1001-5000),E-Commerce,India,Mumbai,Hybrid,Full-time,Lead,2023-03-26
+338,Machine Learning Engineer,Startup (1-50),E-Commerce,Poland,Warsaw,Remote,Full-time,Senior,2024-04-13
+339,DevOps Engineer,Enterprise (5000+),EdTech,Poland,Wroclaw,Remote,Full-time,Executive,2024-01-11
+340,Security Engineer,Enterprise (5000+),SaaS,India,Bangalore,Remote,Full-time,Lead,2023-11-01
+341,iOS Developer,Startup (1-50),SaaS,Germany,Frankfurt,Hybrid,Working Student,Senior,2023-08-03
+342,Security Engineer,Large (1001-5000),SaaS,Sweden,Gothenburg,Remote,Full-time,Executive,2023-07-31
+343,Backend Engineer,Medium (201-1000),Automotive,Germany,Stuttgart,Hybrid,Full-time,Executive,2023-10-24
+344,Product Manager,Small (51-200),FinTech,Poland,Krakow,On-site,Contract,Entry,2023-10-11
+345,Security Engineer,Small (51-200),SaaS,Spain,Madrid,Remote,Full-time,Mid,2024-11-23
+346,Data Analyst,Medium (201-1000),HealthTech,Switzerland,Geneva,Hybrid,Full-time,Executive,2024-10-10
+347,Product Manager,Medium (201-1000),Cybersecurity,United States,Austin,Hybrid,Full-time,Senior,2023-01-03
+348,Security Engineer,Medium (201-1000),Gaming,Sweden,Stockholm,On-site,Contract,Lead,2023-08-12
+349,DevOps Engineer,Medium (201-1000),Cybersecurity,Switzerland,Zurich,On-site,Full-time,Senior,2023-05-14
+350,Backend Engineer,Startup (1-50),Logistics,Poland,Krakow,Remote,Contract,Entry,2023-01-17
+351,DevOps Engineer,Startup (1-50),E-Commerce,United States,New York,On-site,Full-time,Lead,2024-10-27
+352,iOS Developer,Medium (201-1000),E-Commerce,France,Paris,Remote,Full-time,Entry,2023-02-23
+353,iOS Developer,Large (1001-5000),FinTech,Switzerland,Basel,Hybrid,Part-time,Mid,2023-08-07
+354,Data Analyst,Small (51-200),FinTech,Australia,Sydney,Hybrid,Full-time,Executive,2024-12-13
+355,Frontend Engineer,Large (1001-5000),HealthTech,Canada,Toronto,Remote,Full-time,Mid,2023-04-16
+356,iOS Developer,Large (1001-5000),E-Commerce,Canada,Vancouver,On-site,Contract,Mid,2024-10-18
+357,Data Engineer,Enterprise (5000+),Logistics,Spain,Madrid,Remote,Full-time,Executive,2023-12-26
+358,Cloud Architect,Large (1001-5000),SaaS,Sweden,Stockholm,Hybrid,Full-time,Mid,2023-03-30
+359,Data Engineer,Large (1001-5000),E-Commerce,United States,New York,Hybrid,Full-time,Executive,2023-09-11
+360,Data Engineer,Enterprise (5000+),Automotive,France,Toulouse,Hybrid,Part-time,Mid,2024-12-08
+361,Machine Learning Engineer,Enterprise (5000+),Automotive,Germany,Hamburg,Hybrid,Part-time,Executive,2024-10-23
+362,DevOps Engineer,Startup (1-50),HealthTech,Germany,Munich,Remote,Full-time,Lead,2024-06-24
+363,Backend Engineer,Large (1001-5000),Consulting,Germany,Hamburg,On-site,Full-time,Mid,2024-07-13
+364,DevOps Engineer,Startup (1-50),SaaS,Spain,Madrid,Hybrid,Full-time,Entry,2023-02-10
+365,Product Manager,Enterprise (5000+),Gaming,Germany,Frankfurt,On-site,Full-time,Senior,2023-03-26
+366,Product Manager,Small (51-200),EdTech,Spain,Valencia,Remote,Full-time,Executive,2023-07-28
+367,Frontend Engineer,Startup (1-50),SaaS,United Kingdom,Edinburgh,Hybrid,Full-time,Executive,2023-03-01
+368,Frontend Engineer,Large (1001-5000),E-Commerce,Netherlands,Amsterdam,Hybrid,Full-time,Entry,2023-05-03
+369,Security Engineer,Small (51-200),EdTech,Germany,Munich,Hybrid,Full-time,Entry,2023-09-23
+370,Data Analyst,Startup (1-50),Gaming,United Kingdom,Edinburgh,On-site,Full-time,Senior,2023-10-06
+371,iOS Developer,Startup (1-50),FinTech,India,Bangalore,Hybrid,Full-time,Executive,2024-05-26
+372,Backend Engineer,Medium (201-1000),HealthTech,Poland,Warsaw,On-site,Contract,Mid,2023-08-22
+373,Software Engineer,Small (51-200),E-Commerce,Sweden,Stockholm,Remote,Full-time,Entry,2023-07-03
+374,Security Engineer,Small (51-200),Consulting,Germany,Stuttgart,Hybrid,Full-time,Lead,2023-10-05
+375,Backend Engineer,Enterprise (5000+),SaaS,United States,Boston,Hybrid,Full-time,Entry,2024-06-12
+376,Data Engineer,Medium (201-1000),HealthTech,Germany,Frankfurt,On-site,Full-time,Lead,2024-07-20
+377,Backend Engineer,Medium (201-1000),Cybersecurity,Australia,Sydney,Hybrid,Full-time,Mid,2023-09-06
+378,Business Intelligence Analyst,Small (51-200),SaaS,Australia,Melbourne,Hybrid,Full-time,Lead,2023-06-04
+379,Software Engineer,Enterprise (5000+),FinTech,Germany,Frankfurt,Hybrid,Contract,Mid,2023-12-10
+380,Security Engineer,Startup (1-50),Gaming,Germany,Frankfurt,Remote,Working Student,Senior,2024-05-18
+381,Security Engineer,Startup (1-50),EdTech,Germany,Munich,Remote,Full-time,Senior,2024-02-27
+382,DevOps Engineer,Enterprise (5000+),Gaming,Sweden,Gothenburg,Remote,Full-time,Entry,2023-03-18
+383,Software Engineer,Small (51-200),Consulting,Poland,Wroclaw,Remote,Full-time,Lead,2024-02-07
+384,Backend Engineer,Medium (201-1000),E-Commerce,Sweden,Gothenburg,Remote,Working Student,Lead,2024-08-21
+385,Data Engineer,Large (1001-5000),EdTech,United States,New York,Hybrid,Full-time,Mid,2024-01-02
+386,iOS Developer,Medium (201-1000),Automotive,Netherlands,Rotterdam,On-site,Full-time,Lead,2024-12-22
+387,Machine Learning Engineer,Small (51-200),Consulting,Sweden,Stockholm,Remote,Full-time,Senior,2024-02-10
+388,Cloud Architect,Medium (201-1000),Gaming,India,Bangalore,On-site,Full-time,Senior,2024-04-08
+389,Data Engineer,Startup (1-50),FinTech,India,Hyderabad,On-site,Full-time,Lead,2023-03-05
+390,Machine Learning Engineer,Medium (201-1000),HealthTech,Netherlands,Amsterdam,Hybrid,Working Student,Lead,2024-08-19
+391,Data Engineer,Startup (1-50),E-Commerce,Poland,Krakow,Remote,Full-time,Entry,2023-04-05
+392,Software Engineer,Startup (1-50),Gaming,Canada,Toronto,Remote,Full-time,Lead,2024-05-23
+393,Cloud Architect,Small (51-200),Automotive,Germany,Frankfurt,Hybrid,Working Student,Lead,2023-10-14
+394,Software Engineer,Enterprise (5000+),Logistics,Australia,Sydney,Hybrid,Full-time,Executive,2024-02-26
+395,Software Engineer,Medium (201-1000),EdTech,India,Mumbai,Hybrid,Full-time,Entry,2023-09-13
+396,Software Engineer,Medium (201-1000),Consulting,Spain,Valencia,Hybrid,Contract,Lead,2024-08-02
+397,Frontend Engineer,Small (51-200),FinTech,India,Pune,Remote,Full-time,Senior,2023-10-15
+398,Product Manager,Enterprise (5000+),HealthTech,Germany,Frankfurt,On-site,Working Student,Senior,2023-09-11
+399,iOS Developer,Startup (1-50),Cybersecurity,Spain,Madrid,On-site,Working Student,Executive,2024-02-02
+400,Data Analyst,Enterprise (5000+),Consulting,Canada,Toronto,Hybrid,Part-time,Mid,2024-08-28
+401,Business Intelligence Analyst,Small (51-200),Logistics,Germany,Hamburg,Hybrid,Full-time,Executive,2024-07-09
+402,DevOps Engineer,Startup (1-50),FinTech,France,Paris,Remote,Full-time,Entry,2024-06-23
+403,Backend Engineer,Small (51-200),E-Commerce,Australia,Sydney,On-site,Full-time,Executive,2023-11-28
+404,Data Analyst,Small (51-200),Consulting,Germany,Berlin,On-site,Contract,Executive,2023-03-16
+405,Cloud Architect,Enterprise (5000+),E-Commerce,Canada,Montreal,Remote,Full-time,Lead,2023-06-11
+406,Cloud Architect,Medium (201-1000),Cybersecurity,Sweden,Gothenburg,Remote,Working Student,Lead,2024-01-01
+407,Business Intelligence Analyst,Large (1001-5000),E-Commerce,Netherlands,Utrecht,Hybrid,Full-time,Mid,2023-07-01
+408,Security Engineer,Large (1001-5000),Cybersecurity,Sweden,Stockholm,On-site,Contract,Executive,2023-02-03
+409,Business Intelligence Analyst,Enterprise (5000+),Consulting,United Kingdom,Edinburgh,Remote,Full-time,Mid,2023-03-21
+410,Backend Engineer,Startup (1-50),Consulting,Netherlands,Rotterdam,On-site,Full-time,Mid,2024-04-02
+411,Machine Learning Engineer,Startup (1-50),FinTech,Germany,Hamburg,Hybrid,Contract,Mid,2023-02-19
+412,Security Engineer,Small (51-200),Gaming,Switzerland,Geneva,On-site,Full-time,Lead,2023-12-26
+413,Data Engineer,Enterprise (5000+),E-Commerce,India,Mumbai,Hybrid,Full-time,Lead,2024-04-07
+414,iOS Developer,Medium (201-1000),Consulting,United States,San Francisco,Remote,Full-time,Entry,2023-06-24
+415,Security Engineer,Enterprise (5000+),Consulting,Switzerland,Zurich,On-site,Working Student,Entry,2024-08-31
+416,Security Engineer,Large (1001-5000),Gaming,Poland,Krakow,On-site,Full-time,Entry,2023-06-10
+417,Backend Engineer,Small (51-200),EdTech,Germany,Berlin,Hybrid,Full-time,Mid,2023-09-29
+418,iOS Developer,Startup (1-50),Logistics,Spain,Barcelona,Remote,Full-time,Mid,2023-06-07
+419,Software Engineer,Startup (1-50),Cybersecurity,Germany,Hamburg,Remote,Full-time,Lead,2024-05-06
+420,Software Engineer,Small (51-200),Logistics,Netherlands,Amsterdam,Hybrid,Working Student,Mid,2023-04-29
+421,DevOps Engineer,Medium (201-1000),E-Commerce,France,Lyon,Remote,Full-time,Lead,2024-01-15
+422,Data Analyst,Startup (1-50),SaaS,Switzerland,Geneva,Remote,Full-time,Lead,2023-10-03
+423,Data Analyst,Startup (1-50),Gaming,Poland,Warsaw,Hybrid,Contract,Entry,2024-08-26
+424,Software Engineer,Enterprise (5000+),Logistics,Netherlands,Utrecht,Hybrid,Full-time,Lead,2024-08-09
+425,iOS Developer,Large (1001-5000),EdTech,Netherlands,Rotterdam,On-site,Part-time,Entry,2024-08-07
+426,Data Engineer,Small (51-200),SaaS,India,Hyderabad,On-site,Full-time,Lead,2023-07-17
+427,Frontend Engineer,Large (1001-5000),E-Commerce,United Kingdom,London,Remote,Contract,Entry,2024-09-01
+428,Security Engineer,Startup (1-50),Consulting,France,Lyon,Hybrid,Full-time,Entry,2023-10-10
+429,Software Engineer,Enterprise (5000+),Gaming,India,Mumbai,Hybrid,Full-time,Executive,2023-06-03
+430,Data Engineer,Startup (1-50),Consulting,United Kingdom,London,On-site,Contract,Executive,2024-02-25
+431,Cloud Architect,Enterprise (5000+),Automotive,France,Lyon,Hybrid,Full-time,Lead,2024-02-17
+432,Software Engineer,Medium (201-1000),Logistics,United Kingdom,Bristol,Hybrid,Full-time,Lead,2023-10-03
+433,Backend Engineer,Medium (201-1000),HealthTech,Canada,Toronto,Remote,Full-time,Senior,2023-08-22
+434,Security Engineer,Medium (201-1000),HealthTech,United Kingdom,Edinburgh,Remote,Full-time,Lead,2023-07-12
+435,Frontend Engineer,Enterprise (5000+),EdTech,Australia,Sydney,On-site,Contract,Lead,2023-06-12
+436,Security Engineer,Large (1001-5000),Cybersecurity,United States,Seattle,Remote,Contract,Executive,2023-01-30
+437,Machine Learning Engineer,Small (51-200),Consulting,United Kingdom,Manchester,Remote,Full-time,Entry,2024-12-22
+438,Backend Engineer,Enterprise (5000+),FinTech,Netherlands,Rotterdam,Hybrid,Working Student,Lead,2023-09-05
+439,Business Intelligence Analyst,Small (51-200),EdTech,Canada,Vancouver,On-site,Full-time,Lead,2023-12-25
+440,iOS Developer,Medium (201-1000),Cybersecurity,Canada,Toronto,Remote,Full-time,Entry,2023-08-08
+441,Machine Learning Engineer,Medium (201-1000),FinTech,Netherlands,Utrecht,Hybrid,Full-time,Mid,2024-04-30
+442,Business Intelligence Analyst,Small (51-200),Automotive,United Kingdom,Manchester,Remote,Contract,Entry,2024-12-30
+443,Frontend Engineer,Medium (201-1000),Automotive,Sweden,Gothenburg,Hybrid,Full-time,Lead,2024-11-24
+444,Business Intelligence Analyst,Startup (1-50),Consulting,India,Mumbai,Hybrid,Full-time,Entry,2024-07-28
+445,Business Intelligence Analyst,Medium (201-1000),Consulting,Spain,Valencia,Hybrid,Full-time,Senior,2023-10-11
+446,iOS Developer,Medium (201-1000),SaaS,Spain,Barcelona,Remote,Full-time,Senior,2023-02-28
+447,Cloud Architect,Small (51-200),Automotive,Poland,Krakow,Hybrid,Full-time,Senior,2023-09-23
+448,Frontend Engineer,Enterprise (5000+),SaaS,Switzerland,Geneva,Hybrid,Full-time,Entry,2023-12-18
+449,Cloud Architect,Large (1001-5000),EdTech,Sweden,Stockholm,On-site,Full-time,Executive,2023-11-04
+450,iOS Developer,Large (1001-5000),EdTech,United Kingdom,Manchester,Remote,Full-time,Entry,2023-07-07
+451,Cloud Architect,Small (51-200),Automotive,Spain,Barcelona,Hybrid,Part-time,Entry,2024-03-06
+452,iOS Developer,Medium (201-1000),FinTech,Canada,Vancouver,Hybrid,Full-time,Executive,2024-10-11
+453,Business Intelligence Analyst,Large (1001-5000),Gaming,Poland,Wroclaw,On-site,Full-time,Entry,2024-06-26
+454,Software Engineer,Small (51-200),Cybersecurity,France,Lyon,On-site,Full-time,Mid,2024-04-13
+455,Security Engineer,Startup (1-50),E-Commerce,United Kingdom,Edinburgh,Hybrid,Full-time,Mid,2023-11-17
+456,Software Engineer,Medium (201-1000),Cybersecurity,Spain,Madrid,Remote,Contract,Lead,2023-06-12
+457,Data Analyst,Large (1001-5000),Logistics,Australia,Sydney,Hybrid,Full-time,Executive,2024-01-28
+458,Product Manager,Medium (201-1000),EdTech,Germany,Berlin,On-site,Contract,Mid,2023-07-15
+459,Cloud Architect,Small (51-200),E-Commerce,Germany,Berlin,Hybrid,Full-time,Mid,2023-04-16
+460,Business Intelligence Analyst,Small (51-200),Automotive,Switzerland,Basel,Remote,Full-time,Senior,2024-04-11
+461,Frontend Engineer,Medium (201-1000),SaaS,Sweden,Gothenburg,On-site,Full-time,Mid,2023-06-18
+462,Machine Learning Engineer,Small (51-200),EdTech,Switzerland,Zurich,Remote,Full-time,Mid,2023-06-23
+463,Security Engineer,Large (1001-5000),EdTech,United States,Seattle,On-site,Full-time,Entry,2024-09-30
+464,Software Engineer,Startup (1-50),Logistics,Germany,Stuttgart,Remote,Full-time,Entry,2024-01-25
+465,iOS Developer,Small (51-200),FinTech,United States,Boston,Remote,Full-time,Lead,2023-11-05
+466,Data Engineer,Medium (201-1000),Gaming,Switzerland,Basel,Hybrid,Part-time,Executive,2023-04-18
+467,iOS Developer,Startup (1-50),Automotive,India,Bangalore,Hybrid,Full-time,Entry,2024-06-19
+468,Security Engineer,Medium (201-1000),SaaS,Netherlands,Rotterdam,Remote,Full-time,Lead,2024-12-05
+469,Machine Learning Engineer,Startup (1-50),Cybersecurity,Australia,Melbourne,Hybrid,Working Student,Entry,2024-11-16
+470,Data Engineer,Startup (1-50),Automotive,Australia,Sydney,Hybrid,Full-time,Executive,2024-10-21
+471,iOS Developer,Large (1001-5000),FinTech,Netherlands,Rotterdam,Remote,Contract,Senior,2023-10-25
+472,Backend Engineer,Startup (1-50),FinTech,Canada,Montreal,Remote,Contract,Lead,2023-01-10
+473,Backend Engineer,Large (1001-5000),HealthTech,United Kingdom,Manchester,On-site,Full-time,Senior,2024-01-17
+474,Data Engineer,Large (1001-5000),Gaming,Canada,Toronto,On-site,Full-time,Lead,2024-12-07
+475,Cloud Architect,Startup (1-50),E-Commerce,Australia,Melbourne,Remote,Part-time,Mid,2023-04-17
+476,DevOps Engineer,Large (1001-5000),Consulting,Switzerland,Basel,Remote,Full-time,Executive,2024-09-18
+477,DevOps Engineer,Startup (1-50),HealthTech,Germany,Munich,On-site,Full-time,Lead,2023-09-25
+478,Software Engineer,Enterprise (5000+),Consulting,Spain,Barcelona,Hybrid,Full-time,Executive,2024-06-15
+479,Frontend Engineer,Large (1001-5000),Gaming,India,Bangalore,Hybrid,Full-time,Mid,2023-06-02
+480,Software Engineer,Enterprise (5000+),E-Commerce,India,Bangalore,On-site,Contract,Mid,2023-03-18
+481,Machine Learning Engineer,Medium (201-1000),Gaming,Australia,Melbourne,Remote,Full-time,Senior,2024-02-17
+482,DevOps Engineer,Enterprise (5000+),Logistics,Netherlands,Amsterdam,Hybrid,Contract,Lead,2023-11-20
+483,Security Engineer,Startup (1-50),EdTech,United States,Austin,Hybrid,Full-time,Entry,2023-01-01
+484,Business Intelligence Analyst,Enterprise (5000+),Logistics,United States,Boston,Hybrid,Full-time,Senior,2023-12-16
+485,Machine Learning Engineer,Medium (201-1000),Logistics,Canada,Toronto,Hybrid,Full-time,Lead,2024-11-03
+486,DevOps Engineer,Startup (1-50),Consulting,Canada,Montreal,On-site,Full-time,Entry,2023-12-30
+487,Product Manager,Medium (201-1000),E-Commerce,Spain,Barcelona,Hybrid,Full-time,Executive,2024-05-19
+488,Data Engineer,Enterprise (5000+),Gaming,United Kingdom,Bristol,Remote,Full-time,Senior,2023-08-09
+489,Security Engineer,Startup (1-50),Cybersecurity,Australia,Sydney,On-site,Full-time,Senior,2023-05-07
+490,Cloud Architect,Enterprise (5000+),EdTech,Australia,Melbourne,Remote,Full-time,Executive,2023-02-19
+491,Business Intelligence Analyst,Enterprise (5000+),Cybersecurity,India,Mumbai,On-site,Working Student,Lead,2023-06-27
+492,Data Engineer,Enterprise (5000+),Gaming,Sweden,Stockholm,Hybrid,Full-time,Lead,2024-03-04
+493,Machine Learning Engineer,Large (1001-5000),Logistics,Poland,Wroclaw,On-site,Working Student,Senior,2023-05-17
+494,Business Intelligence Analyst,Medium (201-1000),Consulting,United Kingdom,Bristol,On-site,Full-time,Executive,2024-12-29
+495,Machine Learning Engineer,Enterprise (5000+),E-Commerce,Sweden,Stockholm,Hybrid,Full-time,Mid,2024-12-28
+496,Product Manager,Medium (201-1000),EdTech,Spain,Madrid,Hybrid,Contract,Executive,2024-05-06
+497,Cloud Architect,Enterprise (5000+),FinTech,Poland,Wroclaw,Remote,Contract,Lead,2024-06-19
+498,Frontend Engineer,Startup (1-50),E-Commerce,United States,San Francisco,Hybrid,Full-time,Mid,2023-10-21
+499,Data Analyst,Medium (201-1000),Consulting,Spain,Barcelona,Remote,Full-time,Entry,2024-04-08
+500,Cloud Architect,Small (51-200),SaaS,United States,Boston,Hybrid,Full-time,Executive,2024-06-07
+501,Security Engineer,Large (1001-5000),Consulting,Sweden,Gothenburg,Hybrid,Working Student,Entry,2024-07-19
+502,Security Engineer,Small (51-200),Logistics,Germany,Berlin,Hybrid,Contract,Senior,2023-08-19
+503,Security Engineer,Enterprise (5000+),SaaS,Spain,Valencia,Hybrid,Full-time,Senior,2023-10-29
+504,Cloud Architect,Small (51-200),HealthTech,Australia,Sydney,On-site,Part-time,Entry,2024-01-22
+505,iOS Developer,Medium (201-1000),Automotive,Germany,Frankfurt,Remote,Full-time,Executive,2023-01-06
+506,Security Engineer,Startup (1-50),FinTech,Canada,Vancouver,Remote,Full-time,Mid,2024-10-02
+507,iOS Developer,Enterprise (5000+),Consulting,Poland,Wroclaw,Hybrid,Full-time,Lead,2024-06-22
+508,Product Manager,Enterprise (5000+),Gaming,Netherlands,Amsterdam,Remote,Full-time,Entry,2023-04-05
+509,Machine Learning Engineer,Medium (201-1000),Cybersecurity,Canada,Toronto,Hybrid,Full-time,Senior,2024-06-27
+510,Cloud Architect,Startup (1-50),Cybersecurity,Australia,Brisbane,Hybrid,Full-time,Entry,2024-09-28
+511,Cloud Architect,Large (1001-5000),Gaming,Netherlands,Amsterdam,On-site,Working Student,Senior,2023-09-20
+512,Software Engineer,Medium (201-1000),Logistics,India,Pune,Hybrid,Full-time,Executive,2023-02-14
+513,Machine Learning Engineer,Enterprise (5000+),EdTech,France,Toulouse,Remote,Full-time,Senior,2024-06-30
+514,Machine Learning Engineer,Large (1001-5000),Gaming,Germany,Berlin,On-site,Full-time,Mid,2024-10-24
+515,Software Engineer,Medium (201-1000),E-Commerce,United States,New York,Remote,Full-time,Lead,2023-09-15
+516,Business Intelligence Analyst,Medium (201-1000),Gaming,India,Bangalore,Hybrid,Full-time,Mid,2024-03-19
+517,Frontend Engineer,Enterprise (5000+),HealthTech,Canada,Toronto,Remote,Part-time,Entry,2024-08-22
+518,Backend Engineer,Startup (1-50),Cybersecurity,Germany,Berlin,Remote,Full-time,Executive,2023-03-30
+519,Frontend Engineer,Startup (1-50),E-Commerce,France,Lyon,Hybrid,Full-time,Lead,2024-02-05
+520,Cloud Architect,Medium (201-1000),Consulting,India,Pune,Hybrid,Working Student,Mid,2023-01-12
+521,Data Engineer,Startup (1-50),EdTech,India,Hyderabad,Hybrid,Full-time,Entry,2023-03-29
+522,Security Engineer,Small (51-200),EdTech,France,Paris,Hybrid,Full-time,Senior,2023-05-26
+523,Machine Learning Engineer,Medium (201-1000),Cybersecurity,United Kingdom,Manchester,Remote,Full-time,Executive,2023-02-25
+524,Cloud Architect,Startup (1-50),HealthTech,India,Mumbai,Remote,Full-time,Executive,2023-07-22
+525,Backend Engineer,Small (51-200),Automotive,Sweden,Gothenburg,Hybrid,Full-time,Senior,2024-09-26
+526,Backend Engineer,Large (1001-5000),Cybersecurity,United States,New York,Hybrid,Full-time,Lead,2023-06-06
+527,Backend Engineer,Large (1001-5000),SaaS,Poland,Wroclaw,Remote,Full-time,Senior,2024-12-30
+528,iOS Developer,Small (51-200),Logistics,Sweden,Gothenburg,Hybrid,Full-time,Senior,2024-04-18
+529,iOS Developer,Enterprise (5000+),HealthTech,Australia,Melbourne,Remote,Full-time,Lead,2023-10-15
+530,iOS Developer,Startup (1-50),FinTech,United Kingdom,Manchester,On-site,Contract,Entry,2024-08-18
+531,Business Intelligence Analyst,Startup (1-50),EdTech,Poland,Krakow,Hybrid,Full-time,Mid,2024-04-28
+532,Backend Engineer,Small (51-200),Automotive,Spain,Madrid,On-site,Full-time,Lead,2023-05-18
+533,Product Manager,Large (1001-5000),SaaS,Australia,Brisbane,Hybrid,Full-time,Entry,2024-09-20
+534,Product Manager,Large (1001-5000),Cybersecurity,Spain,Madrid,Remote,Full-time,Mid,2024-11-06
+535,Backend Engineer,Small (51-200),Automotive,United Kingdom,Bristol,On-site,Full-time,Entry,2024-01-14
+536,Cloud Architect,Enterprise (5000+),Logistics,Netherlands,Amsterdam,On-site,Full-time,Mid,2024-04-10
+537,Cloud Architect,Startup (1-50),Automotive,Germany,Berlin,Hybrid,Full-time,Senior,2023-09-27
+538,Business Intelligence Analyst,Large (1001-5000),HealthTech,Poland,Wroclaw,Hybrid,Full-time,Mid,2024-06-13
+539,Machine Learning Engineer,Large (1001-5000),Logistics,France,Lyon,Hybrid,Contract,Executive,2024-05-08
+540,Product Manager,Large (1001-5000),Automotive,Poland,Warsaw,Remote,Full-time,Mid,2023-08-05
+541,Data Analyst,Enterprise (5000+),SaaS,United Kingdom,Manchester,Hybrid,Full-time,Senior,2024-02-29
+542,Data Engineer,Large (1001-5000),Gaming,Canada,Montreal,Hybrid,Full-time,Lead,2023-01-23
+543,Data Analyst,Enterprise (5000+),FinTech,Netherlands,Amsterdam,Remote,Full-time,Executive,2024-08-09
+544,Data Analyst,Small (51-200),Cybersecurity,United Kingdom,London,Hybrid,Full-time,Senior,2024-10-14
+545,Data Engineer,Large (1001-5000),Logistics,Germany,Hamburg,Hybrid,Full-time,Mid,2023-06-24
+546,Business Intelligence Analyst,Enterprise (5000+),EdTech,Netherlands,Rotterdam,On-site,Full-time,Mid,2023-09-28
+547,DevOps Engineer,Enterprise (5000+),E-Commerce,United Kingdom,Edinburgh,Remote,Full-time,Executive,2023-04-22
+548,Product Manager,Large (1001-5000),E-Commerce,Germany,Munich,On-site,Full-time,Executive,2024-05-02
+549,Software Engineer,Enterprise (5000+),E-Commerce,Poland,Wroclaw,On-site,Full-time,Executive,2024-09-09
+550,Cloud Architect,Enterprise (5000+),EdTech,India,Bangalore,Hybrid,Contract,Lead,2024-03-15
+551,Frontend Engineer,Enterprise (5000+),Cybersecurity,Netherlands,Rotterdam,On-site,Working Student,Senior,2023-04-11
+552,iOS Developer,Small (51-200),Cybersecurity,Switzerland,Zurich,On-site,Full-time,Lead,2024-07-10
+553,Machine Learning Engineer,Startup (1-50),FinTech,Switzerland,Geneva,Hybrid,Full-time,Entry,2024-01-20
+554,Security Engineer,Large (1001-5000),Cybersecurity,Spain,Madrid,Hybrid,Full-time,Senior,2023-09-17
+555,Frontend Engineer,Medium (201-1000),Gaming,France,Toulouse,Hybrid,Working Student,Executive,2023-07-28
+556,Product Manager,Small (51-200),Automotive,Switzerland,Basel,Hybrid,Full-time,Lead,2023-11-11
+557,Security Engineer,Small (51-200),SaaS,Poland,Krakow,On-site,Full-time,Lead,2024-04-02
+558,Data Engineer,Enterprise (5000+),EdTech,Sweden,Stockholm,Hybrid,Full-time,Mid,2024-09-20
+559,Data Analyst,Startup (1-50),Logistics,Sweden,Stockholm,On-site,Contract,Lead,2024-09-06
+560,Data Engineer,Small (51-200),Gaming,Switzerland,Zurich,Hybrid,Full-time,Senior,2024-02-15
+561,Product Manager,Enterprise (5000+),E-Commerce,Poland,Wroclaw,Remote,Contract,Senior,2024-10-17
+562,Software Engineer,Enterprise (5000+),Cybersecurity,Australia,Melbourne,Remote,Full-time,Mid,2024-06-06
+563,Business Intelligence Analyst,Startup (1-50),E-Commerce,India,Hyderabad,Hybrid,Full-time,Mid,2023-03-30
+564,Backend Engineer,Large (1001-5000),HealthTech,France,Lyon,Hybrid,Full-time,Lead,2023-04-03
+565,Security Engineer,Enterprise (5000+),Automotive,India,Pune,Hybrid,Working Student,Executive,2023-08-20
+566,DevOps Engineer,Enterprise (5000+),EdTech,Poland,Warsaw,Remote,Full-time,Lead,2023-04-20
+567,Product Manager,Medium (201-1000),Automotive,India,Bangalore,On-site,Contract,Senior,2024-07-04
+568,Security Engineer,Large (1001-5000),Consulting,Poland,Krakow,Hybrid,Contract,Lead,2024-04-14
+569,Business Intelligence Analyst,Large (1001-5000),SaaS,Spain,Barcelona,Remote,Full-time,Entry,2024-11-24
+570,Backend Engineer,Medium (201-1000),Automotive,Sweden,Stockholm,Hybrid,Full-time,Lead,2023-09-12
+571,Frontend Engineer,Startup (1-50),Consulting,France,Paris,Hybrid,Full-time,Senior,2023-12-29
+572,iOS Developer,Small (51-200),SaaS,Netherlands,Utrecht,Hybrid,Full-time,Mid,2023-09-29
+573,Machine Learning Engineer,Enterprise (5000+),HealthTech,Netherlands,Amsterdam,Hybrid,Contract,Mid,2023-03-22
+574,DevOps Engineer,Startup (1-50),FinTech,Spain,Valencia,On-site,Full-time,Executive,2024-05-08
+575,Backend Engineer,Enterprise (5000+),EdTech,Canada,Montreal,On-site,Full-time,Lead,2023-10-14
+576,Business Intelligence Analyst,Startup (1-50),EdTech,Switzerland,Zurich,Hybrid,Full-time,Mid,2023-02-03
+577,Frontend Engineer,Large (1001-5000),Logistics,India,Pune,On-site,Full-time,Mid,2023-11-20
+578,Software Engineer,Large (1001-5000),Cybersecurity,Sweden,Stockholm,Hybrid,Full-time,Mid,2023-09-23
+579,Machine Learning Engineer,Large (1001-5000),E-Commerce,United Kingdom,Edinburgh,On-site,Full-time,Senior,2024-05-25
+580,Frontend Engineer,Medium (201-1000),E-Commerce,Switzerland,Zurich,On-site,Full-time,Senior,2024-08-08
+581,Data Engineer,Small (51-200),SaaS,United Kingdom,Manchester,Hybrid,Contract,Senior,2023-05-30
+582,DevOps Engineer,Small (51-200),EdTech,Sweden,Stockholm,Hybrid,Full-time,Entry,2024-06-30
+583,DevOps Engineer,Medium (201-1000),Gaming,Sweden,Gothenburg,Hybrid,Full-time,Senior,2023-04-12
+584,Software Engineer,Medium (201-1000),Logistics,Sweden,Stockholm,Hybrid,Full-time,Mid,2023-12-09
+585,Backend Engineer,Enterprise (5000+),FinTech,France,Lyon,On-site,Full-time,Executive,2024-02-26
+586,Cloud Architect,Small (51-200),EdTech,United States,Seattle,Hybrid,Full-time,Executive,2023-06-28
+587,Backend Engineer,Large (1001-5000),HealthTech,France,Lyon,On-site,Full-time,Executive,2024-01-26
+588,DevOps Engineer,Small (51-200),Gaming,Poland,Krakow,Hybrid,Working Student,Mid,2024-10-08
+589,Frontend Engineer,Startup (1-50),Consulting,Poland,Wroclaw,Remote,Full-time,Entry,2024-10-30
+590,iOS Developer,Large (1001-5000),Consulting,France,Toulouse,Remote,Full-time,Executive,2024-08-24
+591,Frontend Engineer,Small (51-200),SaaS,India,Mumbai,On-site,Full-time,Mid,2024-11-08
+592,Security Engineer,Small (51-200),HealthTech,France,Toulouse,Remote,Full-time,Entry,2024-04-29
+593,Software Engineer,Enterprise (5000+),Automotive,India,Bangalore,On-site,Full-time,Lead,2024-09-24
+594,Cloud Architect,Medium (201-1000),Logistics,United Kingdom,London,Remote,Part-time,Lead,2024-10-03
+595,Product Manager,Startup (1-50),Consulting,United Kingdom,Manchester,Remote,Full-time,Mid,2024-05-02
+596,iOS Developer,Large (1001-5000),EdTech,Australia,Brisbane,Remote,Working Student,Executive,2023-07-01
+597,DevOps Engineer,Large (1001-5000),Automotive,Poland,Wroclaw,Hybrid,Full-time,Executive,2023-12-22
+598,Machine Learning Engineer,Large (1001-5000),E-Commerce,Australia,Brisbane,Hybrid,Full-time,Entry,2023-11-07
+599,Product Manager,Medium (201-1000),Logistics,Germany,Berlin,Remote,Full-time,Mid,2024-05-03
+600,Frontend Engineer,Enterprise (5000+),Consulting,France,Paris,Remote,Full-time,Senior,2023-07-13
+601,Frontend Engineer,Small (51-200),Gaming,Switzerland,Basel,Remote,Part-time,Lead,2024-01-23
+602,Data Engineer,Small (51-200),Cybersecurity,Netherlands,Rotterdam,Hybrid,Contract,Lead,2024-12-11
+603,iOS Developer,Medium (201-1000),E-Commerce,Spain,Barcelona,Hybrid,Contract,Executive,2023-05-20
+604,Cloud Architect,Enterprise (5000+),Logistics,France,Paris,Hybrid,Part-time,Lead,2023-07-12
+605,Data Analyst,Enterprise (5000+),Automotive,Canada,Toronto,Remote,Working Student,Entry,2023-10-03
+606,Security Engineer,Small (51-200),SaaS,United Kingdom,Bristol,Remote,Full-time,Entry,2023-12-17
+607,DevOps Engineer,Large (1001-5000),HealthTech,Switzerland,Geneva,Hybrid,Full-time,Senior,2023-05-30
+608,Frontend Engineer,Enterprise (5000+),Automotive,Germany,Hamburg,Hybrid,Full-time,Entry,2024-01-26
+609,Security Engineer,Large (1001-5000),FinTech,Germany,Berlin,On-site,Full-time,Mid,2023-07-23
+610,Data Engineer,Small (51-200),Automotive,Australia,Brisbane,Hybrid,Full-time,Executive,2023-11-27
+611,Security Engineer,Enterprise (5000+),Automotive,United Kingdom,London,Remote,Full-time,Executive,2023-07-23
+612,Cloud Architect,Startup (1-50),FinTech,Canada,Toronto,Remote,Full-time,Mid,2023-06-21
+613,Data Engineer,Small (51-200),Logistics,France,Toulouse,Remote,Full-time,Lead,2024-12-05
+614,Backend Engineer,Small (51-200),Cybersecurity,Poland,Warsaw,Remote,Full-time,Entry,2023-12-13
+615,Software Engineer,Small (51-200),E-Commerce,Spain,Madrid,Hybrid,Contract,Senior,2024-05-14
+616,Product Manager,Large (1001-5000),Gaming,Netherlands,Rotterdam,Hybrid,Full-time,Senior,2024-01-02
+617,iOS Developer,Large (1001-5000),EdTech,Sweden,Stockholm,Hybrid,Full-time,Entry,2024-12-14
+618,Business Intelligence Analyst,Enterprise (5000+),Automotive,Australia,Sydney,Hybrid,Part-time,Mid,2024-09-05
+619,Data Engineer,Small (51-200),EdTech,India,Hyderabad,Hybrid,Contract,Executive,2024-01-11
+620,Cloud Architect,Large (1001-5000),Cybersecurity,Australia,Sydney,Hybrid,Contract,Executive,2024-01-08
+621,Backend Engineer,Enterprise (5000+),Logistics,Poland,Warsaw,On-site,Full-time,Entry,2024-07-18
+622,Backend Engineer,Medium (201-1000),HealthTech,United Kingdom,Edinburgh,Remote,Full-time,Lead,2023-02-14
+623,Software Engineer,Startup (1-50),Cybersecurity,United Kingdom,Manchester,Hybrid,Full-time,Mid,2024-10-19
+624,DevOps Engineer,Enterprise (5000+),Consulting,Switzerland,Basel,Hybrid,Full-time,Executive,2023-08-15
+625,Data Engineer,Small (51-200),HealthTech,Poland,Wroclaw,Hybrid,Working Student,Entry,2024-04-24
+626,Backend Engineer,Large (1001-5000),FinTech,Spain,Madrid,On-site,Contract,Executive,2024-09-23
+627,Software Engineer,Medium (201-1000),EdTech,France,Toulouse,Remote,Full-time,Entry,2023-04-10
+628,Product Manager,Small (51-200),Cybersecurity,United States,New York,Remote,Full-time,Lead,2024-10-02
+629,Security Engineer,Enterprise (5000+),Gaming,United Kingdom,Bristol,Hybrid,Full-time,Entry,2023-04-17
+630,Product Manager,Enterprise (5000+),Cybersecurity,United Kingdom,Manchester,Hybrid,Full-time,Lead,2024-03-29
+631,Product Manager,Medium (201-1000),Consulting,Canada,Vancouver,Hybrid,Full-time,Senior,2024-09-15
+632,Product Manager,Large (1001-5000),Automotive,Netherlands,Utrecht,On-site,Working Student,Mid,2024-01-04
+633,Frontend Engineer,Startup (1-50),EdTech,Australia,Melbourne,On-site,Full-time,Entry,2023-05-19
+634,iOS Developer,Small (51-200),Automotive,France,Paris,On-site,Full-time,Mid,2024-07-20
+635,Data Engineer,Large (1001-5000),Consulting,India,Hyderabad,Hybrid,Full-time,Entry,2024-08-19
+636,iOS Developer,Startup (1-50),SaaS,Netherlands,Amsterdam,Hybrid,Full-time,Senior,2023-03-21
+637,DevOps Engineer,Large (1001-5000),Cybersecurity,Sweden,Gothenburg,On-site,Full-time,Mid,2023-04-08
+638,iOS Developer,Enterprise (5000+),Consulting,Poland,Wroclaw,Hybrid,Contract,Entry,2023-12-23
+639,Data Engineer,Enterprise (5000+),Gaming,Switzerland,Geneva,On-site,Full-time,Mid,2023-02-25
+640,Software Engineer,Enterprise (5000+),SaaS,France,Toulouse,Hybrid,Full-time,Senior,2023-06-06
+641,DevOps Engineer,Enterprise (5000+),Automotive,Germany,Frankfurt,Hybrid,Full-time,Executive,2024-02-08
+642,Backend Engineer,Large (1001-5000),Gaming,United Kingdom,Manchester,Hybrid,Full-time,Entry,2023-09-26
+643,Product Manager,Small (51-200),SaaS,United States,Austin,On-site,Full-time,Lead,2024-05-14
+644,Business Intelligence Analyst,Enterprise (5000+),SaaS,Switzerland,Basel,Hybrid,Part-time,Mid,2023-09-06
+645,Frontend Engineer,Enterprise (5000+),Gaming,United States,Seattle,Remote,Full-time,Senior,2024-01-10
+646,Backend Engineer,Enterprise (5000+),E-Commerce,Canada,Toronto,Hybrid,Contract,Senior,2023-12-25
+647,Business Intelligence Analyst,Large (1001-5000),SaaS,Poland,Krakow,Remote,Contract,Mid,2024-12-02
+648,Security Engineer,Startup (1-50),Cybersecurity,Canada,Toronto,Hybrid,Full-time,Entry,2023-06-01
+649,Backend Engineer,Medium (201-1000),SaaS,France,Paris,Hybrid,Full-time,Entry,2024-07-04
+650,Product Manager,Medium (201-1000),E-Commerce,Netherlands,Amsterdam,Hybrid,Full-time,Executive,2024-12-12
+651,Frontend Engineer,Enterprise (5000+),Automotive,Sweden,Stockholm,Remote,Full-time,Executive,2023-07-25
+652,Software Engineer,Startup (1-50),Consulting,Sweden,Gothenburg,Remote,Full-time,Lead,2023-04-21
+653,Cloud Architect,Small (51-200),HealthTech,Germany,Hamburg,On-site,Full-time,Lead,2023-11-20
+654,Product Manager,Small (51-200),EdTech,Australia,Brisbane,Remote,Working Student,Entry,2024-12-30
+655,Machine Learning Engineer,Medium (201-1000),E-Commerce,Germany,Berlin,Hybrid,Full-time,Executive,2023-01-19
+656,Backend Engineer,Medium (201-1000),EdTech,Canada,Montreal,Remote,Working Student,Senior,2023-10-10
+657,Frontend Engineer,Enterprise (5000+),Consulting,Germany,Hamburg,On-site,Full-time,Entry,2024-02-07
+658,Data Engineer,Enterprise (5000+),SaaS,Spain,Madrid,On-site,Full-time,Lead,2024-03-03
+659,Data Analyst,Medium (201-1000),EdTech,Netherlands,Utrecht,On-site,Full-time,Lead,2023-05-15
+660,Data Analyst,Enterprise (5000+),E-Commerce,Netherlands,Utrecht,Hybrid,Full-time,Executive,2023-11-13
+661,Frontend Engineer,Enterprise (5000+),EdTech,Sweden,Stockholm,On-site,Full-time,Mid,2024-06-29
+662,Data Analyst,Small (51-200),Gaming,Sweden,Stockholm,Hybrid,Contract,Senior,2024-02-26
+663,Security Engineer,Small (51-200),E-Commerce,France,Lyon,On-site,Full-time,Senior,2023-01-27
+664,iOS Developer,Enterprise (5000+),SaaS,Poland,Wroclaw,Hybrid,Full-time,Executive,2024-12-04
+665,Data Engineer,Small (51-200),Consulting,Germany,Hamburg,Hybrid,Full-time,Lead,2023-07-08
+666,DevOps Engineer,Small (51-200),FinTech,Switzerland,Geneva,Remote,Full-time,Mid,2023-10-04
+667,Security Engineer,Small (51-200),Logistics,Switzerland,Zurich,Remote,Working Student,Mid,2024-09-23
+668,Backend Engineer,Small (51-200),Cybersecurity,Australia,Brisbane,Hybrid,Contract,Lead,2024-01-25
+669,Frontend Engineer,Enterprise (5000+),FinTech,Sweden,Gothenburg,Hybrid,Full-time,Executive,2024-06-17
+670,DevOps Engineer,Small (51-200),FinTech,United States,Austin,Hybrid,Full-time,Entry,2024-07-25
+671,Cloud Architect,Small (51-200),Automotive,Switzerland,Basel,Remote,Full-time,Entry,2023-10-20
+672,Frontend Engineer,Enterprise (5000+),E-Commerce,Australia,Sydney,On-site,Full-time,Senior,2024-04-19
+673,Data Engineer,Startup (1-50),EdTech,Spain,Barcelona,Remote,Full-time,Executive,2023-05-19
+674,Backend Engineer,Startup (1-50),SaaS,Switzerland,Geneva,Remote,Full-time,Lead,2024-04-10
+675,Backend Engineer,Startup (1-50),Consulting,United States,Seattle,Remote,Part-time,Mid,2023-03-29
+676,Security Engineer,Enterprise (5000+),Gaming,India,Mumbai,On-site,Full-time,Executive,2023-02-14
+677,Business Intelligence Analyst,Small (51-200),FinTech,United Kingdom,Edinburgh,On-site,Full-time,Mid,2024-03-05
+678,Security Engineer,Medium (201-1000),E-Commerce,France,Lyon,Hybrid,Full-time,Lead,2023-07-27
+679,iOS Developer,Large (1001-5000),FinTech,Germany,Stuttgart,Hybrid,Full-time,Entry,2024-09-14
+680,Machine Learning Engineer,Large (1001-5000),Cybersecurity,Australia,Sydney,Hybrid,Full-time,Executive,2024-09-06
+681,Product Manager,Enterprise (5000+),SaaS,Germany,Munich,Hybrid,Contract,Senior,2023-02-20
+682,Software Engineer,Startup (1-50),Cybersecurity,United Kingdom,Manchester,Remote,Full-time,Senior,2024-09-09
+683,Data Engineer,Startup (1-50),Automotive,France,Lyon,Hybrid,Full-time,Entry,2024-09-17
+684,Security Engineer,Enterprise (5000+),Logistics,Spain,Valencia,On-site,Full-time,Executive,2024-08-15
+685,Data Engineer,Medium (201-1000),HealthTech,Canada,Toronto,Hybrid,Full-time,Senior,2024-03-13
+686,iOS Developer,Small (51-200),Consulting,India,Bangalore,Remote,Contract,Lead,2024-06-23
+687,Machine Learning Engineer,Enterprise (5000+),EdTech,Switzerland,Basel,Remote,Full-time,Mid,2023-03-31
+688,Security Engineer,Medium (201-1000),Automotive,Australia,Brisbane,Hybrid,Contract,Executive,2024-06-22
+689,Backend Engineer,Enterprise (5000+),Logistics,Poland,Wroclaw,Hybrid,Full-time,Mid,2024-05-19
+690,Security Engineer,Small (51-200),HealthTech,United Kingdom,Manchester,Remote,Full-time,Senior,2023-08-01
+691,Frontend Engineer,Medium (201-1000),SaaS,Poland,Krakow,Hybrid,Contract,Entry,2023-01-12
+692,Security Engineer,Medium (201-1000),EdTech,Spain,Madrid,On-site,Full-time,Senior,2024-07-17
+693,Data Engineer,Medium (201-1000),FinTech,Canada,Toronto,Hybrid,Full-time,Senior,2023-06-29
+694,Backend Engineer,Large (1001-5000),Logistics,Netherlands,Rotterdam,On-site,Full-time,Lead,2023-06-09
+695,Product Manager,Large (1001-5000),FinTech,Spain,Barcelona,On-site,Full-time,Senior,2024-06-17
+696,Security Engineer,Enterprise (5000+),Consulting,France,Toulouse,Hybrid,Full-time,Senior,2023-12-29
+697,iOS Developer,Medium (201-1000),E-Commerce,United States,New York,On-site,Full-time,Entry,2024-08-07
+698,Data Analyst,Startup (1-50),Consulting,Poland,Krakow,On-site,Contract,Executive,2024-12-27
+699,Frontend Engineer,Large (1001-5000),Automotive,Germany,Hamburg,On-site,Full-time,Entry,2023-08-10
+700,Data Analyst,Medium (201-1000),HealthTech,India,Pune,On-site,Contract,Entry,2024-03-30
+701,DevOps Engineer,Small (51-200),EdTech,India,Bangalore,Remote,Working Student,Executive,2023-11-14
+702,Data Engineer,Small (51-200),Gaming,Canada,Toronto,Remote,Full-time,Executive,2024-12-31
+703,Software Engineer,Startup (1-50),HealthTech,India,Bangalore,Hybrid,Full-time,Senior,2023-12-08
+704,Data Engineer,Medium (201-1000),SaaS,Australia,Sydney,Remote,Contract,Executive,2023-11-25
+705,iOS Developer,Enterprise (5000+),HealthTech,Netherlands,Amsterdam,Hybrid,Full-time,Senior,2023-10-07
+706,iOS Developer,Startup (1-50),HealthTech,United Kingdom,Manchester,On-site,Full-time,Entry,2023-07-31
+707,Product Manager,Medium (201-1000),Automotive,India,Pune,Remote,Part-time,Senior,2024-08-10
+708,Data Engineer,Enterprise (5000+),FinTech,Netherlands,Amsterdam,On-site,Full-time,Senior,2023-05-14
+709,Cloud Architect,Startup (1-50),Gaming,Germany,Frankfurt,Hybrid,Full-time,Entry,2023-07-03
+710,Business Intelligence Analyst,Medium (201-1000),EdTech,Sweden,Gothenburg,Hybrid,Full-time,Senior,2023-03-22
+711,Data Analyst,Large (1001-5000),Logistics,Australia,Brisbane,Remote,Full-time,Entry,2024-04-26
+712,Data Analyst,Medium (201-1000),Consulting,Netherlands,Amsterdam,On-site,Full-time,Executive,2023-11-29
+713,Software Engineer,Large (1001-5000),E-Commerce,Australia,Melbourne,Remote,Full-time,Entry,2023-10-17
+714,Business Intelligence Analyst,Enterprise (5000+),HealthTech,Canada,Montreal,Remote,Contract,Mid,2023-11-30
+715,iOS Developer,Large (1001-5000),Cybersecurity,India,Bangalore,Hybrid,Full-time,Executive,2023-09-07
+716,DevOps Engineer,Startup (1-50),Cybersecurity,India,Hyderabad,Hybrid,Contract,Lead,2024-03-17
+717,Backend Engineer,Small (51-200),Cybersecurity,Switzerland,Basel,Remote,Full-time,Executive,2024-05-13
+718,Business Intelligence Analyst,Medium (201-1000),E-Commerce,United States,Boston,Hybrid,Contract,Lead,2023-11-12
+719,Business Intelligence Analyst,Enterprise (5000+),Logistics,Switzerland,Zurich,On-site,Full-time,Entry,2024-10-22
+720,Data Engineer,Small (51-200),FinTech,Spain,Madrid,On-site,Working Student,Mid,2023-05-31
+721,DevOps Engineer,Medium (201-1000),SaaS,Spain,Madrid,Hybrid,Full-time,Executive,2023-07-30
+722,iOS Developer,Medium (201-1000),Consulting,Spain,Barcelona,On-site,Working Student,Executive,2023-04-02
+723,Business Intelligence Analyst,Large (1001-5000),FinTech,Poland,Warsaw,On-site,Contract,Executive,2024-01-14
+724,Software Engineer,Medium (201-1000),FinTech,India,Bangalore,Remote,Full-time,Executive,2023-08-29
+725,Business Intelligence Analyst,Medium (201-1000),Gaming,Switzerland,Basel,Hybrid,Full-time,Lead,2024-07-12
+726,Data Analyst,Small (51-200),Consulting,Netherlands,Utrecht,Remote,Full-time,Lead,2024-03-03
+727,Cloud Architect,Small (51-200),E-Commerce,United Kingdom,Edinburgh,Remote,Full-time,Mid,2024-05-13
+728,Data Analyst,Small (51-200),Logistics,Spain,Barcelona,Hybrid,Full-time,Entry,2024-12-13
+729,Business Intelligence Analyst,Large (1001-5000),Logistics,Poland,Krakow,Hybrid,Full-time,Mid,2024-01-29
+730,Data Analyst,Enterprise (5000+),SaaS,Canada,Toronto,Remote,Full-time,Lead,2024-12-30
+731,Frontend Engineer,Enterprise (5000+),Cybersecurity,India,Pune,Hybrid,Working Student,Executive,2024-05-09
+732,Data Engineer,Large (1001-5000),EdTech,Sweden,Gothenburg,On-site,Full-time,Executive,2023-10-14
+733,Data Engineer,Enterprise (5000+),HealthTech,Australia,Brisbane,Remote,Full-time,Executive,2024-12-01
+734,Business Intelligence Analyst,Enterprise (5000+),FinTech,Spain,Valencia,Remote,Full-time,Senior,2024-04-25
+735,DevOps Engineer,Medium (201-1000),Automotive,Australia,Brisbane,Hybrid,Working Student,Executive,2023-10-24
+736,Security Engineer,Medium (201-1000),FinTech,United Kingdom,London,Hybrid,Full-time,Executive,2024-10-06
+737,Data Analyst,Startup (1-50),Cybersecurity,Australia,Brisbane,Hybrid,Full-time,Executive,2023-01-28
+738,Data Engineer,Enterprise (5000+),Automotive,France,Lyon,Remote,Contract,Mid,2023-05-16
+739,iOS Developer,Startup (1-50),Cybersecurity,Poland,Krakow,Hybrid,Full-time,Senior,2023-06-04
+740,Backend Engineer,Medium (201-1000),E-Commerce,Spain,Barcelona,On-site,Full-time,Mid,2024-06-24
+741,Data Engineer,Enterprise (5000+),Logistics,Germany,Hamburg,On-site,Full-time,Mid,2024-02-27
+742,Cloud Architect,Small (51-200),Consulting,Switzerland,Zurich,Remote,Part-time,Lead,2023-02-25
+743,Data Engineer,Small (51-200),Logistics,Spain,Barcelona,Hybrid,Full-time,Entry,2024-06-29
+744,Cloud Architect,Large (1001-5000),Gaming,Netherlands,Rotterdam,Remote,Full-time,Lead,2023-01-13
+745,Frontend Engineer,Enterprise (5000+),EdTech,France,Lyon,Hybrid,Full-time,Senior,2024-10-14
+746,Business Intelligence Analyst,Medium (201-1000),Automotive,Canada,Vancouver,Remote,Contract,Senior,2024-11-01
+747,DevOps Engineer,Enterprise (5000+),E-Commerce,Poland,Krakow,On-site,Full-time,Mid,2023-11-17
+748,Cloud Architect,Startup (1-50),HealthTech,India,Bangalore,Remote,Full-time,Entry,2024-12-02
+749,Machine Learning Engineer,Medium (201-1000),HealthTech,Australia,Melbourne,Remote,Full-time,Senior,2023-02-28
+750,Machine Learning Engineer,Startup (1-50),Cybersecurity,Poland,Wroclaw,Hybrid,Full-time,Executive,2023-05-14
+751,Cloud Architect,Small (51-200),Automotive,Switzerland,Basel,On-site,Full-time,Executive,2023-10-29
+752,Data Engineer,Medium (201-1000),Consulting,Australia,Brisbane,On-site,Full-time,Lead,2023-09-21
+753,iOS Developer,Large (1001-5000),Automotive,United Kingdom,London,Hybrid,Working Student,Entry,2023-09-29
+754,Data Engineer,Small (51-200),Logistics,United Kingdom,Bristol,Hybrid,Full-time,Lead,2023-04-22
+755,Machine Learning Engineer,Startup (1-50),HealthTech,United Kingdom,Bristol,On-site,Part-time,Executive,2023-02-05
+756,Business Intelligence Analyst,Large (1001-5000),FinTech,United States,San Francisco,Remote,Full-time,Senior,2023-02-08
+757,iOS Developer,Medium (201-1000),EdTech,Spain,Barcelona,On-site,Full-time,Mid,2024-12-25
+758,Frontend Engineer,Startup (1-50),Logistics,Australia,Melbourne,Hybrid,Full-time,Lead,2023-05-05
+759,Backend Engineer,Medium (201-1000),HealthTech,Poland,Wroclaw,Hybrid,Full-time,Senior,2024-01-10
+760,Data Engineer,Medium (201-1000),FinTech,India,Pune,Hybrid,Full-time,Lead,2024-01-29
+761,iOS Developer,Startup (1-50),HealthTech,Spain,Madrid,Hybrid,Full-time,Lead,2024-10-09
+762,Machine Learning Engineer,Startup (1-50),Cybersecurity,Australia,Brisbane,Remote,Part-time,Mid,2023-09-02
+763,Data Engineer,Medium (201-1000),Logistics,Australia,Melbourne,Hybrid,Working Student,Executive,2023-01-17
+764,Software Engineer,Startup (1-50),EdTech,Germany,Hamburg,Hybrid,Full-time,Senior,2024-04-14
+765,Data Analyst,Small (51-200),E-Commerce,Spain,Valencia,On-site,Full-time,Executive,2024-05-15
+766,DevOps Engineer,Startup (1-50),FinTech,Spain,Madrid,Remote,Full-time,Executive,2023-06-26
+767,iOS Developer,Large (1001-5000),HealthTech,Spain,Madrid,Hybrid,Contract,Entry,2023-04-19
+768,Business Intelligence Analyst,Small (51-200),Consulting,United States,Austin,Remote,Full-time,Executive,2024-11-25
+769,Data Engineer,Enterprise (5000+),SaaS,Switzerland,Geneva,Remote,Contract,Executive,2023-02-16
+770,Backend Engineer,Startup (1-50),E-Commerce,Poland,Warsaw,Remote,Contract,Entry,2024-12-14
+771,Data Analyst,Small (51-200),HealthTech,Canada,Montreal,On-site,Full-time,Lead,2024-10-09
+772,Data Analyst,Large (1001-5000),HealthTech,Poland,Krakow,Remote,Full-time,Entry,2024-12-24
+773,iOS Developer,Large (1001-5000),Automotive,Spain,Valencia,Hybrid,Full-time,Lead,2024-06-19
+774,Machine Learning Engineer,Enterprise (5000+),Logistics,Australia,Melbourne,Hybrid,Full-time,Mid,2024-09-18
+775,Backend Engineer,Startup (1-50),EdTech,United States,Seattle,Hybrid,Full-time,Lead,2023-04-08
+776,Product Manager,Small (51-200),SaaS,Poland,Krakow,Hybrid,Full-time,Executive,2023-10-11
+777,Data Engineer,Large (1001-5000),FinTech,Germany,Munich,Hybrid,Full-time,Mid,2023-02-25
+778,iOS Developer,Large (1001-5000),Logistics,Spain,Barcelona,Remote,Full-time,Mid,2023-02-14
+779,Product Manager,Small (51-200),HealthTech,United States,San Francisco,On-site,Full-time,Mid,2023-03-14
+780,DevOps Engineer,Enterprise (5000+),Consulting,Netherlands,Utrecht,Hybrid,Full-time,Executive,2023-08-24
+781,Machine Learning Engineer,Small (51-200),Gaming,United States,Seattle,Hybrid,Contract,Entry,2023-08-14
+782,Business Intelligence Analyst,Startup (1-50),Cybersecurity,United States,Austin,On-site,Full-time,Lead,2024-04-10
+783,Backend Engineer,Large (1001-5000),Automotive,United Kingdom,Bristol,Hybrid,Full-time,Mid,2023-07-27
+784,Software Engineer,Startup (1-50),Logistics,Canada,Toronto,Remote,Full-time,Executive,2024-04-14
+785,Backend Engineer,Medium (201-1000),Cybersecurity,Switzerland,Zurich,Hybrid,Contract,Mid,2023-06-24
+786,Machine Learning Engineer,Large (1001-5000),SaaS,Poland,Wroclaw,On-site,Full-time,Entry,2024-08-28
+787,iOS Developer,Large (1001-5000),Consulting,Australia,Melbourne,Hybrid,Full-time,Entry,2024-03-20
+788,Business Intelligence Analyst,Enterprise (5000+),FinTech,Poland,Warsaw,On-site,Full-time,Mid,2023-02-11
+789,Product Manager,Large (1001-5000),HealthTech,Australia,Brisbane,Hybrid,Full-time,Entry,2024-04-08
+790,Data Engineer,Startup (1-50),SaaS,Australia,Sydney,Hybrid,Full-time,Executive,2023-05-16
+791,Machine Learning Engineer,Startup (1-50),Logistics,Canada,Vancouver,Hybrid,Full-time,Entry,2024-08-07
+792,DevOps Engineer,Small (51-200),Consulting,Sweden,Stockholm,On-site,Full-time,Lead,2024-10-03
+793,Cloud Architect,Startup (1-50),EdTech,Australia,Brisbane,Hybrid,Full-time,Entry,2023-02-03
+794,iOS Developer,Enterprise (5000+),HealthTech,France,Lyon,Hybrid,Full-time,Executive,2024-09-27
+795,Software Engineer,Medium (201-1000),Consulting,Canada,Montreal,On-site,Full-time,Executive,2024-04-21
+796,Backend Engineer,Small (51-200),EdTech,Poland,Warsaw,Hybrid,Part-time,Senior,2024-12-27
+797,Backend Engineer,Enterprise (5000+),Cybersecurity,Netherlands,Amsterdam,Remote,Full-time,Mid,2024-12-20
+798,Machine Learning Engineer,Medium (201-1000),Gaming,Netherlands,Utrecht,On-site,Full-time,Senior,2023-10-11
+799,Backend Engineer,Large (1001-5000),HealthTech,Germany,Berlin,Hybrid,Full-time,Senior,2024-04-26
+800,DevOps Engineer,Medium (201-1000),HealthTech,Sweden,Gothenburg,On-site,Working Student,Executive,2023-07-12
+801,Data Engineer,Small (51-200),HealthTech,Australia,Sydney,Remote,Working Student,Lead,2023-06-18
+802,Security Engineer,Large (1001-5000),FinTech,France,Paris,Remote,Full-time,Mid,2023-10-28
+803,Product Manager,Large (1001-5000),FinTech,Switzerland,Basel,Hybrid,Full-time,Mid,2023-10-26
+804,Software Engineer,Enterprise (5000+),Consulting,Netherlands,Amsterdam,Hybrid,Full-time,Mid,2024-11-02
+805,DevOps Engineer,Enterprise (5000+),Automotive,Spain,Barcelona,On-site,Full-time,Executive,2024-08-03
+806,Data Analyst,Small (51-200),FinTech,United Kingdom,Edinburgh,Hybrid,Working Student,Senior,2023-06-01
+807,DevOps Engineer,Enterprise (5000+),Automotive,Canada,Vancouver,On-site,Part-time,Mid,2023-07-06
+808,Data Analyst,Startup (1-50),E-Commerce,United Kingdom,Manchester,Remote,Full-time,Mid,2024-03-27
+809,Data Analyst,Enterprise (5000+),Consulting,France,Lyon,Hybrid,Full-time,Mid,2023-06-01
+810,Product Manager,Enterprise (5000+),Gaming,Canada,Vancouver,Hybrid,Working Student,Mid,2024-05-26
+811,Backend Engineer,Startup (1-50),EdTech,United Kingdom,Bristol,On-site,Full-time,Mid,2023-12-06
+812,iOS Developer,Medium (201-1000),Cybersecurity,Spain,Valencia,On-site,Contract,Lead,2024-11-13
+813,Backend Engineer,Large (1001-5000),EdTech,United Kingdom,Bristol,On-site,Full-time,Entry,2023-04-30
+814,Frontend Engineer,Small (51-200),FinTech,France,Paris,Hybrid,Full-time,Executive,2024-09-14
+815,Business Intelligence Analyst,Small (51-200),SaaS,Spain,Madrid,On-site,Contract,Executive,2023-01-24
+816,DevOps Engineer,Enterprise (5000+),Cybersecurity,United States,Boston,Hybrid,Full-time,Entry,2024-09-11
+817,Cloud Architect,Large (1001-5000),Consulting,India,Bangalore,Remote,Contract,Senior,2024-01-31
+818,iOS Developer,Medium (201-1000),EdTech,Canada,Toronto,Hybrid,Full-time,Senior,2023-03-31
+819,DevOps Engineer,Large (1001-5000),Gaming,Netherlands,Utrecht,Remote,Contract,Lead,2024-02-29
+820,Data Analyst,Medium (201-1000),Consulting,United Kingdom,London,Hybrid,Contract,Mid,2023-03-09
+821,Data Engineer,Large (1001-5000),E-Commerce,Poland,Krakow,Hybrid,Full-time,Entry,2024-07-23
+822,Business Intelligence Analyst,Small (51-200),EdTech,Australia,Brisbane,Remote,Full-time,Mid,2024-05-17
+823,Business Intelligence Analyst,Large (1001-5000),FinTech,Germany,Hamburg,Hybrid,Full-time,Senior,2023-01-03
+824,iOS Developer,Startup (1-50),Gaming,United Kingdom,Edinburgh,Hybrid,Contract,Lead,2023-07-03
+825,Cloud Architect,Startup (1-50),HealthTech,Australia,Brisbane,Remote,Full-time,Mid,2024-09-05
+826,Business Intelligence Analyst,Enterprise (5000+),Logistics,Sweden,Gothenburg,Hybrid,Full-time,Lead,2024-12-11
+827,Product Manager,Startup (1-50),FinTech,United States,Seattle,On-site,Full-time,Executive,2023-05-30
+828,Security Engineer,Medium (201-1000),Gaming,Canada,Vancouver,Remote,Full-time,Mid,2024-10-13
+829,iOS Developer,Enterprise (5000+),SaaS,Canada,Toronto,Hybrid,Full-time,Senior,2024-10-05
+830,Business Intelligence Analyst,Enterprise (5000+),Automotive,United Kingdom,London,Hybrid,Full-time,Mid,2023-10-05
+831,Security Engineer,Startup (1-50),E-Commerce,Spain,Valencia,Hybrid,Full-time,Senior,2023-01-14
+832,Backend Engineer,Large (1001-5000),HealthTech,United Kingdom,Edinburgh,Hybrid,Working Student,Lead,2023-08-12
+833,Machine Learning Engineer,Enterprise (5000+),EdTech,United Kingdom,Manchester,Hybrid,Working Student,Executive,2024-12-30
+834,Frontend Engineer,Startup (1-50),FinTech,India,Bangalore,Remote,Full-time,Lead,2024-05-06
+835,Security Engineer,Small (51-200),Cybersecurity,Canada,Vancouver,On-site,Contract,Senior,2024-06-19
+836,Security Engineer,Startup (1-50),E-Commerce,Canada,Toronto,Hybrid,Full-time,Senior,2024-12-11
+837,iOS Developer,Small (51-200),HealthTech,United Kingdom,Manchester,Remote,Full-time,Mid,2023-03-21
+838,Frontend Engineer,Small (51-200),EdTech,Germany,Frankfurt,Remote,Contract,Entry,2024-08-30
+839,Data Engineer,Startup (1-50),HealthTech,Germany,Frankfurt,Remote,Full-time,Senior,2023-05-07
+840,Business Intelligence Analyst,Small (51-200),E-Commerce,Poland,Warsaw,Hybrid,Full-time,Mid,2023-10-12
+841,Backend Engineer,Enterprise (5000+),EdTech,Poland,Krakow,On-site,Full-time,Mid,2024-08-06
+842,Business Intelligence Analyst,Enterprise (5000+),Automotive,United States,San Francisco,Remote,Full-time,Entry,2023-06-25
+843,Security Engineer,Small (51-200),Logistics,India,Bangalore,On-site,Contract,Entry,2024-01-11
+844,DevOps Engineer,Small (51-200),Gaming,Sweden,Stockholm,On-site,Working Student,Entry,2023-08-08
+845,Frontend Engineer,Medium (201-1000),E-Commerce,India,Hyderabad,Remote,Full-time,Entry,2024-05-22
+846,iOS Developer,Startup (1-50),Gaming,Canada,Montreal,Remote,Full-time,Executive,2023-10-18
+847,Security Engineer,Large (1001-5000),Gaming,Australia,Brisbane,Remote,Full-time,Senior,2023-07-13
+848,Cloud Architect,Small (51-200),HealthTech,United States,Austin,Remote,Full-time,Senior,2024-02-10
+849,Cloud Architect,Startup (1-50),Cybersecurity,Australia,Brisbane,Remote,Full-time,Entry,2023-04-15
+850,Data Engineer,Small (51-200),Gaming,Sweden,Stockholm,Hybrid,Full-time,Senior,2023-05-06
+851,Security Engineer,Medium (201-1000),Cybersecurity,Netherlands,Rotterdam,On-site,Contract,Lead,2023-10-07
+852,Backend Engineer,Enterprise (5000+),EdTech,Spain,Barcelona,On-site,Working Student,Lead,2023-10-13
+853,Data Engineer,Medium (201-1000),E-Commerce,United Kingdom,Bristol,Hybrid,Full-time,Entry,2023-01-31
+854,Data Engineer,Startup (1-50),Consulting,United States,San Francisco,On-site,Full-time,Lead,2023-06-06
+855,Business Intelligence Analyst,Startup (1-50),Logistics,France,Toulouse,Hybrid,Full-time,Entry,2024-04-22
+856,Cloud Architect,Large (1001-5000),EdTech,Netherlands,Rotterdam,Hybrid,Full-time,Lead,2024-07-13
+857,Frontend Engineer,Large (1001-5000),Logistics,Germany,Berlin,Hybrid,Contract,Entry,2024-04-15
+858,Data Analyst,Medium (201-1000),Gaming,Germany,Berlin,On-site,Full-time,Executive,2023-05-18
+859,Frontend Engineer,Startup (1-50),EdTech,France,Toulouse,Hybrid,Full-time,Lead,2024-12-02
+860,DevOps Engineer,Small (51-200),Logistics,India,Mumbai,Hybrid,Full-time,Executive,2024-08-28
+861,Cloud Architect,Medium (201-1000),FinTech,Switzerland,Basel,Hybrid,Full-time,Senior,2023-05-12
+862,Security Engineer,Startup (1-50),Gaming,Canada,Vancouver,On-site,Full-time,Executive,2023-04-10
+863,Backend Engineer,Medium (201-1000),SaaS,Switzerland,Geneva,Remote,Full-time,Lead,2024-10-25
+864,Data Engineer,Medium (201-1000),EdTech,France,Toulouse,Remote,Full-time,Entry,2023-11-30
+865,Cloud Architect,Enterprise (5000+),FinTech,Germany,Frankfurt,Hybrid,Full-time,Lead,2024-12-13
+866,Software Engineer,Large (1001-5000),HealthTech,Australia,Brisbane,Hybrid,Full-time,Senior,2024-05-15
+867,Backend Engineer,Enterprise (5000+),E-Commerce,United States,New York,On-site,Full-time,Lead,2024-09-21
+868,Frontend Engineer,Large (1001-5000),HealthTech,France,Lyon,Hybrid,Working Student,Mid,2024-07-02
+869,iOS Developer,Medium (201-1000),SaaS,Netherlands,Rotterdam,On-site,Full-time,Entry,2024-10-01
+870,Security Engineer,Startup (1-50),Cybersecurity,Sweden,Stockholm,Hybrid,Full-time,Executive,2024-06-27
+871,Machine Learning Engineer,Startup (1-50),Automotive,Australia,Melbourne,Hybrid,Full-time,Senior,2024-03-19
+872,Backend Engineer,Large (1001-5000),Logistics,Spain,Valencia,Hybrid,Full-time,Mid,2024-11-18
+873,Software Engineer,Small (51-200),Logistics,India,Hyderabad,Hybrid,Full-time,Executive,2023-10-02
+874,Business Intelligence Analyst,Enterprise (5000+),SaaS,Spain,Valencia,Hybrid,Full-time,Lead,2024-01-09
+875,Machine Learning Engineer,Medium (201-1000),HealthTech,Australia,Sydney,On-site,Full-time,Mid,2024-10-11
+876,iOS Developer,Small (51-200),Gaming,Netherlands,Rotterdam,Remote,Full-time,Senior,2023-09-02
+877,Machine Learning Engineer,Small (51-200),Logistics,United States,New York,On-site,Full-time,Entry,2024-07-27
+878,Cloud Architect,Small (51-200),Automotive,Switzerland,Geneva,Remote,Full-time,Entry,2023-10-12
+879,Data Analyst,Large (1001-5000),HealthTech,Spain,Valencia,On-site,Full-time,Entry,2023-11-18
+880,Data Engineer,Medium (201-1000),Gaming,Poland,Krakow,Hybrid,Contract,Lead,2023-05-24
+881,Business Intelligence Analyst,Startup (1-50),EdTech,Netherlands,Amsterdam,Hybrid,Contract,Executive,2023-09-15
+882,Machine Learning Engineer,Startup (1-50),Cybersecurity,Australia,Sydney,On-site,Full-time,Executive,2024-02-04
+883,Frontend Engineer,Small (51-200),Automotive,Sweden,Stockholm,Remote,Full-time,Mid,2024-03-26
+884,Business Intelligence Analyst,Large (1001-5000),HealthTech,Switzerland,Geneva,Hybrid,Full-time,Entry,2023-11-21
+885,DevOps Engineer,Medium (201-1000),Consulting,India,Mumbai,On-site,Working Student,Mid,2024-05-01
+886,iOS Developer,Enterprise (5000+),FinTech,Sweden,Gothenburg,Remote,Part-time,Entry,2024-12-08
+887,iOS Developer,Large (1001-5000),Consulting,Spain,Madrid,Hybrid,Working Student,Executive,2024-12-02
+888,Machine Learning Engineer,Large (1001-5000),Automotive,United States,Boston,Remote,Working Student,Lead,2023-11-05
+889,iOS Developer,Small (51-200),Gaming,United States,New York,On-site,Full-time,Mid,2023-02-04
+890,DevOps Engineer,Large (1001-5000),Gaming,France,Paris,On-site,Full-time,Lead,2023-04-13
+891,Product Manager,Medium (201-1000),EdTech,United Kingdom,Edinburgh,Hybrid,Part-time,Entry,2023-12-01
+892,Software Engineer,Small (51-200),E-Commerce,Australia,Brisbane,Hybrid,Contract,Entry,2023-01-04
+893,Cloud Architect,Medium (201-1000),SaaS,Switzerland,Zurich,Hybrid,Full-time,Senior,2024-06-12
+894,Business Intelligence Analyst,Medium (201-1000),E-Commerce,Sweden,Stockholm,Hybrid,Contract,Lead,2023-09-24
+895,iOS Developer,Startup (1-50),Gaming,United Kingdom,Edinburgh,Hybrid,Full-time,Mid,2024-08-07
+896,Software Engineer,Enterprise (5000+),Logistics,Netherlands,Amsterdam,Hybrid,Working Student,Executive,2023-07-23
+897,Data Analyst,Large (1001-5000),E-Commerce,France,Toulouse,Hybrid,Full-time,Entry,2023-04-02
+898,Business Intelligence Analyst,Startup (1-50),Logistics,Canada,Toronto,Hybrid,Full-time,Entry,2024-11-20
+899,Machine Learning Engineer,Small (51-200),Automotive,Australia,Sydney,On-site,Contract,Mid,2023-10-22
+900,Frontend Engineer,Large (1001-5000),Automotive,Sweden,Gothenburg,On-site,Full-time,Mid,2024-11-24
+901,Data Analyst,Small (51-200),SaaS,Netherlands,Rotterdam,Remote,Working Student,Lead,2024-09-24
+902,Backend Engineer,Large (1001-5000),Consulting,Australia,Sydney,Remote,Full-time,Executive,2024-12-10
+903,Machine Learning Engineer,Large (1001-5000),HealthTech,Switzerland,Basel,Hybrid,Full-time,Lead,2024-07-24
+904,Backend Engineer,Large (1001-5000),Cybersecurity,Germany,Berlin,On-site,Working Student,Mid,2024-12-27
+905,Software Engineer,Enterprise (5000+),Gaming,Sweden,Stockholm,Hybrid,Full-time,Senior,2024-11-18
+906,Product Manager,Enterprise (5000+),Logistics,Canada,Toronto,Remote,Full-time,Entry,2023-12-14
+907,Data Engineer,Enterprise (5000+),Consulting,Australia,Sydney,Hybrid,Full-time,Senior,2023-02-15
+908,iOS Developer,Large (1001-5000),Cybersecurity,United Kingdom,Bristol,Remote,Contract,Senior,2023-09-28
+909,Frontend Engineer,Medium (201-1000),E-Commerce,India,Pune,Hybrid,Full-time,Mid,2024-07-23
+910,DevOps Engineer,Small (51-200),FinTech,Spain,Valencia,Remote,Full-time,Entry,2024-04-26
+911,Security Engineer,Large (1001-5000),Logistics,France,Paris,Remote,Contract,Lead,2023-02-11
+912,Security Engineer,Large (1001-5000),E-Commerce,Australia,Melbourne,Hybrid,Full-time,Executive,2023-05-07
+913,Machine Learning Engineer,Small (51-200),Automotive,Canada,Toronto,On-site,Part-time,Senior,2024-07-30
+914,Machine Learning Engineer,Startup (1-50),Gaming,Spain,Valencia,Hybrid,Full-time,Executive,2023-03-20
+915,Cloud Architect,Medium (201-1000),HealthTech,Netherlands,Rotterdam,Remote,Full-time,Entry,2024-02-08
+916,Data Engineer,Small (51-200),Logistics,Canada,Montreal,Remote,Full-time,Senior,2024-04-09
+917,Business Intelligence Analyst,Medium (201-1000),Logistics,Spain,Barcelona,On-site,Full-time,Entry,2023-11-29
+918,Machine Learning Engineer,Medium (201-1000),HealthTech,Sweden,Stockholm,Hybrid,Full-time,Entry,2024-07-14
+919,Data Engineer,Medium (201-1000),Gaming,Poland,Krakow,Remote,Working Student,Lead,2023-04-02
+920,Data Analyst,Large (1001-5000),E-Commerce,Germany,Munich,Remote,Contract,Lead,2023-05-04
+921,Frontend Engineer,Enterprise (5000+),Consulting,France,Lyon,Remote,Full-time,Senior,2024-06-08
+922,DevOps Engineer,Large (1001-5000),HealthTech,Netherlands,Rotterdam,Remote,Full-time,Lead,2024-03-08
+923,Data Analyst,Large (1001-5000),Logistics,Canada,Montreal,Remote,Full-time,Lead,2024-11-23
+924,Cloud Architect,Large (1001-5000),HealthTech,Netherlands,Utrecht,Hybrid,Full-time,Mid,2023-10-25
+925,Data Engineer,Medium (201-1000),Automotive,Australia,Melbourne,Remote,Full-time,Lead,2023-09-12
+926,iOS Developer,Startup (1-50),EdTech,India,Mumbai,Hybrid,Working Student,Executive,2023-04-21
+927,Frontend Engineer,Large (1001-5000),Automotive,India,Mumbai,Hybrid,Full-time,Entry,2023-12-30
+928,Data Engineer,Startup (1-50),E-Commerce,France,Toulouse,Remote,Full-time,Executive,2023-07-06
+929,Data Engineer,Medium (201-1000),Logistics,Switzerland,Zurich,Hybrid,Part-time,Lead,2024-09-30
+930,Data Analyst,Small (51-200),Automotive,France,Lyon,Remote,Working Student,Mid,2024-11-20
+931,Product Manager,Startup (1-50),Logistics,United States,Austin,Hybrid,Full-time,Entry,2024-04-16
+932,Cloud Architect,Large (1001-5000),Cybersecurity,Sweden,Gothenburg,Hybrid,Contract,Executive,2024-01-05
+933,iOS Developer,Small (51-200),FinTech,Sweden,Gothenburg,Remote,Full-time,Entry,2024-12-13
+934,Machine Learning Engineer,Small (51-200),EdTech,Netherlands,Amsterdam,Hybrid,Full-time,Lead,2023-07-15
+935,DevOps Engineer,Large (1001-5000),E-Commerce,United States,Seattle,Hybrid,Full-time,Mid,2024-12-20
+936,DevOps Engineer,Large (1001-5000),Cybersecurity,Australia,Melbourne,Hybrid,Full-time,Entry,2024-02-06
+937,Software Engineer,Large (1001-5000),Cybersecurity,Germany,Hamburg,On-site,Contract,Entry,2024-09-02
+938,Software Engineer,Large (1001-5000),Cybersecurity,Sweden,Gothenburg,Hybrid,Full-time,Lead,2024-11-25
+939,Security Engineer,Enterprise (5000+),EdTech,Australia,Sydney,Remote,Full-time,Entry,2023-03-07
+940,Frontend Engineer,Startup (1-50),Consulting,France,Toulouse,Hybrid,Working Student,Lead,2024-04-04
+941,Software Engineer,Medium (201-1000),Logistics,Sweden,Gothenburg,Hybrid,Full-time,Mid,2023-08-26
+942,Business Intelligence Analyst,Enterprise (5000+),Logistics,India,Hyderabad,On-site,Part-time,Senior,2023-05-15
+943,Security Engineer,Large (1001-5000),Consulting,France,Toulouse,On-site,Full-time,Lead,2024-04-28
+944,iOS Developer,Large (1001-5000),Cybersecurity,United Kingdom,Manchester,Remote,Full-time,Entry,2024-05-18
+945,DevOps Engineer,Small (51-200),FinTech,United States,Austin,Remote,Full-time,Senior,2024-01-03
+946,Cloud Architect,Small (51-200),FinTech,France,Lyon,On-site,Contract,Mid,2023-03-07
+947,Data Engineer,Small (51-200),Automotive,Canada,Vancouver,Remote,Full-time,Executive,2023-12-15
+948,Product Manager,Small (51-200),Cybersecurity,Canada,Toronto,On-site,Contract,Senior,2024-11-16
+949,DevOps Engineer,Startup (1-50),Cybersecurity,United States,San Francisco,On-site,Contract,Lead,2023-04-15
+950,Product Manager,Small (51-200),Consulting,India,Bangalore,Hybrid,Contract,Entry,2023-06-10
+951,Security Engineer,Enterprise (5000+),E-Commerce,Sweden,Gothenburg,Hybrid,Contract,Lead,2024-10-24
+952,Data Analyst,Small (51-200),FinTech,Canada,Vancouver,Hybrid,Full-time,Entry,2023-09-09
+953,iOS Developer,Small (51-200),Gaming,Australia,Melbourne,Remote,Full-time,Executive,2024-01-05
+954,Machine Learning Engineer,Enterprise (5000+),Gaming,Spain,Valencia,Hybrid,Full-time,Mid,2024-02-28
+955,Product Manager,Startup (1-50),EdTech,Switzerland,Geneva,Hybrid,Contract,Senior,2023-03-13
+956,Backend Engineer,Small (51-200),FinTech,United States,Seattle,Hybrid,Full-time,Lead,2024-11-07
+957,Business Intelligence Analyst,Enterprise (5000+),EdTech,Spain,Madrid,On-site,Full-time,Entry,2023-11-08
+958,Backend Engineer,Medium (201-1000),E-Commerce,Sweden,Gothenburg,On-site,Full-time,Entry,2024-12-18
+959,Cloud Architect,Enterprise (5000+),Logistics,Switzerland,Geneva,Hybrid,Full-time,Mid,2024-12-15
+960,Frontend Engineer,Medium (201-1000),Gaming,Canada,Montreal,Remote,Full-time,Mid,2023-05-10
+961,Machine Learning Engineer,Enterprise (5000+),E-Commerce,India,Pune,Hybrid,Full-time,Entry,2023-01-24
+962,Business Intelligence Analyst,Small (51-200),Gaming,Germany,Stuttgart,On-site,Full-time,Senior,2024-06-01
+963,Backend Engineer,Enterprise (5000+),HealthTech,United States,San Francisco,Hybrid,Full-time,Senior,2024-04-04
+964,Security Engineer,Large (1001-5000),Cybersecurity,France,Toulouse,Hybrid,Full-time,Entry,2024-08-02
+965,Backend Engineer,Medium (201-1000),Cybersecurity,Sweden,Stockholm,Hybrid,Contract,Senior,2024-11-19
+966,Product Manager,Startup (1-50),Consulting,United Kingdom,Bristol,Hybrid,Full-time,Mid,2024-04-10
+967,Security Engineer,Large (1001-5000),E-Commerce,United States,New York,Remote,Full-time,Lead,2024-05-02
+968,Data Engineer,Enterprise (5000+),Gaming,Netherlands,Rotterdam,Hybrid,Full-time,Senior,2023-09-28
+969,Cloud Architect,Large (1001-5000),Gaming,Poland,Krakow,Hybrid,Working Student,Lead,2023-06-16
+970,DevOps Engineer,Small (51-200),EdTech,United Kingdom,Manchester,On-site,Full-time,Lead,2023-05-01
+971,DevOps Engineer,Startup (1-50),Consulting,Sweden,Stockholm,Hybrid,Working Student,Lead,2023-05-02
+972,Data Engineer,Medium (201-1000),E-Commerce,Poland,Krakow,Hybrid,Full-time,Entry,2023-05-01
+973,Backend Engineer,Medium (201-1000),E-Commerce,Canada,Vancouver,Hybrid,Contract,Senior,2024-08-26
+974,iOS Developer,Small (51-200),FinTech,Switzerland,Zurich,Remote,Part-time,Senior,2023-05-06
+975,Data Engineer,Large (1001-5000),Logistics,India,Pune,Hybrid,Full-time,Entry,2023-12-12
+976,Security Engineer,Small (51-200),Logistics,Switzerland,Geneva,On-site,Full-time,Executive,2024-04-05
+977,Data Analyst,Startup (1-50),Gaming,Spain,Barcelona,On-site,Full-time,Senior,2024-02-01
+978,Backend Engineer,Startup (1-50),Automotive,Netherlands,Rotterdam,On-site,Contract,Executive,2024-10-23
+979,Security Engineer,Enterprise (5000+),Automotive,United States,New York,Hybrid,Contract,Entry,2024-07-28
+980,Cloud Architect,Startup (1-50),Cybersecurity,Spain,Madrid,Remote,Full-time,Executive,2023-02-24
+981,Machine Learning Engineer,Enterprise (5000+),EdTech,Poland,Wroclaw,On-site,Full-time,Lead,2023-07-04
+982,Machine Learning Engineer,Enterprise (5000+),Cybersecurity,Germany,Hamburg,Hybrid,Contract,Mid,2023-11-25
+983,Software Engineer,Startup (1-50),FinTech,Switzerland,Basel,Hybrid,Full-time,Lead,2024-06-24
+984,iOS Developer,Startup (1-50),Automotive,Canada,Vancouver,On-site,Full-time,Entry,2023-05-28
+985,Data Engineer,Medium (201-1000),FinTech,United Kingdom,Edinburgh,On-site,Full-time,Mid,2024-09-21
+986,Software Engineer,Medium (201-1000),Gaming,Canada,Toronto,Hybrid,Full-time,Entry,2023-11-28
+987,Data Engineer,Small (51-200),SaaS,France,Lyon,Remote,Full-time,Entry,2024-05-19
+988,Data Engineer,Startup (1-50),HealthTech,India,Mumbai,Hybrid,Full-time,Senior,2024-05-10
+989,Cloud Architect,Startup (1-50),HealthTech,Germany,Frankfurt,Remote,Working Student,Mid,2023-09-10
+990,iOS Developer,Large (1001-5000),EdTech,India,Hyderabad,Hybrid,Contract,Executive,2023-07-28
+991,Product Manager,Small (51-200),EdTech,United Kingdom,Edinburgh,Hybrid,Full-time,Mid,2024-04-07
+992,DevOps Engineer,Medium (201-1000),FinTech,Germany,Berlin,Hybrid,Full-time,Executive,2024-05-08
+993,iOS Developer,Medium (201-1000),EdTech,France,Toulouse,On-site,Full-time,Lead,2023-10-16
+994,Security Engineer,Enterprise (5000+),HealthTech,Germany,Munich,Remote,Full-time,Executive,2023-05-24
+995,Frontend Engineer,Enterprise (5000+),Consulting,Sweden,Gothenburg,Hybrid,Contract,Mid,2024-10-12
+996,DevOps Engineer,Small (51-200),SaaS,France,Toulouse,Hybrid,Full-time,Senior,2024-04-15
+997,Software Engineer,Startup (1-50),FinTech,Poland,Krakow,Hybrid,Full-time,Mid,2024-11-19
+998,Product Manager,Large (1001-5000),HealthTech,United Kingdom,Bristol,Hybrid,Contract,Lead,2024-07-05
+999,Cloud Architect,Medium (201-1000),Cybersecurity,Germany,Frankfurt,On-site,Full-time,Entry,2024-01-02
+1000,Security Engineer,Startup (1-50),Logistics,Switzerland,Zurich,Hybrid,Working Student,Entry,2023-01-10
+1001,Software Engineer,Medium (201-1000),Automotive,Netherlands,Utrecht,Remote,Contract,Senior,2023-08-15
+1002,Backend Engineer,Medium (201-1000),Cybersecurity,Netherlands,Rotterdam,Hybrid,Part-time,Entry,2023-08-03
+1003,Cloud Architect,Startup (1-50),Logistics,Germany,Munich,On-site,Full-time,Lead,2023-06-24
+1004,Cloud Architect,Enterprise (5000+),E-Commerce,India,Hyderabad,Hybrid,Full-time,Executive,2023-03-08
+1005,Business Intelligence Analyst,Enterprise (5000+),FinTech,United Kingdom,Edinburgh,Hybrid,Full-time,Mid,2024-12-10
+1006,Business Intelligence Analyst,Enterprise (5000+),Gaming,Spain,Valencia,On-site,Full-time,Senior,2024-10-18
+1007,Software Engineer,Large (1001-5000),HealthTech,Spain,Valencia,On-site,Full-time,Senior,2024-11-27
+1008,DevOps Engineer,Enterprise (5000+),SaaS,India,Mumbai,On-site,Contract,Senior,2023-02-18
+1009,Product Manager,Medium (201-1000),HealthTech,France,Lyon,Remote,Full-time,Lead,2024-08-08
+1010,Security Engineer,Startup (1-50),Consulting,Germany,Munich,On-site,Full-time,Lead,2023-11-15
+1011,Software Engineer,Large (1001-5000),Consulting,United States,San Francisco,On-site,Full-time,Lead,2023-09-14
+1012,DevOps Engineer,Medium (201-1000),EdTech,Netherlands,Amsterdam,On-site,Contract,Mid,2023-08-31
+1013,Business Intelligence Analyst,Startup (1-50),HealthTech,United States,Boston,Hybrid,Full-time,Lead,2023-03-04
+1014,Backend Engineer,Small (51-200),FinTech,Germany,Frankfurt,Remote,Contract,Entry,2023-11-05
+1015,Frontend Engineer,Startup (1-50),Automotive,Poland,Wroclaw,Hybrid,Full-time,Entry,2024-01-26
+1016,Business Intelligence Analyst,Small (51-200),Cybersecurity,Switzerland,Zurich,On-site,Contract,Lead,2023-01-11
+1017,DevOps Engineer,Enterprise (5000+),FinTech,Australia,Melbourne,Hybrid,Full-time,Lead,2024-04-09
+1018,Business Intelligence Analyst,Startup (1-50),HealthTech,India,Pune,Remote,Full-time,Mid,2024-08-30
+1019,Data Analyst,Medium (201-1000),Cybersecurity,Netherlands,Utrecht,Hybrid,Full-time,Executive,2024-03-31
+1020,Data Analyst,Startup (1-50),EdTech,United Kingdom,Manchester,Remote,Full-time,Entry,2024-10-29
+1021,Business Intelligence Analyst,Small (51-200),Consulting,Canada,Vancouver,Remote,Full-time,Executive,2023-10-26
+1022,Product Manager,Small (51-200),EdTech,Canada,Toronto,Remote,Full-time,Executive,2023-02-25
+1023,Machine Learning Engineer,Small (51-200),Logistics,Switzerland,Geneva,On-site,Full-time,Mid,2024-12-12
+1024,Business Intelligence Analyst,Enterprise (5000+),Automotive,Sweden,Gothenburg,Hybrid,Full-time,Senior,2024-03-04
+1025,Data Engineer,Startup (1-50),SaaS,Canada,Toronto,Hybrid,Working Student,Lead,2024-12-10
+1026,Business Intelligence Analyst,Small (51-200),Consulting,Netherlands,Rotterdam,Hybrid,Contract,Mid,2024-01-20
+1027,Data Analyst,Medium (201-1000),EdTech,Netherlands,Rotterdam,Remote,Full-time,Entry,2023-04-28
+1028,DevOps Engineer,Enterprise (5000+),FinTech,United Kingdom,Edinburgh,On-site,Full-time,Mid,2023-07-23
+1029,Data Analyst,Medium (201-1000),EdTech,Netherlands,Rotterdam,Hybrid,Full-time,Mid,2023-09-09
+1030,Software Engineer,Medium (201-1000),E-Commerce,United Kingdom,Manchester,On-site,Full-time,Mid,2024-01-24
+1031,Backend Engineer,Medium (201-1000),Consulting,Spain,Madrid,Hybrid,Full-time,Mid,2024-11-07
+1032,Security Engineer,Startup (1-50),SaaS,United Kingdom,Bristol,Remote,Working Student,Entry,2023-07-16
+1033,Security Engineer,Medium (201-1000),SaaS,India,Mumbai,Hybrid,Working Student,Senior,2023-02-17
+1034,Machine Learning Engineer,Medium (201-1000),FinTech,Poland,Wroclaw,On-site,Full-time,Executive,2024-10-06
+1035,Product Manager,Large (1001-5000),Logistics,France,Paris,Remote,Full-time,Executive,2024-11-10
+1036,Data Analyst,Large (1001-5000),EdTech,Poland,Warsaw,On-site,Full-time,Executive,2024-01-19
+1037,DevOps Engineer,Medium (201-1000),Logistics,Australia,Brisbane,Hybrid,Full-time,Mid,2024-05-21
+1038,Business Intelligence Analyst,Enterprise (5000+),SaaS,Australia,Melbourne,Hybrid,Full-time,Lead,2024-04-07
+1039,Machine Learning Engineer,Large (1001-5000),Consulting,Netherlands,Rotterdam,On-site,Full-time,Senior,2023-09-18
+1040,Data Analyst,Medium (201-1000),Cybersecurity,India,Bangalore,Hybrid,Full-time,Entry,2023-02-12
+1041,Business Intelligence Analyst,Large (1001-5000),Consulting,Australia,Brisbane,Hybrid,Full-time,Senior,2024-05-24
+1042,Frontend Engineer,Small (51-200),HealthTech,Canada,Vancouver,Hybrid,Full-time,Entry,2024-01-03
+1043,Product Manager,Enterprise (5000+),SaaS,United States,Seattle,Hybrid,Contract,Executive,2023-04-11
+1044,Backend Engineer,Enterprise (5000+),Consulting,United States,San Francisco,Remote,Full-time,Entry,2023-09-14
+1045,Cloud Architect,Small (51-200),EdTech,France,Toulouse,Hybrid,Working Student,Senior,2023-09-25
+1046,iOS Developer,Large (1001-5000),FinTech,Germany,Hamburg,On-site,Contract,Senior,2024-04-28
+1047,Data Analyst,Small (51-200),Logistics,Spain,Valencia,Remote,Part-time,Lead,2023-08-28
+1048,Security Engineer,Medium (201-1000),SaaS,India,Mumbai,On-site,Full-time,Lead,2024-03-15
+1049,Machine Learning Engineer,Large (1001-5000),E-Commerce,Sweden,Gothenburg,On-site,Full-time,Lead,2024-08-14
+1050,Security Engineer,Large (1001-5000),Consulting,United Kingdom,Edinburgh,On-site,Contract,Entry,2023-08-19
+1051,Cloud Architect,Enterprise (5000+),Cybersecurity,Switzerland,Geneva,Remote,Full-time,Lead,2023-02-02
+1052,Backend Engineer,Enterprise (5000+),Gaming,United Kingdom,Manchester,On-site,Full-time,Executive,2024-01-26
+1053,Data Engineer,Large (1001-5000),Cybersecurity,Netherlands,Rotterdam,Remote,Full-time,Executive,2024-04-07
+1054,Data Engineer,Startup (1-50),Cybersecurity,Spain,Barcelona,Hybrid,Full-time,Mid,2024-05-15
+1055,Machine Learning Engineer,Large (1001-5000),EdTech,Germany,Munich,Remote,Full-time,Entry,2023-03-13
+1056,Backend Engineer,Startup (1-50),Gaming,Australia,Sydney,Remote,Contract,Executive,2024-02-05
+1057,Data Analyst,Large (1001-5000),SaaS,United Kingdom,London,Hybrid,Full-time,Executive,2023-05-14
+1058,Frontend Engineer,Small (51-200),Cybersecurity,Netherlands,Rotterdam,Hybrid,Working Student,Lead,2023-07-27
+1059,iOS Developer,Startup (1-50),Gaming,India,Mumbai,On-site,Full-time,Mid,2024-09-11
+1060,Backend Engineer,Large (1001-5000),HealthTech,Netherlands,Utrecht,Hybrid,Full-time,Executive,2023-10-22
+1061,Backend Engineer,Large (1001-5000),E-Commerce,Spain,Barcelona,Hybrid,Contract,Senior,2024-03-01
+1062,Business Intelligence Analyst,Large (1001-5000),Cybersecurity,Netherlands,Amsterdam,Hybrid,Full-time,Lead,2023-04-08
+1063,Software Engineer,Small (51-200),Automotive,Switzerland,Basel,Remote,Full-time,Mid,2024-11-13
+1064,DevOps Engineer,Enterprise (5000+),HealthTech,United States,New York,Remote,Full-time,Lead,2024-05-31
+1065,DevOps Engineer,Medium (201-1000),FinTech,Canada,Vancouver,Remote,Full-time,Mid,2023-03-16
+1066,Cloud Architect,Large (1001-5000),SaaS,Spain,Valencia,Hybrid,Full-time,Lead,2024-02-11
+1067,iOS Developer,Small (51-200),Logistics,Germany,Berlin,Hybrid,Part-time,Entry,2024-04-17
+1068,Product Manager,Large (1001-5000),E-Commerce,United States,San Francisco,Remote,Contract,Mid,2023-06-24
+1069,Data Engineer,Medium (201-1000),E-Commerce,Germany,Stuttgart,Remote,Part-time,Mid,2023-03-21
+1070,Cloud Architect,Small (51-200),FinTech,Spain,Madrid,Hybrid,Full-time,Senior,2024-11-22
+1071,DevOps Engineer,Enterprise (5000+),HealthTech,India,Hyderabad,Hybrid,Part-time,Entry,2024-02-04
+1072,DevOps Engineer,Enterprise (5000+),SaaS,Sweden,Gothenburg,Remote,Contract,Entry,2023-09-13
+1073,Machine Learning Engineer,Startup (1-50),Consulting,Canada,Toronto,Hybrid,Working Student,Entry,2023-07-16
+1074,Data Engineer,Startup (1-50),E-Commerce,Spain,Valencia,On-site,Contract,Mid,2023-06-21
+1075,Product Manager,Medium (201-1000),Cybersecurity,Germany,Frankfurt,Hybrid,Full-time,Entry,2023-08-01
+1076,Frontend Engineer,Small (51-200),E-Commerce,India,Mumbai,Remote,Full-time,Entry,2023-01-16
+1077,Backend Engineer,Large (1001-5000),Automotive,Switzerland,Basel,Remote,Full-time,Entry,2024-10-27
+1078,Software Engineer,Small (51-200),Logistics,Poland,Krakow,Hybrid,Contract,Entry,2023-04-15
+1079,iOS Developer,Enterprise (5000+),Gaming,Sweden,Stockholm,Hybrid,Full-time,Entry,2024-11-25
+1080,Backend Engineer,Medium (201-1000),HealthTech,Sweden,Stockholm,On-site,Full-time,Mid,2023-12-10
+1081,Business Intelligence Analyst,Large (1001-5000),EdTech,Germany,Stuttgart,Hybrid,Part-time,Lead,2024-08-24
+1082,Machine Learning Engineer,Enterprise (5000+),SaaS,Sweden,Stockholm,On-site,Full-time,Entry,2024-03-14
+1083,Data Engineer,Small (51-200),E-Commerce,Netherlands,Utrecht,Hybrid,Full-time,Entry,2024-01-20
+1084,Software Engineer,Enterprise (5000+),Consulting,Netherlands,Utrecht,On-site,Full-time,Mid,2023-05-18
+1085,Cloud Architect,Enterprise (5000+),Automotive,France,Lyon,On-site,Full-time,Entry,2023-01-25
+1086,Backend Engineer,Small (51-200),SaaS,Netherlands,Utrecht,Remote,Full-time,Senior,2024-12-04
+1087,Business Intelligence Analyst,Enterprise (5000+),FinTech,Sweden,Stockholm,Hybrid,Full-time,Lead,2023-03-08
+1088,Machine Learning Engineer,Small (51-200),E-Commerce,Australia,Sydney,On-site,Full-time,Entry,2024-08-29
+1089,Machine Learning Engineer,Startup (1-50),E-Commerce,India,Hyderabad,Hybrid,Full-time,Executive,2023-07-22
+1090,Data Analyst,Small (51-200),SaaS,Netherlands,Rotterdam,Hybrid,Full-time,Executive,2023-10-06
+1091,Backend Engineer,Large (1001-5000),EdTech,Australia,Sydney,Remote,Full-time,Lead,2024-09-16
+1092,Data Analyst,Startup (1-50),HealthTech,Sweden,Gothenburg,On-site,Full-time,Lead,2023-11-04
+1093,Data Analyst,Small (51-200),Logistics,Poland,Wroclaw,Remote,Full-time,Executive,2023-10-18
+1094,Business Intelligence Analyst,Startup (1-50),SaaS,Switzerland,Basel,Hybrid,Part-time,Lead,2023-06-08
+1095,Software Engineer,Medium (201-1000),Gaming,Netherlands,Amsterdam,Hybrid,Working Student,Executive,2024-01-18
+1096,iOS Developer,Startup (1-50),HealthTech,Switzerland,Geneva,Hybrid,Full-time,Executive,2024-01-30
+1097,Machine Learning Engineer,Medium (201-1000),Consulting,Poland,Warsaw,On-site,Contract,Lead,2024-06-05
+1098,Cloud Architect,Startup (1-50),SaaS,Sweden,Gothenburg,Hybrid,Working Student,Senior,2023-09-06
+1099,Backend Engineer,Small (51-200),E-Commerce,Australia,Sydney,Remote,Full-time,Entry,2023-09-18
+1100,Business Intelligence Analyst,Startup (1-50),Gaming,Netherlands,Utrecht,Remote,Full-time,Mid,2024-02-12
+1101,Product Manager,Large (1001-5000),Automotive,Sweden,Stockholm,Remote,Full-time,Mid,2024-05-27
+1102,Business Intelligence Analyst,Large (1001-5000),HealthTech,India,Mumbai,On-site,Working Student,Senior,2023-04-22
+1103,Backend Engineer,Medium (201-1000),Gaming,Spain,Valencia,Hybrid,Working Student,Mid,2024-12-16
+1104,Data Analyst,Startup (1-50),Gaming,France,Paris,Remote,Contract,Lead,2024-06-21
+1105,iOS Developer,Small (51-200),E-Commerce,Switzerland,Basel,Remote,Full-time,Lead,2023-07-22
+1106,Product Manager,Large (1001-5000),SaaS,Australia,Sydney,Hybrid,Full-time,Entry,2023-03-02
+1107,Machine Learning Engineer,Large (1001-5000),HealthTech,Sweden,Stockholm,Hybrid,Working Student,Senior,2024-10-13
+1108,iOS Developer,Large (1001-5000),FinTech,United Kingdom,London,Remote,Full-time,Entry,2024-08-22
+1109,DevOps Engineer,Startup (1-50),FinTech,Netherlands,Rotterdam,Remote,Contract,Entry,2024-11-12
+1110,Data Engineer,Enterprise (5000+),EdTech,Poland,Warsaw,On-site,Full-time,Mid,2023-09-30
+1111,Backend Engineer,Large (1001-5000),Consulting,Australia,Melbourne,Hybrid,Full-time,Executive,2023-11-19
+1112,Cloud Architect,Large (1001-5000),Consulting,Netherlands,Rotterdam,Hybrid,Working Student,Lead,2023-04-13
+1113,Security Engineer,Small (51-200),EdTech,Germany,Frankfurt,Remote,Full-time,Lead,2023-10-14
+1114,Backend Engineer,Enterprise (5000+),EdTech,Sweden,Stockholm,Hybrid,Contract,Lead,2024-02-28
+1115,Software Engineer,Startup (1-50),Consulting,Spain,Madrid,Hybrid,Contract,Senior,2024-11-25
+1116,Business Intelligence Analyst,Large (1001-5000),Consulting,Australia,Sydney,Hybrid,Contract,Lead,2024-03-14
+1117,Security Engineer,Large (1001-5000),E-Commerce,Australia,Brisbane,Remote,Full-time,Entry,2024-06-16
+1118,Product Manager,Small (51-200),EdTech,Poland,Wroclaw,Hybrid,Full-time,Entry,2024-04-23
+1119,Data Engineer,Enterprise (5000+),HealthTech,United Kingdom,Bristol,Remote,Full-time,Lead,2023-04-19
+1120,Software Engineer,Medium (201-1000),SaaS,Switzerland,Basel,On-site,Contract,Mid,2023-09-21
+1121,Cloud Architect,Small (51-200),Logistics,Spain,Barcelona,On-site,Full-time,Entry,2023-04-03
+1122,Machine Learning Engineer,Enterprise (5000+),Gaming,Sweden,Gothenburg,Remote,Full-time,Executive,2024-10-31
+1123,Frontend Engineer,Small (51-200),HealthTech,Spain,Valencia,Remote,Full-time,Mid,2023-04-02
+1124,Business Intelligence Analyst,Startup (1-50),Consulting,Canada,Montreal,Hybrid,Full-time,Mid,2024-01-25
+1125,Software Engineer,Startup (1-50),Gaming,Poland,Wroclaw,Hybrid,Full-time,Senior,2024-03-09
+1126,Cloud Architect,Enterprise (5000+),HealthTech,Canada,Vancouver,Hybrid,Full-time,Mid,2024-02-09
+1127,DevOps Engineer,Small (51-200),SaaS,Germany,Stuttgart,On-site,Full-time,Senior,2024-05-26
+1128,Data Analyst,Medium (201-1000),FinTech,Spain,Barcelona,Remote,Full-time,Executive,2024-09-05
+1129,Product Manager,Medium (201-1000),Logistics,Canada,Vancouver,On-site,Part-time,Entry,2024-10-08
+1130,iOS Developer,Startup (1-50),SaaS,Netherlands,Rotterdam,On-site,Full-time,Lead,2023-08-19
+1131,Data Analyst,Large (1001-5000),E-Commerce,Sweden,Stockholm,Remote,Contract,Lead,2023-01-23
+1132,Backend Engineer,Large (1001-5000),Gaming,India,Mumbai,On-site,Contract,Lead,2023-03-15
+1133,iOS Developer,Enterprise (5000+),Cybersecurity,India,Pune,Hybrid,Full-time,Mid,2023-02-25
+1134,DevOps Engineer,Enterprise (5000+),Automotive,Sweden,Gothenburg,Remote,Full-time,Mid,2023-05-29
+1135,Security Engineer,Startup (1-50),HealthTech,Netherlands,Amsterdam,Hybrid,Contract,Mid,2024-11-25
+1136,Frontend Engineer,Startup (1-50),E-Commerce,United Kingdom,Bristol,Remote,Working Student,Mid,2023-02-23
+1137,Cloud Architect,Enterprise (5000+),Gaming,United States,Boston,Hybrid,Full-time,Senior,2023-09-08
+1138,Machine Learning Engineer,Large (1001-5000),E-Commerce,Germany,Berlin,Hybrid,Full-time,Lead,2024-10-30
+1139,Security Engineer,Large (1001-5000),Automotive,Sweden,Gothenburg,On-site,Full-time,Entry,2024-10-09
+1140,Backend Engineer,Startup (1-50),EdTech,Spain,Barcelona,Remote,Full-time,Entry,2023-08-19
+1141,Business Intelligence Analyst,Large (1001-5000),Cybersecurity,Germany,Stuttgart,Remote,Part-time,Executive,2023-07-05
+1142,Cloud Architect,Medium (201-1000),HealthTech,Switzerland,Geneva,Hybrid,Full-time,Lead,2024-12-31
+1143,Frontend Engineer,Large (1001-5000),EdTech,India,Hyderabad,Hybrid,Full-time,Entry,2024-05-15
+1144,Business Intelligence Analyst,Startup (1-50),HealthTech,United States,Boston,On-site,Full-time,Executive,2023-07-05
+1145,Data Analyst,Enterprise (5000+),FinTech,Poland,Wroclaw,Hybrid,Full-time,Entry,2023-05-12
+1146,Cloud Architect,Startup (1-50),FinTech,Poland,Warsaw,Hybrid,Contract,Mid,2023-03-28
+1147,iOS Developer,Enterprise (5000+),FinTech,United States,Boston,Remote,Working Student,Senior,2023-09-12
+1148,Product Manager,Enterprise (5000+),Consulting,France,Paris,Hybrid,Full-time,Senior,2024-06-19
+1149,Product Manager,Small (51-200),FinTech,Canada,Montreal,Hybrid,Full-time,Executive,2023-08-31
+1150,Data Analyst,Small (51-200),SaaS,Germany,Munich,On-site,Full-time,Senior,2024-08-28
+1151,Data Analyst,Large (1001-5000),Gaming,Canada,Vancouver,Remote,Full-time,Executive,2024-10-27
+1152,DevOps Engineer,Medium (201-1000),E-Commerce,United Kingdom,Bristol,Hybrid,Working Student,Entry,2024-07-02
+1153,Cloud Architect,Small (51-200),EdTech,Netherlands,Amsterdam,Hybrid,Full-time,Senior,2024-09-11
+1154,Data Analyst,Large (1001-5000),SaaS,United Kingdom,Bristol,Hybrid,Working Student,Senior,2023-03-21
+1155,Product Manager,Enterprise (5000+),HealthTech,France,Paris,Hybrid,Full-time,Entry,2024-01-07
+1156,Data Analyst,Medium (201-1000),SaaS,Canada,Vancouver,Remote,Full-time,Mid,2024-01-23
+1157,Data Analyst,Medium (201-1000),HealthTech,United States,San Francisco,Hybrid,Contract,Executive,2024-06-25
+1158,Business Intelligence Analyst,Enterprise (5000+),FinTech,Canada,Montreal,Remote,Full-time,Senior,2023-06-24
+1159,Data Analyst,Enterprise (5000+),Gaming,Canada,Vancouver,Hybrid,Contract,Senior,2024-05-03
+1160,iOS Developer,Enterprise (5000+),E-Commerce,Poland,Warsaw,Hybrid,Full-time,Entry,2024-01-23
+1161,iOS Developer,Medium (201-1000),Cybersecurity,Poland,Wroclaw,Hybrid,Full-time,Entry,2024-03-04
+1162,Data Analyst,Medium (201-1000),Automotive,Sweden,Gothenburg,On-site,Full-time,Lead,2024-03-14
+1163,iOS Developer,Medium (201-1000),HealthTech,India,Hyderabad,Hybrid,Full-time,Entry,2024-10-11
+1164,Security Engineer,Startup (1-50),Automotive,United States,San Francisco,Remote,Full-time,Mid,2024-07-21
+1165,Frontend Engineer,Small (51-200),EdTech,Australia,Sydney,Hybrid,Full-time,Executive,2024-12-15
+1166,Software Engineer,Small (51-200),Gaming,United States,Austin,On-site,Part-time,Executive,2024-12-20
+1167,Machine Learning Engineer,Enterprise (5000+),E-Commerce,India,Pune,Remote,Full-time,Executive,2024-11-21
+1168,Data Analyst,Medium (201-1000),FinTech,India,Hyderabad,On-site,Full-time,Entry,2024-03-08
+1169,Data Analyst,Startup (1-50),EdTech,Australia,Melbourne,Hybrid,Full-time,Senior,2023-05-01
+1170,DevOps Engineer,Medium (201-1000),Cybersecurity,France,Lyon,Remote,Part-time,Senior,2024-02-08
+1171,Cloud Architect,Startup (1-50),Logistics,Netherlands,Rotterdam,On-site,Contract,Executive,2023-02-28
+1172,Business Intelligence Analyst,Medium (201-1000),Consulting,Canada,Toronto,Remote,Full-time,Lead,2023-07-10
+1173,Software Engineer,Large (1001-5000),EdTech,Switzerland,Geneva,Hybrid,Full-time,Entry,2023-06-07
+1174,DevOps Engineer,Small (51-200),Logistics,Switzerland,Zurich,On-site,Full-time,Entry,2024-02-09
+1175,Backend Engineer,Small (51-200),Logistics,Canada,Vancouver,Hybrid,Full-time,Lead,2024-11-03
+1176,Data Analyst,Large (1001-5000),SaaS,Australia,Sydney,Remote,Contract,Senior,2023-04-24
+1177,Software Engineer,Large (1001-5000),FinTech,Netherlands,Rotterdam,Hybrid,Full-time,Mid,2023-06-14
+1178,DevOps Engineer,Startup (1-50),E-Commerce,Spain,Madrid,Hybrid,Full-time,Senior,2023-11-29
+1179,Security Engineer,Small (51-200),FinTech,Switzerland,Basel,Remote,Full-time,Lead,2023-05-10
+1180,Product Manager,Small (51-200),Gaming,United Kingdom,Edinburgh,Remote,Contract,Entry,2024-09-03
+1181,Frontend Engineer,Medium (201-1000),Gaming,Sweden,Stockholm,Remote,Full-time,Lead,2023-09-11
+1182,Security Engineer,Small (51-200),Automotive,Poland,Warsaw,Remote,Contract,Executive,2024-12-18
+1183,Frontend Engineer,Large (1001-5000),EdTech,Netherlands,Utrecht,Hybrid,Contract,Mid,2024-09-17
+1184,Business Intelligence Analyst,Small (51-200),Automotive,United Kingdom,Manchester,Remote,Full-time,Mid,2023-07-16
+1185,Software Engineer,Small (51-200),Gaming,United Kingdom,Bristol,Remote,Full-time,Executive,2024-06-21
+1186,Cloud Architect,Small (51-200),EdTech,France,Toulouse,Hybrid,Full-time,Mid,2024-03-13
+1187,iOS Developer,Medium (201-1000),Gaming,Spain,Madrid,Hybrid,Working Student,Entry,2023-09-10
+1188,Data Analyst,Startup (1-50),SaaS,Canada,Toronto,Remote,Part-time,Entry,2023-10-20
+1189,Business Intelligence Analyst,Large (1001-5000),Consulting,Australia,Melbourne,Remote,Working Student,Entry,2023-12-09
+1190,Data Engineer,Enterprise (5000+),Consulting,France,Paris,On-site,Full-time,Entry,2024-01-06
+1191,Machine Learning Engineer,Small (51-200),HealthTech,Sweden,Gothenburg,Hybrid,Full-time,Senior,2023-05-14
+1192,Business Intelligence Analyst,Startup (1-50),SaaS,Spain,Valencia,Hybrid,Working Student,Entry,2023-07-17
+1193,Data Engineer,Enterprise (5000+),Logistics,Sweden,Gothenburg,Hybrid,Full-time,Entry,2023-07-26
+1194,Software Engineer,Small (51-200),EdTech,India,Hyderabad,Hybrid,Part-time,Mid,2023-12-22
+1195,Cloud Architect,Large (1001-5000),EdTech,Canada,Vancouver,Remote,Full-time,Entry,2023-01-23
+1196,Security Engineer,Medium (201-1000),SaaS,United Kingdom,Edinburgh,Remote,Full-time,Mid,2024-02-12
+1197,Product Manager,Startup (1-50),Gaming,Australia,Brisbane,Remote,Contract,Executive,2024-07-29
+1198,Business Intelligence Analyst,Small (51-200),SaaS,Switzerland,Geneva,Remote,Full-time,Senior,2024-08-29
+1199,Product Manager,Enterprise (5000+),Automotive,Sweden,Stockholm,Hybrid,Full-time,Lead,2023-08-14
+1200,iOS Developer,Startup (1-50),SaaS,France,Toulouse,Remote,Full-time,Executive,2023-10-26
+1201,iOS Developer,Medium (201-1000),SaaS,Germany,Munich,On-site,Full-time,Mid,2023-08-04
+1202,Software Engineer,Enterprise (5000+),EdTech,India,Bangalore,On-site,Full-time,Senior,2023-09-28
+1203,Frontend Engineer,Medium (201-1000),FinTech,Sweden,Stockholm,Hybrid,Full-time,Executive,2023-12-31
+1204,iOS Developer,Medium (201-1000),Cybersecurity,Netherlands,Utrecht,On-site,Full-time,Mid,2023-04-19
+1205,Cloud Architect,Enterprise (5000+),SaaS,Sweden,Gothenburg,Hybrid,Contract,Senior,2023-11-29
+1206,Business Intelligence Analyst,Small (51-200),Gaming,France,Paris,Hybrid,Part-time,Lead,2024-01-13
+1207,Data Engineer,Small (51-200),E-Commerce,United Kingdom,Bristol,Hybrid,Contract,Lead,2023-07-13
+1208,Security Engineer,Medium (201-1000),E-Commerce,Poland,Krakow,Remote,Full-time,Mid,2024-02-08
+1209,Machine Learning Engineer,Small (51-200),Gaming,Spain,Valencia,Remote,Full-time,Entry,2023-04-13
+1210,Security Engineer,Enterprise (5000+),HealthTech,Sweden,Stockholm,Remote,Full-time,Entry,2023-01-14
+1211,Data Analyst,Startup (1-50),Cybersecurity,Spain,Madrid,Remote,Working Student,Mid,2023-01-14
+1212,Product Manager,Startup (1-50),Cybersecurity,Germany,Berlin,Remote,Full-time,Senior,2024-03-30
+1213,Backend Engineer,Small (51-200),Automotive,United Kingdom,Edinburgh,Remote,Full-time,Lead,2024-10-04
+1214,Software Engineer,Startup (1-50),Gaming,India,Bangalore,Hybrid,Full-time,Entry,2023-05-26
+1215,Software Engineer,Large (1001-5000),Automotive,Germany,Munich,Hybrid,Full-time,Mid,2023-08-20
+1216,Cloud Architect,Large (1001-5000),HealthTech,Spain,Barcelona,Remote,Full-time,Entry,2023-10-16
+1217,Business Intelligence Analyst,Startup (1-50),HealthTech,Canada,Toronto,Hybrid,Working Student,Senior,2023-02-14
+1218,Data Analyst,Enterprise (5000+),Gaming,Poland,Warsaw,Hybrid,Full-time,Lead,2023-06-03
+1219,iOS Developer,Medium (201-1000),Logistics,Spain,Valencia,Hybrid,Full-time,Executive,2024-11-08
+1220,Security Engineer,Startup (1-50),E-Commerce,Canada,Vancouver,On-site,Working Student,Entry,2023-11-24
+1221,DevOps Engineer,Startup (1-50),Automotive,United Kingdom,Bristol,Remote,Full-time,Lead,2023-05-29
+1222,Data Analyst,Large (1001-5000),Logistics,United States,Seattle,Hybrid,Full-time,Mid,2024-12-11
+1223,Cloud Architect,Small (51-200),SaaS,Switzerland,Basel,On-site,Full-time,Senior,2024-01-28
+1224,DevOps Engineer,Enterprise (5000+),SaaS,Switzerland,Basel,Hybrid,Full-time,Executive,2024-01-29
+1225,Security Engineer,Enterprise (5000+),SaaS,United States,Boston,Hybrid,Full-time,Lead,2024-12-20
+1226,Backend Engineer,Small (51-200),EdTech,United States,New York,On-site,Full-time,Entry,2024-04-30
+1227,Software Engineer,Medium (201-1000),E-Commerce,United Kingdom,London,On-site,Contract,Senior,2023-10-29
+1228,Product Manager,Small (51-200),E-Commerce,Australia,Sydney,Remote,Full-time,Lead,2023-05-01
+1229,Frontend Engineer,Large (1001-5000),Cybersecurity,Sweden,Stockholm,Hybrid,Part-time,Entry,2023-03-17
+1230,Data Analyst,Small (51-200),HealthTech,Australia,Brisbane,Hybrid,Full-time,Entry,2023-01-13
+1231,Data Analyst,Large (1001-5000),Automotive,Poland,Krakow,Hybrid,Part-time,Mid,2024-04-26
+1232,Backend Engineer,Startup (1-50),FinTech,Switzerland,Basel,Remote,Full-time,Lead,2024-09-10
+1233,Software Engineer,Large (1001-5000),EdTech,United Kingdom,Manchester,Hybrid,Contract,Lead,2024-12-29
+1234,Product Manager,Small (51-200),HealthTech,France,Toulouse,Hybrid,Full-time,Senior,2024-06-18
+1235,Security Engineer,Large (1001-5000),E-Commerce,Switzerland,Zurich,Hybrid,Full-time,Mid,2024-07-26
+1236,Security Engineer,Large (1001-5000),Gaming,Poland,Warsaw,Hybrid,Full-time,Lead,2023-06-18
+1237,Cloud Architect,Small (51-200),Consulting,Germany,Hamburg,Remote,Full-time,Lead,2024-09-09
+1238,Machine Learning Engineer,Small (51-200),Cybersecurity,Canada,Toronto,Hybrid,Full-time,Senior,2023-01-12
+1239,Product Manager,Startup (1-50),Cybersecurity,France,Paris,Remote,Full-time,Mid,2024-08-01
+1240,DevOps Engineer,Startup (1-50),FinTech,Germany,Stuttgart,Hybrid,Working Student,Entry,2024-01-01
+1241,Product Manager,Medium (201-1000),E-Commerce,France,Lyon,On-site,Part-time,Mid,2024-12-20
+1242,Backend Engineer,Enterprise (5000+),E-Commerce,Spain,Madrid,Remote,Contract,Lead,2023-01-25
+1243,DevOps Engineer,Startup (1-50),Logistics,Poland,Krakow,Remote,Full-time,Executive,2023-03-22
+1244,Security Engineer,Small (51-200),E-Commerce,Spain,Madrid,On-site,Full-time,Mid,2024-05-28
+1245,DevOps Engineer,Medium (201-1000),Gaming,India,Pune,Remote,Full-time,Mid,2023-02-10
+1246,Machine Learning Engineer,Enterprise (5000+),Cybersecurity,Sweden,Gothenburg,Hybrid,Working Student,Mid,2024-10-04
+1247,Software Engineer,Medium (201-1000),HealthTech,Australia,Sydney,Hybrid,Working Student,Mid,2024-05-25
+1248,Backend Engineer,Medium (201-1000),Consulting,United States,Austin,Remote,Full-time,Mid,2023-12-28
+1249,Data Analyst,Medium (201-1000),Logistics,United States,San Francisco,On-site,Working Student,Lead,2024-10-27
+1250,Business Intelligence Analyst,Startup (1-50),Gaming,United Kingdom,London,Hybrid,Full-time,Lead,2024-09-26
+1251,DevOps Engineer,Enterprise (5000+),Consulting,Spain,Madrid,On-site,Working Student,Senior,2023-03-27
+1252,Product Manager,Medium (201-1000),FinTech,Spain,Barcelona,On-site,Working Student,Lead,2024-09-27
+1253,Security Engineer,Enterprise (5000+),Automotive,Spain,Madrid,Remote,Contract,Mid,2024-01-20
+1254,Data Engineer,Large (1001-5000),Consulting,United Kingdom,Bristol,On-site,Full-time,Mid,2024-04-22
+1255,Product Manager,Startup (1-50),Gaming,Australia,Brisbane,Remote,Part-time,Lead,2024-03-19
+1256,Backend Engineer,Medium (201-1000),SaaS,Netherlands,Rotterdam,Hybrid,Full-time,Entry,2024-12-20
+1257,Data Engineer,Large (1001-5000),Logistics,Sweden,Gothenburg,Remote,Full-time,Senior,2023-05-30
+1258,Backend Engineer,Startup (1-50),FinTech,Spain,Madrid,On-site,Contract,Executive,2024-01-06
+1259,Machine Learning Engineer,Small (51-200),Gaming,Switzerland,Geneva,On-site,Working Student,Entry,2023-10-04
+1260,Data Analyst,Small (51-200),Automotive,France,Toulouse,Remote,Full-time,Entry,2024-12-30
+1261,Product Manager,Medium (201-1000),Gaming,Australia,Melbourne,Remote,Full-time,Mid,2023-12-17
+1262,Machine Learning Engineer,Large (1001-5000),E-Commerce,France,Paris,Hybrid,Full-time,Senior,2024-12-14
+1263,Security Engineer,Large (1001-5000),Cybersecurity,Switzerland,Geneva,On-site,Full-time,Executive,2023-07-23
+1264,Business Intelligence Analyst,Medium (201-1000),Consulting,United States,Boston,Hybrid,Contract,Mid,2023-01-15
+1265,Data Analyst,Medium (201-1000),Gaming,United Kingdom,Bristol,Remote,Working Student,Lead,2023-09-27
+1266,DevOps Engineer,Large (1001-5000),FinTech,India,Bangalore,Hybrid,Full-time,Mid,2023-08-12
+1267,Frontend Engineer,Small (51-200),SaaS,Sweden,Stockholm,Hybrid,Full-time,Executive,2023-07-15
+1268,Software Engineer,Medium (201-1000),EdTech,Spain,Valencia,Remote,Contract,Senior,2023-05-08
+1269,Cloud Architect,Large (1001-5000),EdTech,Sweden,Gothenburg,Hybrid,Full-time,Lead,2024-03-12
+1270,Data Engineer,Large (1001-5000),Cybersecurity,India,Pune,Hybrid,Full-time,Mid,2023-06-16
+1271,Frontend Engineer,Large (1001-5000),HealthTech,India,Mumbai,Hybrid,Part-time,Senior,2023-03-31
+1272,Cloud Architect,Enterprise (5000+),Cybersecurity,United States,San Francisco,On-site,Full-time,Entry,2024-07-11
+1273,Product Manager,Startup (1-50),SaaS,United States,Austin,Hybrid,Contract,Executive,2023-08-17
+1274,Frontend Engineer,Small (51-200),Consulting,Australia,Brisbane,On-site,Working Student,Entry,2024-04-20
+1275,Security Engineer,Startup (1-50),EdTech,Switzerland,Basel,On-site,Contract,Lead,2023-10-18
+1276,iOS Developer,Large (1001-5000),Gaming,France,Toulouse,Hybrid,Full-time,Senior,2023-02-03
+1277,Data Analyst,Enterprise (5000+),Consulting,Germany,Berlin,On-site,Full-time,Senior,2023-06-24
+1278,Machine Learning Engineer,Large (1001-5000),FinTech,Poland,Krakow,Remote,Full-time,Executive,2024-08-14
+1279,Cloud Architect,Small (51-200),E-Commerce,Switzerland,Zurich,Hybrid,Full-time,Lead,2024-03-23
+1280,Security Engineer,Enterprise (5000+),Gaming,Netherlands,Amsterdam,Remote,Full-time,Mid,2024-10-04
+1281,Data Analyst,Small (51-200),FinTech,France,Toulouse,Remote,Full-time,Senior,2024-10-05
+1282,Software Engineer,Enterprise (5000+),Gaming,Poland,Warsaw,On-site,Full-time,Executive,2023-01-26
+1283,DevOps Engineer,Small (51-200),Automotive,Sweden,Stockholm,Remote,Contract,Senior,2023-07-18
+1284,Security Engineer,Medium (201-1000),E-Commerce,India,Hyderabad,Hybrid,Full-time,Lead,2024-10-04
+1285,Data Engineer,Large (1001-5000),E-Commerce,Germany,Stuttgart,On-site,Full-time,Entry,2023-10-17
+1286,Data Engineer,Large (1001-5000),SaaS,France,Paris,On-site,Working Student,Entry,2024-02-05
+1287,Software Engineer,Startup (1-50),SaaS,United States,Austin,Hybrid,Full-time,Lead,2024-12-04
+1288,Backend Engineer,Small (51-200),E-Commerce,Switzerland,Geneva,Remote,Full-time,Lead,2024-11-06
+1289,Business Intelligence Analyst,Startup (1-50),Logistics,Poland,Wroclaw,On-site,Working Student,Entry,2024-09-20
+1290,Software Engineer,Enterprise (5000+),SaaS,Poland,Wroclaw,Hybrid,Working Student,Mid,2024-09-12
+1291,Software Engineer,Enterprise (5000+),Consulting,Germany,Stuttgart,On-site,Full-time,Executive,2023-04-28
+1292,Backend Engineer,Small (51-200),E-Commerce,Netherlands,Amsterdam,Remote,Full-time,Mid,2023-10-02
+1293,Machine Learning Engineer,Medium (201-1000),Logistics,France,Lyon,Hybrid,Full-time,Entry,2024-05-22
+1294,Frontend Engineer,Medium (201-1000),Automotive,Switzerland,Basel,Remote,Full-time,Mid,2024-02-07
+1295,Business Intelligence Analyst,Small (51-200),Logistics,United States,Boston,On-site,Working Student,Senior,2024-03-19
+1296,Business Intelligence Analyst,Medium (201-1000),Gaming,Australia,Melbourne,Hybrid,Full-time,Senior,2023-07-24
+1297,Backend Engineer,Large (1001-5000),EdTech,Poland,Krakow,Remote,Full-time,Entry,2023-09-17
+1298,iOS Developer,Enterprise (5000+),E-Commerce,Poland,Krakow,Hybrid,Full-time,Executive,2023-11-27
+1299,Backend Engineer,Startup (1-50),E-Commerce,Switzerland,Zurich,Remote,Full-time,Mid,2023-11-18
+1300,Backend Engineer,Medium (201-1000),Consulting,United States,San Francisco,Remote,Full-time,Entry,2023-08-27
+1301,Frontend Engineer,Enterprise (5000+),EdTech,India,Bangalore,Remote,Full-time,Senior,2023-10-12
+1302,Business Intelligence Analyst,Large (1001-5000),SaaS,Sweden,Stockholm,Hybrid,Full-time,Lead,2023-02-20
+1303,Software Engineer,Large (1001-5000),Cybersecurity,Australia,Melbourne,Remote,Full-time,Senior,2023-12-01
+1304,Machine Learning Engineer,Startup (1-50),Cybersecurity,Poland,Krakow,Remote,Full-time,Executive,2023-01-05
+1305,Data Analyst,Startup (1-50),FinTech,Australia,Melbourne,On-site,Working Student,Lead,2023-12-12
+1306,Data Engineer,Startup (1-50),Automotive,Spain,Madrid,On-site,Full-time,Lead,2023-10-09
+1307,Frontend Engineer,Enterprise (5000+),FinTech,Canada,Vancouver,On-site,Full-time,Entry,2024-02-07
+1308,DevOps Engineer,Startup (1-50),HealthTech,France,Toulouse,On-site,Working Student,Lead,2023-01-30
+1309,Software Engineer,Startup (1-50),Gaming,Netherlands,Amsterdam,On-site,Contract,Mid,2023-08-20
+1310,Machine Learning Engineer,Enterprise (5000+),FinTech,United Kingdom,London,On-site,Working Student,Senior,2023-09-23
+1311,Software Engineer,Startup (1-50),Gaming,Germany,Berlin,Remote,Full-time,Senior,2023-10-04
+1312,Data Analyst,Large (1001-5000),E-Commerce,Sweden,Stockholm,Remote,Full-time,Executive,2024-08-21
+1313,DevOps Engineer,Enterprise (5000+),Logistics,Switzerland,Basel,Hybrid,Full-time,Entry,2023-10-15
+1314,DevOps Engineer,Startup (1-50),HealthTech,Canada,Montreal,Remote,Full-time,Mid,2023-12-28
+1315,Cloud Architect,Startup (1-50),SaaS,India,Hyderabad,Remote,Full-time,Mid,2023-01-14
+1316,DevOps Engineer,Small (51-200),Cybersecurity,Spain,Madrid,Hybrid,Full-time,Lead,2024-06-24
+1317,iOS Developer,Small (51-200),E-Commerce,India,Pune,On-site,Full-time,Lead,2023-08-13
+1318,DevOps Engineer,Enterprise (5000+),HealthTech,Canada,Vancouver,Remote,Full-time,Executive,2023-10-12
+1319,Cloud Architect,Enterprise (5000+),HealthTech,Switzerland,Zurich,Hybrid,Full-time,Senior,2023-04-23
+1320,DevOps Engineer,Medium (201-1000),Logistics,Netherlands,Amsterdam,Remote,Full-time,Mid,2023-12-27
+1321,Product Manager,Medium (201-1000),EdTech,France,Paris,Hybrid,Full-time,Entry,2024-03-17
+1322,Software Engineer,Medium (201-1000),Gaming,India,Pune,Hybrid,Full-time,Lead,2024-03-08
+1323,Machine Learning Engineer,Small (51-200),Logistics,Netherlands,Rotterdam,Hybrid,Full-time,Lead,2024-06-15
+1324,Cloud Architect,Small (51-200),FinTech,Switzerland,Zurich,On-site,Full-time,Entry,2023-02-06
+1325,Machine Learning Engineer,Enterprise (5000+),Cybersecurity,Poland,Krakow,Remote,Full-time,Entry,2024-12-17
+1326,Frontend Engineer,Startup (1-50),Automotive,Sweden,Gothenburg,Remote,Contract,Lead,2024-05-22
+1327,Machine Learning Engineer,Medium (201-1000),FinTech,Netherlands,Amsterdam,Hybrid,Full-time,Senior,2023-04-07
+1328,Security Engineer,Small (51-200),E-Commerce,United Kingdom,Bristol,Remote,Full-time,Senior,2023-07-11
+1329,Data Analyst,Large (1001-5000),Automotive,Canada,Vancouver,Hybrid,Full-time,Entry,2023-03-20
+1330,Business Intelligence Analyst,Large (1001-5000),SaaS,United Kingdom,London,Hybrid,Full-time,Senior,2024-04-28
+1331,Software Engineer,Medium (201-1000),E-Commerce,United States,San Francisco,On-site,Full-time,Executive,2023-05-31
+1332,iOS Developer,Large (1001-5000),EdTech,United States,San Francisco,Hybrid,Full-time,Senior,2023-09-21
+1333,iOS Developer,Large (1001-5000),Consulting,Spain,Barcelona,Remote,Full-time,Senior,2024-06-14
+1334,DevOps Engineer,Medium (201-1000),FinTech,Spain,Valencia,Hybrid,Part-time,Entry,2023-06-01
+1335,Cloud Architect,Medium (201-1000),Gaming,Switzerland,Zurich,Hybrid,Full-time,Mid,2024-01-04
+1336,Data Engineer,Large (1001-5000),EdTech,Netherlands,Utrecht,Hybrid,Working Student,Mid,2024-04-05
+1337,iOS Developer,Medium (201-1000),Automotive,India,Hyderabad,Hybrid,Full-time,Senior,2023-11-13
+1338,Business Intelligence Analyst,Medium (201-1000),Logistics,Netherlands,Amsterdam,On-site,Full-time,Executive,2024-08-03
+1339,Data Engineer,Large (1001-5000),E-Commerce,Canada,Vancouver,On-site,Full-time,Entry,2024-06-19
+1340,Product Manager,Medium (201-1000),Automotive,France,Toulouse,Hybrid,Full-time,Mid,2023-01-16
+1341,Machine Learning Engineer,Enterprise (5000+),FinTech,Australia,Sydney,Remote,Full-time,Senior,2024-03-16
+1342,Software Engineer,Medium (201-1000),EdTech,Canada,Montreal,Remote,Contract,Entry,2024-11-12
+1343,Data Engineer,Small (51-200),Cybersecurity,India,Hyderabad,On-site,Full-time,Senior,2023-03-24
+1344,Software Engineer,Medium (201-1000),Gaming,France,Paris,Remote,Full-time,Lead,2024-03-08
+1345,iOS Developer,Enterprise (5000+),Consulting,Switzerland,Zurich,Hybrid,Full-time,Senior,2024-08-15
+1346,iOS Developer,Large (1001-5000),HealthTech,United Kingdom,Manchester,Hybrid,Full-time,Mid,2023-11-01
+1347,DevOps Engineer,Small (51-200),Gaming,Poland,Wroclaw,Hybrid,Contract,Executive,2023-04-09
+1348,Security Engineer,Enterprise (5000+),Logistics,United Kingdom,Bristol,On-site,Part-time,Senior,2023-12-29
+1349,Frontend Engineer,Large (1001-5000),Gaming,Switzerland,Geneva,Remote,Full-time,Lead,2023-04-01
+1350,Machine Learning Engineer,Enterprise (5000+),Cybersecurity,United Kingdom,Edinburgh,Hybrid,Full-time,Executive,2023-10-28
+1351,Data Analyst,Startup (1-50),EdTech,Germany,Frankfurt,Hybrid,Contract,Lead,2024-04-16
+1352,Software Engineer,Startup (1-50),Automotive,Germany,Berlin,Hybrid,Full-time,Senior,2024-08-02
+1353,Backend Engineer,Startup (1-50),FinTech,Australia,Brisbane,Hybrid,Full-time,Entry,2024-12-19
+1354,Data Analyst,Large (1001-5000),E-Commerce,Netherlands,Utrecht,Remote,Contract,Executive,2023-11-05
+1355,Security Engineer,Large (1001-5000),HealthTech,Spain,Barcelona,Hybrid,Full-time,Entry,2023-01-01
+1356,Product Manager,Small (51-200),EdTech,United Kingdom,London,Remote,Full-time,Entry,2024-03-30
+1357,Data Engineer,Large (1001-5000),SaaS,Switzerland,Zurich,Hybrid,Full-time,Senior,2024-07-13
+1358,Cloud Architect,Enterprise (5000+),FinTech,France,Toulouse,Remote,Full-time,Lead,2023-07-09
+1359,Data Analyst,Enterprise (5000+),Automotive,United Kingdom,Manchester,Remote,Full-time,Executive,2024-11-14
+1360,DevOps Engineer,Medium (201-1000),HealthTech,United States,Boston,Hybrid,Full-time,Senior,2024-04-20
+1361,Data Analyst,Medium (201-1000),FinTech,Switzerland,Geneva,Hybrid,Full-time,Entry,2024-08-17
+1362,Cloud Architect,Large (1001-5000),E-Commerce,France,Paris,Remote,Working Student,Executive,2024-04-24
+1363,iOS Developer,Small (51-200),EdTech,Sweden,Gothenburg,Hybrid,Contract,Entry,2023-08-04
+1364,Product Manager,Enterprise (5000+),Consulting,Canada,Montreal,Remote,Full-time,Lead,2024-11-02
+1365,DevOps Engineer,Medium (201-1000),Gaming,Sweden,Gothenburg,On-site,Full-time,Mid,2023-03-11
+1366,Frontend Engineer,Enterprise (5000+),EdTech,Spain,Barcelona,Hybrid,Full-time,Lead,2024-11-05
+1367,Data Analyst,Enterprise (5000+),Cybersecurity,India,Pune,On-site,Full-time,Senior,2024-02-18
+1368,Software Engineer,Small (51-200),Logistics,United States,San Francisco,Remote,Full-time,Mid,2023-11-28
+1369,Machine Learning Engineer,Small (51-200),Gaming,Netherlands,Utrecht,Hybrid,Full-time,Entry,2023-03-07
+1370,iOS Developer,Startup (1-50),Consulting,Germany,Stuttgart,On-site,Full-time,Entry,2024-09-13
+1371,Data Analyst,Startup (1-50),Cybersecurity,Spain,Madrid,Hybrid,Full-time,Senior,2024-07-23
+1372,iOS Developer,Large (1001-5000),E-Commerce,Netherlands,Amsterdam,Hybrid,Full-time,Lead,2024-03-20
+1373,Data Engineer,Startup (1-50),SaaS,India,Hyderabad,Hybrid,Full-time,Executive,2023-02-04
+1374,Backend Engineer,Enterprise (5000+),E-Commerce,United Kingdom,London,Hybrid,Full-time,Lead,2024-11-29
+1375,Machine Learning Engineer,Enterprise (5000+),Consulting,Sweden,Gothenburg,On-site,Full-time,Mid,2024-09-25
+1376,Data Engineer,Large (1001-5000),Cybersecurity,India,Hyderabad,Hybrid,Contract,Lead,2023-03-22
+1377,Data Engineer,Large (1001-5000),Consulting,United Kingdom,Edinburgh,Remote,Full-time,Entry,2023-01-24
+1378,iOS Developer,Medium (201-1000),Automotive,Netherlands,Rotterdam,Remote,Contract,Lead,2023-03-18
+1379,Product Manager,Enterprise (5000+),EdTech,India,Hyderabad,Hybrid,Full-time,Executive,2024-12-15
+1380,DevOps Engineer,Startup (1-50),SaaS,United States,Boston,Remote,Full-time,Senior,2023-12-09
+1381,Machine Learning Engineer,Medium (201-1000),FinTech,Germany,Munich,On-site,Full-time,Executive,2023-08-30
+1382,Business Intelligence Analyst,Startup (1-50),Gaming,Australia,Sydney,Hybrid,Full-time,Executive,2024-09-04
+1383,Product Manager,Small (51-200),FinTech,Sweden,Stockholm,Remote,Full-time,Lead,2024-05-23
+1384,Cloud Architect,Large (1001-5000),SaaS,India,Hyderabad,Hybrid,Contract,Senior,2023-01-22
+1385,Machine Learning Engineer,Enterprise (5000+),FinTech,Germany,Berlin,On-site,Full-time,Executive,2024-07-19
+1386,Frontend Engineer,Small (51-200),E-Commerce,Australia,Sydney,Hybrid,Full-time,Lead,2023-04-29
+1387,Business Intelligence Analyst,Medium (201-1000),FinTech,Australia,Sydney,Remote,Full-time,Senior,2023-09-01
+1388,Business Intelligence Analyst,Small (51-200),EdTech,Netherlands,Amsterdam,Hybrid,Contract,Entry,2024-08-04
+1389,Security Engineer,Startup (1-50),E-Commerce,Germany,Berlin,Remote,Full-time,Mid,2023-10-17
+1390,Backend Engineer,Small (51-200),Gaming,Germany,Hamburg,On-site,Full-time,Executive,2024-05-05
+1391,Cloud Architect,Startup (1-50),Logistics,Spain,Madrid,Remote,Full-time,Entry,2024-12-23
+1392,Machine Learning Engineer,Medium (201-1000),Automotive,Sweden,Gothenburg,On-site,Contract,Lead,2024-10-31
+1393,iOS Developer,Enterprise (5000+),Gaming,Netherlands,Utrecht,Hybrid,Full-time,Senior,2024-12-23
+1394,iOS Developer,Small (51-200),EdTech,Poland,Krakow,On-site,Contract,Entry,2023-08-25
+1395,Product Manager,Startup (1-50),E-Commerce,France,Toulouse,Hybrid,Contract,Mid,2023-02-06
+1396,DevOps Engineer,Startup (1-50),Automotive,Netherlands,Utrecht,Remote,Contract,Lead,2023-10-12
+1397,iOS Developer,Startup (1-50),Logistics,Poland,Krakow,Remote,Full-time,Entry,2023-01-20
+1398,DevOps Engineer,Small (51-200),Gaming,Switzerland,Geneva,Remote,Full-time,Entry,2024-06-29
+1399,Software Engineer,Medium (201-1000),Consulting,Germany,Hamburg,On-site,Working Student,Executive,2023-09-26
+1400,Software Engineer,Enterprise (5000+),FinTech,Poland,Warsaw,Hybrid,Full-time,Senior,2023-04-22
+1401,Security Engineer,Enterprise (5000+),Cybersecurity,India,Mumbai,Hybrid,Full-time,Senior,2024-06-15
+1402,Frontend Engineer,Small (51-200),Automotive,France,Paris,Remote,Full-time,Lead,2023-03-29
+1403,iOS Developer,Enterprise (5000+),Consulting,Netherlands,Utrecht,Hybrid,Full-time,Senior,2023-10-03
+1404,Cloud Architect,Startup (1-50),Consulting,Spain,Barcelona,Remote,Full-time,Executive,2023-09-28
+1405,DevOps Engineer,Large (1001-5000),Consulting,United Kingdom,Bristol,Remote,Full-time,Entry,2024-05-06
+1406,Machine Learning Engineer,Startup (1-50),Cybersecurity,Spain,Valencia,Hybrid,Full-time,Lead,2024-07-18
+1407,DevOps Engineer,Medium (201-1000),Logistics,Canada,Toronto,On-site,Full-time,Mid,2023-05-11
+1408,Data Analyst,Enterprise (5000+),FinTech,Netherlands,Utrecht,Hybrid,Full-time,Mid,2023-07-08
+1409,DevOps Engineer,Medium (201-1000),FinTech,Spain,Valencia,Remote,Part-time,Executive,2023-09-23
+1410,Cloud Architect,Enterprise (5000+),Consulting,France,Paris,Hybrid,Full-time,Senior,2023-04-22
+1411,DevOps Engineer,Enterprise (5000+),Cybersecurity,United States,Boston,Remote,Full-time,Entry,2024-01-16
+1412,Data Engineer,Medium (201-1000),Consulting,Spain,Barcelona,Remote,Full-time,Lead,2023-12-10
+1413,Backend Engineer,Medium (201-1000),FinTech,Switzerland,Basel,Hybrid,Full-time,Lead,2023-10-25
+1414,Data Engineer,Small (51-200),EdTech,United Kingdom,London,On-site,Full-time,Executive,2024-08-18
+1415,Machine Learning Engineer,Enterprise (5000+),Gaming,Sweden,Gothenburg,Remote,Part-time,Lead,2024-10-26
+1416,Machine Learning Engineer,Enterprise (5000+),Gaming,United States,San Francisco,On-site,Full-time,Executive,2024-07-05
+1417,Product Manager,Enterprise (5000+),Logistics,Sweden,Stockholm,Hybrid,Full-time,Entry,2023-11-21
+1418,Business Intelligence Analyst,Small (51-200),Consulting,France,Paris,Hybrid,Contract,Senior,2023-08-25
+1419,Security Engineer,Small (51-200),Gaming,Australia,Melbourne,Hybrid,Working Student,Entry,2024-01-06
+1420,Product Manager,Startup (1-50),Cybersecurity,United States,Seattle,On-site,Full-time,Executive,2023-08-24
+1421,Machine Learning Engineer,Small (51-200),Gaming,Australia,Melbourne,On-site,Full-time,Executive,2024-11-21
+1422,Data Analyst,Medium (201-1000),HealthTech,Poland,Wroclaw,On-site,Full-time,Executive,2023-03-25
+1423,Product Manager,Enterprise (5000+),SaaS,Switzerland,Geneva,Hybrid,Contract,Mid,2023-07-04
+1424,Data Analyst,Large (1001-5000),Logistics,Australia,Sydney,Remote,Full-time,Entry,2023-04-14
+1425,Frontend Engineer,Small (51-200),EdTech,United Kingdom,London,On-site,Full-time,Entry,2024-02-02
+1426,Data Analyst,Enterprise (5000+),Consulting,Switzerland,Geneva,Remote,Full-time,Lead,2023-12-11
+1427,Business Intelligence Analyst,Startup (1-50),Logistics,Poland,Wroclaw,Remote,Working Student,Entry,2024-02-23
+1428,Security Engineer,Medium (201-1000),E-Commerce,Spain,Barcelona,On-site,Part-time,Lead,2024-08-26
+1429,Data Analyst,Enterprise (5000+),Logistics,India,Bangalore,Hybrid,Full-time,Entry,2024-01-24
+1430,Data Analyst,Enterprise (5000+),SaaS,Canada,Vancouver,Remote,Contract,Executive,2023-11-01
+1431,Software Engineer,Enterprise (5000+),Gaming,Australia,Melbourne,On-site,Full-time,Executive,2023-10-20
+1432,Backend Engineer,Small (51-200),SaaS,Canada,Vancouver,Remote,Working Student,Mid,2024-03-16
+1433,Business Intelligence Analyst,Medium (201-1000),HealthTech,India,Pune,Remote,Full-time,Executive,2023-10-22
+1434,DevOps Engineer,Small (51-200),Cybersecurity,France,Lyon,Remote,Working Student,Mid,2023-04-19
+1435,iOS Developer,Startup (1-50),E-Commerce,Netherlands,Utrecht,Remote,Contract,Mid,2023-01-29
+1436,Product Manager,Small (51-200),FinTech,Poland,Warsaw,Remote,Contract,Executive,2024-01-14
+1437,Business Intelligence Analyst,Large (1001-5000),Automotive,Netherlands,Rotterdam,Hybrid,Contract,Lead,2023-04-23
+1438,DevOps Engineer,Large (1001-5000),Automotive,Sweden,Stockholm,Remote,Contract,Lead,2024-11-15
+1439,Data Engineer,Startup (1-50),Automotive,United States,Seattle,Hybrid,Full-time,Mid,2024-04-09
+1440,Product Manager,Medium (201-1000),HealthTech,Spain,Valencia,On-site,Full-time,Entry,2024-12-23
+1441,Machine Learning Engineer,Startup (1-50),SaaS,India,Pune,On-site,Full-time,Executive,2023-05-21
+1442,Machine Learning Engineer,Medium (201-1000),E-Commerce,Poland,Krakow,Hybrid,Full-time,Mid,2024-05-23
+1443,Machine Learning Engineer,Enterprise (5000+),FinTech,France,Paris,On-site,Part-time,Entry,2024-03-20
+1444,Product Manager,Small (51-200),Automotive,United States,Austin,Hybrid,Full-time,Executive,2024-09-20
+1445,Business Intelligence Analyst,Medium (201-1000),E-Commerce,Switzerland,Basel,Hybrid,Full-time,Mid,2023-11-04
+1446,Cloud Architect,Large (1001-5000),Consulting,Netherlands,Rotterdam,On-site,Full-time,Lead,2024-07-10
+1447,Data Engineer,Startup (1-50),Automotive,Australia,Melbourne,On-site,Contract,Mid,2024-03-05
+1448,Machine Learning Engineer,Startup (1-50),HealthTech,Australia,Melbourne,Remote,Working Student,Lead,2023-12-22
+1449,Security Engineer,Large (1001-5000),Cybersecurity,Sweden,Gothenburg,On-site,Contract,Mid,2024-02-26
+1450,Software Engineer,Medium (201-1000),Gaming,Spain,Madrid,Hybrid,Contract,Senior,2023-03-04
+1451,iOS Developer,Large (1001-5000),Gaming,India,Pune,Hybrid,Full-time,Senior,2023-09-24
+1452,DevOps Engineer,Medium (201-1000),Logistics,Germany,Hamburg,Hybrid,Full-time,Mid,2024-02-24
+1453,Data Analyst,Small (51-200),Cybersecurity,Netherlands,Utrecht,On-site,Full-time,Executive,2024-09-17
+1454,Business Intelligence Analyst,Startup (1-50),Gaming,Canada,Toronto,On-site,Full-time,Executive,2023-04-03
+1455,Backend Engineer,Startup (1-50),Consulting,Sweden,Gothenburg,Hybrid,Full-time,Executive,2024-07-02
+1456,Product Manager,Small (51-200),Consulting,Netherlands,Amsterdam,Remote,Full-time,Lead,2023-12-06
+1457,Product Manager,Startup (1-50),EdTech,Switzerland,Zurich,Remote,Full-time,Mid,2023-04-15
+1458,DevOps Engineer,Small (51-200),SaaS,India,Mumbai,Remote,Full-time,Entry,2023-02-04
+1459,Data Engineer,Large (1001-5000),Automotive,France,Toulouse,Remote,Part-time,Lead,2023-03-28
+1460,Product Manager,Startup (1-50),Cybersecurity,United States,San Francisco,Remote,Contract,Lead,2023-06-05
+1461,Frontend Engineer,Enterprise (5000+),Gaming,United States,Boston,On-site,Contract,Mid,2024-06-08
+1462,iOS Developer,Large (1001-5000),Cybersecurity,Sweden,Stockholm,Remote,Full-time,Senior,2024-04-27
+1463,Frontend Engineer,Small (51-200),Logistics,Switzerland,Geneva,On-site,Full-time,Entry,2023-10-19
+1464,Frontend Engineer,Large (1001-5000),EdTech,Sweden,Stockholm,Hybrid,Working Student,Entry,2023-04-21
+1465,Business Intelligence Analyst,Large (1001-5000),Logistics,Australia,Sydney,On-site,Full-time,Entry,2024-07-30
+1466,Backend Engineer,Startup (1-50),Logistics,United States,Seattle,Remote,Full-time,Mid,2024-08-30
+1467,Data Analyst,Enterprise (5000+),Cybersecurity,Netherlands,Amsterdam,On-site,Full-time,Lead,2023-08-27
+1468,iOS Developer,Medium (201-1000),FinTech,Germany,Frankfurt,Hybrid,Contract,Lead,2023-11-26
+1469,Software Engineer,Small (51-200),EdTech,Sweden,Gothenburg,On-site,Contract,Senior,2024-05-26
+1470,Machine Learning Engineer,Large (1001-5000),HealthTech,Canada,Montreal,Hybrid,Full-time,Senior,2023-04-18
+1471,Data Engineer,Small (51-200),HealthTech,Switzerland,Basel,On-site,Full-time,Lead,2023-06-20
+1472,Data Engineer,Large (1001-5000),EdTech,Netherlands,Rotterdam,Hybrid,Full-time,Entry,2024-05-13
+1473,Frontend Engineer,Medium (201-1000),Automotive,United Kingdom,Bristol,Remote,Working Student,Entry,2024-06-19
+1474,Backend Engineer,Small (51-200),SaaS,Canada,Montreal,Remote,Full-time,Executive,2024-09-20
+1475,Product Manager,Medium (201-1000),Consulting,Sweden,Gothenburg,Hybrid,Full-time,Executive,2023-05-19
+1476,Software Engineer,Large (1001-5000),FinTech,United Kingdom,Bristol,Remote,Full-time,Senior,2023-11-16
+1477,Machine Learning Engineer,Enterprise (5000+),Cybersecurity,Sweden,Stockholm,Hybrid,Full-time,Entry,2024-04-24
+1478,Data Engineer,Enterprise (5000+),FinTech,Poland,Warsaw,On-site,Full-time,Senior,2023-07-17
+1479,Frontend Engineer,Medium (201-1000),Automotive,France,Lyon,Hybrid,Contract,Executive,2024-07-28
+1480,Data Engineer,Small (51-200),E-Commerce,India,Hyderabad,Remote,Full-time,Executive,2023-09-27
+1481,Data Analyst,Enterprise (5000+),Cybersecurity,Poland,Warsaw,Hybrid,Full-time,Executive,2024-08-29
+1482,Security Engineer,Large (1001-5000),SaaS,Poland,Krakow,Remote,Full-time,Executive,2023-08-10
+1483,Data Analyst,Small (51-200),HealthTech,United States,Boston,Hybrid,Full-time,Mid,2023-02-23
+1484,Frontend Engineer,Medium (201-1000),SaaS,United Kingdom,Bristol,Hybrid,Contract,Lead,2024-07-27
+1485,Frontend Engineer,Medium (201-1000),EdTech,Switzerland,Geneva,Hybrid,Full-time,Lead,2023-03-22
+1486,Data Analyst,Small (51-200),Logistics,Poland,Warsaw,On-site,Full-time,Senior,2024-12-12
+1487,Data Engineer,Large (1001-5000),Consulting,France,Toulouse,Hybrid,Full-time,Executive,2024-04-22
+1488,Security Engineer,Small (51-200),SaaS,Spain,Barcelona,Hybrid,Contract,Lead,2024-01-27
+1489,Security Engineer,Small (51-200),FinTech,Canada,Toronto,Hybrid,Full-time,Entry,2024-08-23
+1490,Data Engineer,Medium (201-1000),Automotive,France,Lyon,Hybrid,Full-time,Senior,2023-02-04
+1491,Cloud Architect,Large (1001-5000),Automotive,Spain,Barcelona,Remote,Full-time,Lead,2023-10-08
+1492,Business Intelligence Analyst,Large (1001-5000),Logistics,Spain,Madrid,On-site,Full-time,Entry,2023-06-27
+1493,Cloud Architect,Startup (1-50),E-Commerce,Australia,Brisbane,Remote,Full-time,Executive,2024-12-23
+1494,Data Analyst,Large (1001-5000),Logistics,Sweden,Stockholm,On-site,Full-time,Entry,2024-10-14
+1495,Backend Engineer,Enterprise (5000+),Cybersecurity,Sweden,Stockholm,Remote,Contract,Entry,2023-01-18
+1496,Backend Engineer,Enterprise (5000+),FinTech,Canada,Montreal,Hybrid,Full-time,Mid,2024-11-11
+1497,Cloud Architect,Startup (1-50),E-Commerce,Switzerland,Geneva,Remote,Contract,Entry,2023-10-01
+1498,DevOps Engineer,Medium (201-1000),Gaming,United States,New York,Hybrid,Full-time,Entry,2023-06-27
+1499,Software Engineer,Medium (201-1000),Logistics,Spain,Valencia,Hybrid,Full-time,Senior,2024-08-04
+1500,Business Intelligence Analyst,Startup (1-50),HealthTech,Sweden,Stockholm,Remote,Full-time,Lead,2023-07-10
