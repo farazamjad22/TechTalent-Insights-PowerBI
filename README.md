@@ -9,6 +9,7 @@ Built as a hands-on Power BI portfolio project covering data modelling, DAX meas
 ## 📊 Dashboard Pages
 
 ### 1. Market Overview
+![Market Overview](https://raw.githubusercontent.com/farazamjad22/TechTalent-Insights-PowerBI/main/screenshots/01_market_overview.png)
 - **1,500** total job postings across 12 countries
 - **$136.8K** average salary (USD)
 - Job distribution by country, remote type, employment type, and posting date
@@ -16,6 +17,7 @@ Built as a hands-on Power BI portfolio project covering data modelling, DAX meas
 - Full-time roles make up 70.7% of all postings
 
 ### 2. Salary Intelligence
+![Salary Intelligence](https://raw.githubusercontent.com/farazamjad22/TechTalent-Insights-PowerBI/main/screenshots/02_salary_intelligence.png)
 - Average salary broken down by **role, experience level, country, and company size**
 - Cloud Architects and ML Engineers command the highest salaries (~$180K+)
 - Executive-level roles average 3x Entry-level compensation
@@ -23,12 +25,14 @@ Built as a hands-on Power BI portfolio project covering data modelling, DAX meas
 - Average benefits score: **3.75 / 5.0**
 
 ### 3. Skills in Demand
+![Skills in Demand](https://raw.githubusercontent.com/farazamjad22/TechTalent-Insights-PowerBI/main/screenshots/03_skills_in_demand.png)
 - **Python** is the most demanded skill globally (700+ mentions)
 - **AWS** and **SQL** follow as the next most critical skills
 - Full skills matrix: each country vs. every skill — showing regional demand differences
 - Interactive slicer to filter by specific skill
 
 ### 4. Germany Deep Dive
+![Germany Deep Dive](https://raw.githubusercontent.com/farazamjad22/TechTalent-Insights-PowerBI/main/screenshots/04_germany_deep_dive.png)
 - Germany vs. top 5 countries salary comparison (US, Switzerland, Netherlands, UK)
 - Top German cities by average salary: Munich, Hamburg, Frankfurt, Berlin, Stuttgart
 - Role distribution in Germany — Machine Learning Engineer leads skill demand
